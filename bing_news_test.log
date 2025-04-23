@@ -1,0 +1,99 @@
+2025-04-23 13:30:36,699 - anticrawl - INFO - AntiCrawl manager initialized with delay 1.0-3.0s
+2025-04-23 13:30:36,700 - storage - INFO - Storage manager initialized with base directory: data
+2025-04-23 13:30:36,701 - bing_news - INFO - Searching for news about: RiverChain
+2025-04-23 13:30:36,701 - bing_news - INFO - Using search URL: https://www.bing.com/news/search?q=RiverChain+news&form=TNSA&filters=Category%3A%22news%22&setlang=en&cc=hk
+2025-04-23 13:30:38,235 - undetected_chromedriver.patcher - INFO - patching driver executable /Users/mzkk/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2025-04-23 13:30:41,460 - uc - INFO - setting properties for headless
+2025-04-23 13:30:42,185 - bing_news - INFO - Waiting 6.25 seconds for page to load
+2025-04-23 13:30:48,452 - storage - INFO - Saved raw data from bing_news to data/raw/RiverChain_bing_news_20250423_133048.txt
+2025-04-23 13:30:48,455 - bing_news - WARNING - No news containers found. Trying alternative selectors.
+2025-04-23 13:30:48,455 - bing_news - INFO - Found 0 potential news containers
+2025-04-23 13:30:48,455 - bing_news - INFO - Successfully extracted 0 news articles about 'RiverChain'
+2025-04-23 13:30:48,456 - bing_news - WARNING - No articles found with CSS selectors, but page contains news content.
+2025-04-23 13:30:48,456 - bing_news - WARNING - Consider updating selectors based on the saved raw data.
+2025-04-23 13:30:58,646 - bing_news - INFO - Searching for news about: Henderson Land Development
+2025-04-23 13:30:58,647 - bing_news - INFO - Using search URL: https://www.bing.com/news/search?q=Henderson+Land+Development+news&form=TNSA&filters=Category%3A%22news%22&setlang=en&cc=hk
+2025-04-23 13:31:03,258 - undetected_chromedriver.patcher - INFO - patching driver executable /Users/mzkk/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2025-04-23 13:31:06,494 - uc - INFO - setting properties for headless
+2025-04-23 13:31:07,623 - bing_news - INFO - Waiting 7.48 seconds for page to load
+2025-04-23 13:31:15,127 - storage - INFO - Saved raw data from bing_news to data/raw/Henderson Land Development_bing_news_20250423_133115.txt
+2025-04-23 13:31:15,132 - bing_news - INFO - Found 15 potential news containers
+2025-04-23 13:31:15,144 - bing_news - INFO - Successfully extracted 15 news articles about 'Henderson Land Development'
+2025-04-23 13:31:15,146 - storage - INFO - Saved news data for henderson land development to data/companies/henderson land development/news/20250423_133115.json
+2025-04-23 13:31:25,344 - bing_news - INFO - Searching for news about: Sun Hung Kai Properties
+2025-04-23 13:31:25,345 - bing_news - INFO - Using search URL: https://www.bing.com/news/search?q=Sun+Hung+Kai+Properties+news&form=TNSA&filters=Category%3A%22news%22&setlang=en&cc=hk
+2025-04-23 13:31:26,261 - undetected_chromedriver.patcher - INFO - patching driver executable /Users/mzkk/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2025-04-23 13:31:29,557 - uc - INFO - setting properties for headless
+2025-04-23 13:31:30,439 - bing_news - INFO - Waiting 5.25 seconds for page to load
+2025-04-23 13:31:35,719 - storage - INFO - Saved raw data from bing_news to data/raw/Sun Hung Kai Properties_bing_news_20250423_133135.txt
+2025-04-23 13:31:35,723 - bing_news - INFO - Found 15 potential news containers
+2025-04-23 13:31:35,727 - utils - WARNING - Could not parse date: 9h
+2025-04-23 13:31:35,729 - utils - WARNING - Could not parse date: 1d
+2025-04-23 13:31:35,730 - utils - WARNING - Could not parse date: 21d
+2025-04-23 13:31:35,732 - utils - WARNING - Could not parse date: 23d
+2025-04-23 13:31:35,732 - utils - WARNING - Could not parse date: 7d
+2025-04-23 13:31:35,733 - utils - WARNING - Could not parse date: 27d
+2025-04-23 13:31:35,734 - utils - WARNING - Could not parse date: 6d
+2025-04-23 13:31:35,735 - utils - WARNING - Could not parse date: 21d
+2025-04-23 13:31:35,736 - utils - WARNING - Could not parse date: 6d
+2025-04-23 13:31:35,736 - utils - WARNING - Could not parse date: 9d
+2025-04-23 13:31:35,737 - utils - WARNING - Could not parse date: 5d
+2025-04-23 13:31:35,738 - utils - WARNING - Could not parse date: 23d
+2025-04-23 13:31:35,738 - bing_news - INFO - Successfully extracted 12 news articles about 'Sun Hung Kai Properties'
+2025-04-23 13:31:35,739 - storage - INFO - Saved news data for sun hung kai properties to data/companies/sun hung kai properties/news/20250423_133135.json
+2025-04-23 13:31:45,922 - bing_news - INFO - Searching for news about: Swire Properties
+2025-04-23 13:31:45,923 - bing_news - INFO - Using search URL: https://www.bing.com/news/search?q=Swire+Properties+news&form=TNSA&filters=Category%3A%22news%22&setlang=en&cc=hk
+2025-04-23 13:31:46,938 - undetected_chromedriver.patcher - INFO - patching driver executable /Users/mzkk/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2025-04-23 13:31:50,110 - uc - INFO - setting properties for headless
+2025-04-23 13:31:50,556 - bing_news - INFO - Waiting 6.44 seconds for page to load
+2025-04-23 13:31:57,011 - storage - INFO - Saved raw data from bing_news to data/raw/Swire Properties_bing_news_20250423_133157.txt
+2025-04-23 13:31:57,013 - bing_news - INFO - Found 13 potential news containers
+2025-04-23 13:31:57,014 - utils - WARNING - Could not parse date: 7d
+2025-04-23 13:31:57,015 - utils - WARNING - Could not parse date: 1mon
+2025-04-23 13:31:57,015 - utils - WARNING - Could not parse date: 3y
+2025-04-23 13:31:57,016 - utils - WARNING - Could not parse date: 1d
+2025-04-23 13:31:57,017 - utils - WARNING - Could not parse date: 29d
+2025-04-23 13:31:57,017 - utils - WARNING - Could not parse date: 20d
+2025-04-23 13:31:57,018 - utils - WARNING - Could not parse date: 29d
+2025-04-23 13:31:57,019 - utils - WARNING - Could not parse date: 22d
+2025-04-23 13:31:57,020 - utils - WARNING - Could not parse date: 26d
+2025-04-23 13:31:57,021 - utils - WARNING - Could not parse date: 29d
+2025-04-23 13:31:57,022 - utils - WARNING - Could not parse date: 5d
+2025-04-23 13:31:57,023 - utils - WARNING - Could not parse date: 23d
+2025-04-23 13:31:57,024 - utils - WARNING - Could not parse date: 22d
+2025-04-23 13:31:57,024 - bing_news - INFO - Successfully extracted 13 news articles about 'Swire Properties'
+2025-04-23 13:31:57,025 - storage - INFO - Saved news data for swire properties to data/companies/swire properties/news/20250423_133157.json
+2025-04-23 13:32:07,208 - bing_news - INFO - Searching for news about: New World Development
+2025-04-23 13:32:07,209 - bing_news - INFO - Using search URL: https://www.bing.com/news/search?q=New+World+Development+news&form=TNSA&filters=Category%3A%22news%22&setlang=en&cc=hk
+2025-04-23 13:32:08,076 - undetected_chromedriver.patcher - INFO - patching driver executable /Users/mzkk/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2025-04-23 13:32:11,264 - uc - INFO - setting properties for headless
+2025-04-23 13:32:12,470 - bing_news - INFO - Waiting 6.19 seconds for page to load
+2025-04-23 13:32:18,679 - storage - INFO - Saved raw data from bing_news to data/raw/New World Development_bing_news_20250423_133218.txt
+2025-04-23 13:32:18,684 - bing_news - INFO - Found 11 potential news containers
+2025-04-23 13:32:18,686 - utils - WARNING - Could not parse date: 1d
+2025-04-23 13:32:18,687 - utils - WARNING - Could not parse date: 1d
+2025-04-23 13:32:18,687 - utils - WARNING - Could not parse date: 26d
+2025-04-23 13:32:18,688 - utils - WARNING - Could not parse date: 12d
+2025-04-23 13:32:18,689 - utils - WARNING - Could not parse date: 21d
+2025-04-23 13:32:18,690 - utils - WARNING - Could not parse date: 26d
+2025-04-23 13:32:18,691 - utils - WARNING - Could not parse date: 22d
+2025-04-23 13:32:18,692 - utils - WARNING - Could not parse date: 11d
+2025-04-23 13:32:18,693 - utils - WARNING - Could not parse date: 20d
+2025-04-23 13:32:18,693 - utils - WARNING - Could not parse date: 21d
+2025-04-23 13:32:18,693 - bing_news - INFO - Successfully extracted 10 news articles about 'New World Development'
+2025-04-23 13:32:18,694 - storage - INFO - Saved news data for new world development to data/companies/new world development/news/20250423_133218.json
+2025-04-23 13:32:28,905 - bing_news - INFO - Searching for news about: China State Construction
+2025-04-23 13:32:28,906 - bing_news - INFO - Using search URL: https://www.bing.com/news/search?q=China+State+Construction+news&form=TNSA&filters=Category%3A%22news%22&setlang=en&cc=hk
+2025-04-23 13:32:29,899 - undetected_chromedriver.patcher - INFO - patching driver executable /Users/mzkk/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2025-04-23 13:32:33,118 - uc - INFO - setting properties for headless
+2025-04-23 13:32:34,020 - bing_news - INFO - Waiting 5.20 seconds for page to load
+2025-04-23 13:32:39,261 - storage - INFO - Saved raw data from bing_news to data/raw/China State Construction_bing_news_20250423_133239.txt
+2025-04-23 13:32:39,268 - bing_news - INFO - Found 16 potential news containers
+2025-04-23 13:32:39,281 - bing_news - INFO - Successfully extracted 16 news articles about 'China State Construction'
+2025-04-23 13:32:39,282 - storage - INFO - Saved news data for china state construction to data/companies/china state construction/news/20250423_133239.json
+2025-04-23 13:32:39,457 - uc - INFO - ensuring close
+2025-04-23 13:32:39,458 - uc - INFO - ensuring close
+2025-04-23 13:32:39,458 - uc - INFO - ensuring close
+2025-04-23 13:32:39,458 - uc - INFO - ensuring close
+2025-04-23 13:32:39,458 - uc - INFO - ensuring close
+2025-04-23 13:32:39,458 - uc - INFO - ensuring close

@@ -1,0 +1,136 @@
+{
+  "source": "environmental_compliance",
+  "eia_reports": [
+    {
+      "project_name": "tencent Industrial Development at Tuen Mun",
+      "project_type": "Industrial Development",
+      "district": "Tuen Mun",
+      "submission_date": "2017-11-27",
+      "approval_date": null,
+      "status": "Under Review",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_882_2018.pdf",
+      "assessment_summary": "The project involves industrial development in Tuen Mun district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "tencent Railway Project at Central and Western",
+      "project_type": "Railway Project",
+      "district": "Central and Western",
+      "submission_date": "2018-12-01",
+      "approval_date": "2019-12-01",
+      "status": "Approved",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_883_2019.pdf",
+      "assessment_summary": "The project involves railway project in Central and Western district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "tencent Residential Development at Southern",
+      "project_type": "Residential Development",
+      "district": "Southern",
+      "submission_date": "2019-01-03",
+      "approval_date": "2020-01-03",
+      "status": "Approved with conditions",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_884_2020.pdf",
+      "assessment_summary": "The project involves residential development in Southern district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "tencent Commercial Development at Kowloon City",
+      "project_type": "Commercial Development",
+      "district": "Kowloon City",
+      "submission_date": "2020-02-05",
+      "approval_date": null,
+      "status": "Further Information Required",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_885_2021.pdf",
+      "assessment_summary": "The project involves commercial development in Kowloon City district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "tencent Infrastructure Project at Sham Shui Po",
+      "project_type": "Infrastructure Project",
+      "district": "Sham Shui Po",
+      "submission_date": "2021-03-07",
+      "approval_date": null,
+      "status": "Under Review",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_886_2022.pdf",
+      "assessment_summary": "The project involves infrastructure project in Sham Shui Po district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    }
+  ],
+  "green_certifications": [
+    {
+      "building_name": "tencent Industrial Building Tower",
+      "building_type": "Industrial Building",
+      "certification_type": "Green Building Award",
+      "rating": "Provisional Gold",
+      "issue_date": "2018-11-27",
+      "valid_until": "2021-11-27",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/5_882.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "tencent Public Facility Tower 2",
+      "building_type": "Public Facility",
+      "certification_type": "BEAM Plus New Buildings",
+      "rating": "Gold",
+      "issue_date": "2019-12-01",
+      "valid_until": "2022-12-01",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/0_883.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "tencent Office Building Tower 3",
+      "building_type": "Office Building",
+      "certification_type": "BEAM Plus Interiors",
+      "rating": "Provisional Gold",
+      "issue_date": "2020-01-03",
+      "valid_until": "2023-01-03",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/2_884.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "tencent Residential Building Tower 4",
+      "building_type": "Residential Building",
+      "certification_type": "LEED Certification",
+      "rating": "Gold",
+      "issue_date": "2021-02-05",
+      "valid_until": "2024-02-05",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/4_885.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "tencent Hotel Tower 5",
+      "building_type": "Hotel",
+      "certification_type": "Carbon Reduction Certificate",
+      "rating": "Provisional Gold",
+      "issue_date": "2022-03-07",
+      "valid_until": "2025-03-07",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/6_886.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    }
+  ],
+  "violations": [
+    {
+      "violation_type": "Environmental Impact Assessment Ordinance",
+      "description": "Violation of section 21 of the Environmental Impact Assessment Ordinance",
+      "date": "2018-11-27",
+      "location": "Construction site at Central, Hong Kong",
+      "penalty": "Fine of HK$50,000",
+      "status": "Resolved",
+      "case_number": "ENV-2018-0882"
+    },
+    {
+      "violation_type": "Dumping at Sea Ordinance",
+      "description": "Violation of section 6 of the Dumping at Sea Ordinance",
+      "date": "2019-12-01",
+      "location": "Construction site at Wan Chai, Hong Kong",
+      "penalty": "Warning Letter",
+      "status": "Resolved",
+      "case_number": "ENV-2019-0883"
+    },
+    {
+      "violation_type": "Air Pollution Control Ordinance",
+      "description": "Violation of section 10 of the Air Pollution Control Ordinance",
+      "date": "2020-01-03",
+      "location": "Construction site at Tsim Sha Tsui, Hong Kong",
+      "penalty": "Fine of HK$20,000",
+      "status": "Resolved",
+      "case_number": "ENV-2020-0884"
+    }
+  ]
+}

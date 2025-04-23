@@ -1,0 +1,1510 @@
+<html lang="" class=" svg csspointerevents supports smil no-touchevents flexbox csstransforms csstransforms3d csstransitions no-cssgridlegacy cssgrid"><head>
+	<meta charset="utf-8">
+<link rel="preload" as="style" href="/Magazine/core.css?p=7605401680538657">
+<link rel="preload" as="script" href="/Magazine/core.js?p=7605401680538657">
+	
+	
+
+<!--preload fonts-->
+<link rel="preload" as="font" href="https://www.building.co.uk/magazine/fonts/DomaineTextWeb-Regular.woff" type="font/woff" crossorigin="anonymous">
+<link rel="preload" as="font" href="https://www.building.co.uk/magazine/fonts/DomaineTextWeb-Bold.woff" type="font/woff" crossorigin="anonymous">
+<link rel="preload" as="font" href="https://www.building.co.uk/magazine/fonts/DomaineTextWeb-Medium.woff" type="font/woff" crossorigin="anonymous">
+<link rel="preload" as="font" href="https://www.building.co.uk/magazine/fonts/SharpSans-No2-Semibold.woff" type="font/woff" crossorigin="anonymous">
+<link rel="preload" as="font" href="https://www.building.co.uk/magazine/fonts/SharpSans-No2-Medium.woff" type="font/woff" crossorigin="anonymous">
+
+<title>Page Not Found | Building</title>
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<meta name="momentnowdate" content="2025-04-23 05:20:10.829">
+<meta name="momentlocale" content="en-gb">
+<meta name="momentlocaleformat" content="D MMMM YYYY">
+<meta name="momentrelative" content="false">
+<meta name="momentrelativeformat" content="YYYY,MM,DD">
+<meta name="momentrelativemorethan" content="10">
+
+	
+	<meta name="blockthis" content="blockGA">
+<meta name="showwallpaper" content="true">
+<meta name="navcode" content="0">
+	<meta name="robots" content="noindex, nofollow">
+
+	
+<link rel="icon" href="/magazine/dest/graphics/favicons/favicon-32x32.png">
+<!--[if IE]><link rel="shortcut icon" href="/magazine/dest/graphics/favicons/favicon.ico" /><![endif]-->
+<link rel="apple-touch-icon-precomposed" href="/magazine/dest/graphics/favicons/apple-touch-icon-precomposed.png">
+<meta name="msapplication-TileImage" content="/magazine/dest/graphics/favicons/mstile-144x144.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+	
+	<link href="/Magazine/core.css?p=7605401680538657" rel="stylesheet" type="text/css">
+<link href="/Magazine/print.css?p=7605401680538657" rel="stylesheet" type="text/css" media="print">
+
+
+	
+<script src="https://js.hscollectedforms.net/collectedforms.js" type="text/javascript" id="CollectedForms-4446385" crossorigin="anonymous" data-leadin-portal-id="4446385" data-leadin-env="prod" data-loader="hs-scriptloader" data-hsjs-portal="4446385" data-hsjs-env="prod" data-hsjs-hublet="na1"></script><script src="https://js.hs-banner.com/v2/4446385/banner.js" type="text/javascript" id="cookieBanner-4446385" data-cookieconsent="ignore" data-hs-ignore="true" data-loader="hs-scriptloader" data-hsjs-portal="4446385" data-hsjs-env="prod" data-hsjs-hublet="na1"></script><script src="https://js.hs-analytics.net/analytics/1745382000000/4363057.js" type="text/javascript" id="hs-analytics"></script><script src="https://js.hs-banner.com/v2/4363057/banner.js" type="text/javascript" id="cookieBanner-4363057" data-cookieconsent="ignore" data-hs-ignore="true" data-loader="hs-scriptloader" data-hsjs-portal="4363057" data-hsjs-env="prod" data-hsjs-hublet="na1"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-758233501&amp;l=dataLayer&amp;cx=c&amp;gtm=45je54l0v9103129340za200zb77413376&amp;tag_exp=102803279~102813109~102887800~102926062~103027016~103051953~103055465~103077950~103106314~103106316"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://connect.facebook.net/signals/config/346629299285248?v=2.9.199&amp;r=stable&amp;domain=www.building.co.uk&amp;hme=53363064397d256bdf8f213dd9a9e18c291fc2ed691e4233e4a9e488f248f817&amp;ex_m=73%2C128%2C113%2C117%2C64%2C5%2C106%2C72%2C18%2C100%2C92%2C53%2C57%2C182%2C203%2C210%2C206%2C207%2C209%2C31%2C107%2C55%2C80%2C208%2C177%2C180%2C204%2C205%2C190%2C139%2C43%2C195%2C192%2C193%2C36%2C152%2C17%2C52%2C199%2C198%2C141%2C20%2C42%2C1%2C45%2C68%2C69%2C70%2C74%2C96%2C19%2C16%2C99%2C95%2C94%2C114%2C54%2C116%2C41%2C115%2C32%2C97%2C28%2C178%2C181%2C149%2C13%2C14%2C15%2C7%2C8%2C27%2C24%2C25%2C60%2C65%2C67%2C78%2C56%2C105%2C108%2C29%2C79%2C11%2C9%2C83%2C50%2C23%2C110%2C109%2C111%2C102%2C12%2C22%2C3%2C40%2C77%2C21%2C161%2C89%2C135%2C49%2C48%2C101%2C76%2C0%2C98%2C59%2C87%2C35%2C30%2C85%2C86%2C91%2C39%2C6%2C93%2C84%2C46%2C34%2C37%2C90%2C4%2C88%2C248%2C175%2C126%2C164%2C157%2C2%2C38%2C66%2C44%2C112%2C47%2C82%2C71%2C118%2C63%2C62%2C33%2C103%2C61%2C58%2C51%2C81%2C75%2C26%2C104%2C10%2C119" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://script.crazyegg.com/pages/scripts/0084/9821.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-5RQY5FV9HZ&amp;l=dataLayer&amp;cx=c&amp;gtm=45He54l0v77413376za200&amp;tag_exp=102803279~102813109~102887800~102926062~103027016~103051953~103055465~103077950~103106314~103106316"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-JWEMMCWLBB&amp;l=dataLayer&amp;cx=c&amp;gtm=45He54l1h2v76955665za200&amp;tag_exp=101509157~102803279~102813109~102887800~102926062~103027016~103051953~103055465~103077950~103106314~103106316"></script><script src="https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202504170101/show_ads_impl.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PBKHRBX"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TKPD9ZQ"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+	
+<script>var newLang={"more":{"default":"Show more","searchtype":"Show more","searchdates":"Show more"},"less":{"default":"Show fewer","searchtype":"Show fewer","searchdates":"Show fewer"},"show":{"default":"show"},"hide":{"default":"hide"},"caption":{"show":"show caption","hide":"hide caption"},"carousel":{"play":"play slideshow","pause":"pause slideshow"}};</script>
+	<script type="text/javascript">
+					var IPState = {
+					
+						useripstate: false,
+						useripname: ''
+						
+					};
+				</script>
+<script type="text/javascript">
+          
+					window.dataLayer = window.dataLayer || [];
+					window.dataLayer.push({'StoryID':undefined});
+					window.dataLayer.push({'StoryFormatProperty':undefined});
+					
+					window.dataLayer.push({'StoryCategories':'null'});
+					
+					window.dataLayer.push({'StoryLayout':undefined});
+					window.dataLayer.push({'StoryWidth':undefined});
+					
+					
+					window.dataLayer.push({'StoryLayoutCode':undefined});
+					
+					window.dataLayer.push({'StoryFormatCode':'null'});
+					
+					window.dataLayer.push({'StoryTypeCode':'null'});
+					
+					window.dataLayer.push({'StoryCategoriesCodes':'null'});
+					
+					window.dataLayer.push({'StoryFullNavPath':'null'});
+					       
+					window.dataLayer.push({'UserID':undefined});
+					window.dataLayer.push({'NavCode':undefined});
+					window.dataLayer.push({'MicrositeNavCode':-1});
+					window.dataLayer.push({'NavKey':undefined});
+          window.dataLayer.push({'NavigationAreaNavCode':-1});
+          
+          </script>
+<script type="text/javascript">
+//dataLayer array declaration
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({'loggedin':'False'});
+window.dataLayer.push({'accessStatus':'Granted'});
+window.dataLayer.push({'template':'Page_Not_Found'});
+window.dataLayer.push({'storynav':undefined});
+window.dataLayer.push({'storycategoriescodes':undefined});
+window.dataLayer.push({'storypubdate':undefined});
+window.dataLayer.push({'issueDate': undefined});  
+window.dataLayer.push({'contenttemplate': 'Page_Not_Found'});
+window.dataLayer.push({'primarynav': undefined});
+window.dataLayer.push({'primarynavlabel': undefined});
+window.dataLayer.push({'storysection': undefined});
+window.dataLayer.push({'UserStateLoggedIn':'False'});
+window.dataLayer.push({'Bylines':undefined});
+window.dataLayer.push({'FullNavPath':undefined});
+
+
+
+
+
+</script>
+	<link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet" type="text/css">
+<style>
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600);
+
+    
+.spinAdvert {
+    background: #fff;
+}
+        
+#rhcreflow-desktop .tabbedblocks{
+   display: none;
+}
+    
+	 
+.ad-style1 .sleeve>div {
+    padding: 0;
+}
+
+</style>
+
+
+<!-- START PowerBi Styling -->
+<style>
+	button.bi-embed { float: right; margin-top: -15px; }
+
+	.bi-report,
+	.bi-landscape,
+	.bi-portrait,
+	.bi-square{
+		position: relative;
+		overflow: hidden;
+		width: 100%;
+
+	} 
+	.bi-report{
+		padding-top: 56.25%;
+	}
+	.bi-landscape{
+		padding-top: 66.67%;
+	}
+	.bi-portrait{
+		padding-top: 150%;
+	}
+	.bi-square{
+		padding-top: 100%;
+	}
+	
+	.powerbi iframe{
+	border:1px solid #DCDCDC;
+	}
+	.bi-report iframe,
+	.bi-landscape iframe,
+	.bi-portrait iframe,
+	.bi-square iframe { 
+		position: absolute;
+		top: 0;
+		left: 0;
+		bottom: 0;
+		right: 0;
+		width: 100%;
+		height: 100%;
+	}
+</style>
+
+<!-- END PowerBi Styling -->
+<!-- Fix for AMGCS-455 -->
+<style>
+
+  @media screen and (min-width:1024px) {
+    .wallpaper-applied.story-full-layout blockquote {
+      margin-left: -490px;
+      max-width: 980px;
+    }
+  }
+  
+  @media screen and (min-width:1280px) {
+    .wallpaper-applied.story-full-layout blockquote {
+      margin-left: -154px;
+    }
+  }
+</style>
+
+
+<!-- End Fix for AMGCS-455 -->
+
+<!-- patch start: AMGCS-382 -->
+<style>
+
+.story-full-layout .factfile blockquote {
+  margin: auto;
+  width: auto;
+  max-width: none;
+  left: auto;
+  right: auto;
+  position: static;
+}
+
+.story-full-layout .factfile blockquote > * {
+  width: auto;
+}
+
+</style>
+<!-- patch end: AMGCS-382 -->
+
+<!-- patch start: AMGCS-92 -->
+<style>
+
+
+.factfile.factfile_dark a:hover{
+	color:#fff;
+}
+.storytext .inline_gallery.style1-gallery .galleryscroll .text.content{
+	border-bottom: 4px solid #0089d0;
+}
+.storytext .spin-scroll-gallery.gallery-style-2 .hero-spin .hero-spin__main__content__container .hero-spin__main__content>div{
+		border-bottom: 4px solid #0089d0;
+}
+
+
+	@media screen and (min-width: 768px){
+		.story-full-layout .image_size_full.image_size_browser.caption_over_image.caption_left .inline_meta .inline_caption {
+			border-left: 4px solid #0089d0;
+		}
+	}
+	
+	
+	@media screen and (min-width: 1024px){
+		.storytext .inline_gallery.style1-gallery .galleryscroll .text.content {
+			border-left: 4px solid #0089d0;
+			border-bottom:0;
+		}
+		.storytext .spin-scroll-gallery.gallery-style-2 .hero-spin .hero-spin__main__content__container .hero-spin__main__content>div{
+			border-left: 4px solid #0089d0;
+			border-bottom:0;
+		}
+/* Temporary hack to remove ad space on full-width stories  
+.storytext .ad, div.storytext div.ad {
+    margin-bottom: -80px;
+		}		
+	}
+
+	@media screen and (max-width: 1024px){
+Temporary hack to remove ad space on full-width stories  
+.storytext .ad, div.storytext div.ad {
+    margin-bottom: -40px;
+		}		
+		*/
+	}	
+</style>
+<!-- patch end: AMGCS-92 -->
+
+ <style type="text/css">.inline_image img[width][height]:not(.zoomable-image) {contain: unset;}</style>
+
+
+<script>
+function getMeta(str){var metas=document.getElementsByTagName('meta');for(i=0;i<metas.length;i++){if(metas[i].getAttribute("name")==str){return metas[i].getAttribute("content")}}return""}
+</script>
+
+<script>
+  function getDataLayerVal(keyVal) {
+    for (var i = 0; i < window.dataLayer.length; i++) {
+      if (dataLayer[i][keyVal] !== undefined) {
+        return dataLayer[i][keyVal];
+      }
+    }
+  }
+  function getFullNavPath(path) {
+    if(getDataLayerVal(path) !== undefined) {
+      getDataLayerVal(path).split('|').join(' ').trim();
+    }
+  }
+</script>
+
+
+<!-- DFP HEADER CODE -->
+
+
+<script type="text/javascript">
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+
+<!-- DFP code -->
+<script type="text/javascript">
+
+    var navz = '';
+    var pchan1 = '';
+    var pchan2 = '';
+    var pchan3 = '';
+    var pathArray = window.location.pathname.split( '/' );
+    var secondLevelLocation = pathArray[1];
+    var thirdLevelLocation = pathArray[2];
+    var fourthLevelLocation = pathArray[3];
+
+
+    
+    // Function to extract values from <meta> elements
+    function getMetaContentByName(name,content){
+        var content = (content==null)?'content':content;
+        return document.querySelector("meta[name='"+name+"']").getAttribute(content);
+    }
+
+    var showwallpaper; 
+    if(document.querySelector('meta[name="showwallpaper"]')) {
+        showwallpaper = document.querySelector('meta[name="showwallpaper"]').content;
+    }
+    
+    googletag.cmd.push(function() {
+        
+        // Define a size mapping object which can be applied to the ad positions. The first parameter to addSize is a viewport size, while the second is a list of allowed ad sizes. The sizes included below match those in the examples provided in this support document.
+        
+        //(Used for: AdvertA, AdvertB, AdvertC, AdvertAttach)
+        var mapSmallRight = googletag.sizeMapping().
+        // 320, 0 (Mobile)
+        addSize([320, 0], [[300, 250],[300, 75]]).
+        // 768, 0 (Tablet - Portrait)
+        addSize([768, 0], [[300, 250],[300, 75]]).
+        // 1024, 0 (Desktop / Tablet Landscape)
+        addSize([1024, 0], [[300, 250],[300, 75]]).build();
+        
+        //(Used for: AdvertD, AdvertE, AdvertF)
+        var mapLargeRight = googletag.sizeMapping().
+        // 768, 0 (Tablet - Portrait)
+        addSize([768, 0], [[300, 250],[300, 600]]).
+        // 1024, 0 (Desktop / Tablet Landscape)
+        addSize([1024, 0], [[300, 250],[300, 600]]).
+		  // 320, 0 (Mobile)
+        addSize([320, 0], [[300, 250],[300, 600]]).build();
+
+        //(Used for: Masthead Leaderboard;)
+        var mapLB = googletag.sizeMapping().
+        // 768, 0 (Tablet - Portrait)
+        addSize([768, 0], [[728, 90]]).
+        // 1024, 0 (Desktop / Tablet Landscape)
+        addSize([1024, 0], [[970, 250],[970, 90]]).
+		  // 320, 0 (Mobile)
+        addSize([320, 0], [[320, 50]]).
+        // 601, 0 (Small Tablet - Portrait)
+        addSize([601, 0], [[468, 60]]).build();
+
+        //(Used for: Undernav;)
+        var mapUN = googletag.sizeMapping().
+        // 1024, 0 (Desktop / Tablet Landscape)
+        addSize([1024, 0], [[1024, 250],[1024, 90]]).
+        // 768, 0 (Tablet - Portrait)
+        addSize([768, 0], [[728, 90]]).
+		  // 320, 0 (Mobile)
+        addSize([320, 0], [[320, 50]]).
+        // 601, 0 (Small Tablet - Portrait)
+        addSize([601, 0], [[468, 60]]).build();		  
+        
+        var mapWallpaper = googletag.sizeMapping().
+        addSize([0, 0], []).
+        // 1220, 0
+        addSize([1220, 0], [1,1]).
+        // 1024, 0 (Desktop / Tablet Landscape)
+        addSize([1024, 0], [8,8]).
+        // 768, 0 (Tablet - Portrait)
+        addSize([768, 0], [8,8]).
+		  // 320, 0 (Mobile)
+        addSize([320, 0], [8,8]).
+        // 601, 0 (Small Tablet - Portrait)
+        addSize([601, 0], [8,8]).build();
+        
+        
+        //Define the link between the page text ad container reference and the DFP inventory item code (included as `/DFP_Account_Id/Inventory_Item_Code`). The supported creative size definition is also associated based on the `sizeMapping` definitions added in the code which immediately precedes this.
+        googletag.defineSlot('/20880572/amg-bldg/mpu2', [[300, 250],[300, 300],[300, 600]], 'div-gpt-ad-mpu2').defineSizeMapping(mapLargeRight)
+            .setTargeting("pos", "mpu2")
+            .addService(googletag.pubads());
+		  googletag.defineSlot('/20880572/amg-bldg/top', [[970, 250],[970, 90],[728, 90],[468, 60],[320, 50]], 'div-gpt-ad-top').defineSizeMapping(mapLB)
+            .setTargeting("pos", "top")
+            .addService(googletag.pubads());
+		  googletag.defineSlot('/20880572/amg-bldg/mpu', [[300, 250],[300, 300],[300, 600]], 'div-gpt-ad-mpu').defineSizeMapping(mapLargeRight)
+            .setTargeting("pos", "mpu")
+            .addService(googletag.pubads());
+        googletag.defineSlot('/20880572/amg-bldg/undernav', [[1024, 90],[1024, 250]], 'div-gpt-ad-undernav').defineSizeMapping(mapUN)
+            .setTargeting("pos", "undernav")
+            .addService(googletag.pubads());
+		  googletag.defineSlot('/20880572/amg-bldg/mpu3', [[300, 250],[300, 300],[300, 600]], 'div-gpt-ad-mpu3').defineSizeMapping(mapLargeRight)
+            .setTargeting("pos", "mpu3")
+            .addService(googletag.pubads());
+
+        
+        // Pass the value of the `navcode` meta element to DFP as `navcode` (to be used as a `key-value`) 
+		  googletag.pubads().setTargeting("navcode",getDataLayerVal('NavCode'));
+        googletag.pubads().setTargeting("story",getDataLayerVal('StoryID'));
+        googletag.pubads().setTargeting("cosec",getDataLayerVal('companysector'));
+        googletag.pubads().setTargeting("josec",getDataLayerVal('jobsector'));
+        googletag.pubads().setTargeting("jlev",getDataLayerVal('joblevel'));
+        googletag.pubads().setTargeting("pchan",getDataLayerVal('primarynavlabel'));
+        googletag.pubads().setTargeting("templ",getDataLayerVal('contenttemplate'));
+        googletag.pubads().enableSingleRequest();
+		  
+        var wallpaperSlot =  googletag.defineOutOfPageSlot('/20880572/amg-bldg/1501500598699-0', 'div-gpt-ad-1501500598699-0').addService(googletag.pubads());
+        googletag.pubads().addEventListener("slotRenderEnded",function(e){e.slot.getSlotElementId()!=wallpaperSlot.getSlotElementId()||e.isEmpty||(document.querySelector(".wallpaper-ad[data-site-width-1024]")&&(document.body.className+=" site-width-1024"),"true"===showwallpaper&&(document.body.className+=" wallpaper-applied",$(window).trigger("wallpaper:advert")))});
+
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+
+    });
+        
+        document.querySelector("#div-gpt-ad-1501500598699-0")&&showwallpaper&&(googletag.defineOutOfPageSlot("/20880572/amg-bldg/1501500598699-0","div-gpt-ad-1501500598699-0").defineSizeMapping(mapWallpaper).addService(googletag.pubads()),googletag.pubads().addEventListener("slotRenderEnded",function(e){e.slot.getSlotElementId()!=wallpaperSlot.getSlotElementId()||e.isEmpty||(document.querySelector(".wallpaper-ad[data-site-width-1024]")&&(document.body.className+=" site-width-1024"),"true"===showwallpaper&&(document.body.className+=" wallpaper-applied",$(window).trigger("wallpaper:advert")))}));
+        
+        window.addEventListener('message', receiveMessage, false);
+function receiveMessage(event) {
+    if(event.data == 'wallpaper-fireplace') document.body.className+=" wallpaper-fireplace";
+    if(document.body.className.match('wallpaper-fireplace')) {
+        var mastHeight = document.querySelector('#masthead').offsetHeight,
+        wallpaperElement = document.querySelector('.wallpaper-ad').getElementsByTagName('div')[0];
+        wallpaperElement.style.top = mastHeight + 'px'
+    }
+}
+
+
+        
+</script>
+<meta name="showwallpaper" content="true">
+<meta name="google-site-verification" content="fNdNPBqqj04Zp_fkD4LbJmaHpu1iFZKK_VmVPu38lNk">
+<meta name="google-site-verification" content="9NDfXqnq_TgXoMvPl9Vme0kZICiimgXfku4AL9REFzg">
+<script data-ad-client="ca-pub-9529750328040678" async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" data-checked-head="true"></script>
+
+<!-- Test targeting for Pop-ups
+<script>  
+  window.gsc=window.gsc||function(){
+    (gsc.q=gsc.q||[]).push(arguments)
+  };
+</script>
+
+
+<script>
+    window.dataLayer = window.dataLayer || [];
+	 function getPartyId() {
+        var partyid = '';
+        if (window.dataLayer) {
+            for (var i = 0; i < window.dataLayer.length; i++) {
+                if (window.dataLayer[i].partyid) {
+                    partyid = window.dataLayer[i].partyid;
+                }
+            }
+        }
+        return partyid;
+    }
+    var partyid = getPartyId();
+    if (partyid) {
+        gsc('params', {
+            partyid: partyid
+        });
+    }
+</script>-->
+
+<!-- Get site control Building the Future Pop-up
+<script type="text/javascript" async src="//l.getsitecontrol.com/g4d9q387.js"></script> -->
+
+	
+	<!-- ABACUS - Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TKPD9ZQ');</script>
+<!-- End Google Tag Manager -->
+
+<!-- UBM Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PBKHRBX');</script>
+<!-- End Google Tag Manager -->
+
+
+	
+<meta http-equiv="origin-trial" content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="A9wSqI5i0iwGdf6L1CERNdmsTPgVu44ewj8QxTBYgsv1LCPUVF7YmWOvTappqB1139jAymxUW/RO8zmMqo4zlAAAAACNeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3MzY4MTI4MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A+d7vJfYtay4OUbdtRPZA3y7bKQLsxaMEPmxgfhBGqKXNrdkCQeJlUwqa6EBbSfjwFtJWTrWIioXeMW+y8bWAgQAAACTeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3MzY4MTI4MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="A9wSqI5i0iwGdf6L1CERNdmsTPgVu44ewj8QxTBYgsv1LCPUVF7YmWOvTappqB1139jAymxUW/RO8zmMqo4zlAAAAACNeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3MzY4MTI4MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A+d7vJfYtay4OUbdtRPZA3y7bKQLsxaMEPmxgfhBGqKXNrdkCQeJlUwqa6EBbSfjwFtJWTrWIioXeMW+y8bWAgQAAACTeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiRmxlZGdlQmlkZGluZ0FuZEF1Y3Rpb25TZXJ2ZXIiLCJleHBpcnkiOjE3MzY4MTI4MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><script src="https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202504170101/pubads_impl.js" async=""></script><link href="https://securepubads.g.doubleclick.net/pagead/managed/dict/m202504220101/gpt" rel="compression-dictionary"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/758233501/?random=1745382024264&amp;cv=11&amp;fst=1745382024264&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be54l0z877413376za201zb9103129340&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=102803279~102813109~102887800~102926062~103027016~103051953~103055465~103077950~103106314~103106316&amp;ptag_exp=102803279~102813109~102887800~102926062~103027016~103051953~103055465~103077950~103106314~103106316&amp;u_w=1512&amp;u_h=982&amp;url=https%3A%2F%2Fwww.building.co.uk%2Fsearch%3Fsearch%3DPacific%2BMarble%2B%26%2BGranite%2B(H.K.)%2BLimited&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Page%20Not%20Found%20%7C%20Building&amp;npa=0&amp;pscdl=noapi&amp;uaa=arm&amp;uab=64&amp;uafvl=Google%2520Chrome%3B135.0.7049.96%7CNot-A.Brand%3B8.0.0.0%7CChromium%3B135.0.7049.96&amp;uamb=0&amp;uam=&amp;uap=macOS&amp;uapv=15.3.2&amp;uaw=0&amp;fledge=1&amp;_tu=Cg&amp;rfmt=3&amp;fmt=4"></script></head>
+<body id="pageNotFound" class="M3-master blockGA">
+	
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKPD9ZQ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+<!-- UBM Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PBKHRBX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+	
+<!--[if lte IE 10]>
+<link rel="stylesheet" href="/CSS/dest/notsupported.css">
+<div class="notSupported">
+	<div class="sleeve">
+		<span id="logo" class="vector-icon i-brand-logo i-brand-logo-dims"></span>
+		<h2>
+			Your browser is not supported
+		</h2>
+		<p>
+			Sorry but it looks as if your browser is out of date. To get the best experience using our site we recommend that you upgrade or switch browsers.
+		</p>
+		<p class="buttonContainer">
+			<a class="button" href="https://www.google.co.uk/webhp?ion=1&espv=2&ie=UTF-8#q=update+my+browser" target="_blank">Find a solution</a>
+		</p>
+	</div>
+</div>
+<![endif]-->
+	<script type="text/javascript">document.body.className = document.body.className.replace('js-disabled', ''); document.cookie="_js=1; path=/";</script>
+	<div id="cookiePolicy" class="container inlinePopUp showMenuPushed show" data-menu-open-pushed="true">
+  <div class="inner-sleeve">
+    <form method="post" action="/" data-hs-cf-bound="true">
+      <fieldset>
+        <div>
+          <p>Welcome to building.co.uk. This site uses cookies. <a href="https://www.building.co.uk/story.aspx?storyCode=5093796" target="_blank">Read our policy</a>.</p>
+          <input type="hidden" name="cookiepolicyaccepted" value="yes">
+          <button type="submit" class="continue">OK</button>
+        </div>
+      </fieldset>
+    </form>
+  </div>
+</div>
+
+
+	<div id="wrapper">
+		
+<ul id="skiplinks"><li><a href="#wrapper_sleeve">Skip to main content</a></li><li><a href="#mainnav">Skip to navigation</a></li></ul>
+		
+<header id="masthead" class="masthead">
+	<div class="htmlContent">
+  <div id="div-gpt-ad-1501500598699-0" class="wallpaper-ad" data-site-width-1024="" data-google-query-id="CN21qNym7YwDFen1FgUd_FAWww" style="display: none;">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1501500598699-0'); });
+</script>
+<div id="google_ads_iframe_/20880572/amg-bldg/1501500598699-0_0__container__" style="border: 0pt none;"></div></div>
+</div>
+	
+	<div class="leaderboard">
+    <div class="ad">
+<div id="div-gpt-ad-top" data-google-query-id="CNm1qNym7YwDFen1FgUd_FAWww" style="display: none;">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-top'); });
+</script>
+<div id="google_ads_iframe_/20880572/amg-bldg/top_0__container__" style="border: 0pt none; width: 970px; height: 0px;"></div></div>
+</div>
+</div>
+	<div class="mast container full" role="banner" data-multi-toggle-menu="">
+		<div class="inner-sleeve showMenuPushed" data-menu-open-pushed="">
+			<div class="mastheadLogo">
+    <a href="/">
+        <span class="logoIcon">
+            <span class="assistive">Insert Logo text</span>
+        </span>
+    </a>
+</div>
+<div id="print_logo">
+    <img src="/magazine/dest/graphics/logo/print_logo.png" alt="">
+</div>
+<div class="mastheadMobileLogo">
+    <a href="/">
+        <span class="logoIcon">
+            <span class="assistive">Core Test</span>
+        </span>
+    </a>
+</div>
+			
+			<div class="mastControls">
+				<nav data-multi-toggle-item="" class="mastNav loggedout hide"><span class="toggleIcon"><a href="#mastnav" data-toggle-button=""><span class="assistive">Mast navigation</span></a></span><ul id="mastnav" data-toggle-element=""><li><a href="https://www.building.co.uk/building-boardroom/" class="newWindow">The Building Boardroom</a></li><li><a href="https://subs.building.co.uk/register?returl=https%3a%2f%2fwww.building.co.uk">Register</a></li><li><a href="https://subs.building.co.uk/subscribe">Subscribe</a></li><li><a class="popup signIn" href="https://www.building.co.uk/sign-in">Sign In</a></li></ul></nav>
+				<div class="mastheadSearch hide" data-multi-toggle-item="">
+  <span class="toggleIcon">
+    <a href="#search" data-toggle-button="">
+      <span class="assistive">Search our site</span>
+    </a>
+  </span>
+  <form action="https://www.building.co.uk/searchresults" method="get" id="mastsearch" data-toggle-element="" data-hs-cf-bound="true">
+    <fieldset>
+      <div>
+        <label for="search">Search our site</label>
+        <input type="text" id="search" value="" name="qkeyword" class="text" placeholder="Search our site">
+        <button class="mastSearch" type="submit">Search</button>
+      </div>
+    </fieldset>
+  </form>
+</div>
+				
+
+<div class="menuToggle">
+	<span class="toggleIcon"><a href="#mobilemenu" data-menu-toggle-button=""><span class="assistive">Menu</span></a></span>
+</div>
+			</div>
+		</div>
+	</div>
+	<div class="menuContainer">
+		<div class="mobileMenu" id="mobilemenu">
+  <div class="sleeve">
+    <a class="menuClose" href="#wrapper">
+      <span>Close<span class="assistive"> menu</span></span>
+    </a>
+    <ul class="main">
+      <li class="hasChildren home-icon">
+        <a href="https://www.building.co.uk/" aria-expanded="false">
+          <span>Home</span>
+        </a>
+        <ul aria-hidden="true" class="subMenu hide">
+          <li class="parentBack">
+            <a class="toolbar" href="#">
+              <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+              <span class="btn backBtn">
+                <i></i>
+              </span>
+            </a>
+          </li>
+          <li class="parentNav home-icon">
+            <a href="https://www.building.co.uk/">
+              <span>Home</span>
+            </a>
+          </li>
+          <li class="hasChildren ">
+            <a href="https://www.building.co.uk/about-us" aria-expanded="false">
+              <span>About Us</span>
+            </a>
+            <ul aria-hidden="true" class="subMenu hide">
+              <li class="parentBack">
+                <a class="toolbar" href="#">
+                  <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+                  <span class="btn backBtn">
+                    <i></i>
+                  </span>
+                </a>
+              </li>
+              <li class="parentNav">
+                <a href="https://www.building.co.uk/about-us">
+                  <span>About Us</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/contact-building">
+                  <span>Contact details</span>
+                </a>
+              </li>
+              <li class="break">
+                <a href="https://www.building.co.uk/focus/features/from-the-archives">
+                  <span>Our history: 180 years of Building</span>
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li class="hasChildren ">
+            <a href="https://www.building.co.uk/home/digital-editions" aria-expanded="false">
+              <span>Digital editions</span>
+            </a>
+            <ul aria-hidden="true" class="subMenu hide">
+              <li class="parentBack">
+                <a class="toolbar" href="#">
+                  <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+                  <span class="btn backBtn">
+                    <i></i>
+                  </span>
+                </a>
+              </li>
+              <li class="parentNav">
+                <a href="https://www.building.co.uk/home/digital-editions">
+                  <span>Digital editions</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/home/digital-editions/digital-supplements">
+                  <span>Digital supplements</span>
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li class="hasChildren ">
+            <a href="https://subs.building.co.uk/subscribe" aria-expanded="false">
+              <span>Subscriptions</span>
+            </a>
+            <ul aria-hidden="true" class="subMenu hide">
+              <li class="parentBack">
+                <a class="toolbar" href="#">
+                  <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+                  <span class="btn backBtn">
+                    <i></i>
+                  </span>
+                </a>
+              </li>
+              <li class="parentNav">
+                <a href="https://subs.building.co.uk/subscribe">
+                  <span>Subscriptions</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://subs.building.co.uk/subscribe">
+                  <span>Buy or renew a subscription</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/contact-building">
+                  <span>Subscriber queries</span>
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li class="hasChildren ">
+            <a href="https://events.assemblemediagroup.co.uk/" class="newWindow" aria-expanded="false">
+              <span>Events</span>
+            </a>
+            <ul aria-hidden="true" class="subMenu hide">
+              <li class="parentBack">
+                <a class="toolbar" href="#">
+                  <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+                  <span class="btn backBtn">
+                    <i></i>
+                  </span>
+                </a>
+              </li>
+              <li class="parentNav">
+                <a href="https://events.assemblemediagroup.co.uk/" class="newWindow">
+                  <span>Events</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.building-awards.com">
+                  <span>Building Awards</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/programmes">
+                  <span>Programmes</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/webinars">
+                  <span>Webinars</span>
+                </a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li class="hasChildren ">
+        <a href="https://www.building.co.uk/news" aria-expanded="false">
+          <span>News</span>
+        </a>
+        <ul aria-hidden="true" class="subMenu hide">
+          <li class="parentBack">
+            <a class="toolbar" href="#">
+              <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+              <span class="btn backBtn">
+                <i></i>
+              </span>
+            </a>
+          </li>
+          <li class="parentNav">
+            <a href="https://www.building.co.uk/news">
+              <span>News</span>
+            </a>
+          </li>
+          <li class="hasChildren ">
+            <a href="https://www.building.co.uk/news/trending" aria-expanded="false">
+              <span>Trending</span>
+            </a>
+            <ul aria-hidden="true" class="subMenu hide">
+              <li class="parentBack">
+                <a class="toolbar" href="#">
+                  <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+                  <span class="btn backBtn">
+                    <i></i>
+                  </span>
+                </a>
+              </li>
+              <li class="parentNav">
+                <a href="https://www.building.co.uk/news/trending">
+                  <span>Trending</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/news/trending/race-to-net-zero">
+                  <span>Race to net zero</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/news/trending/building-talks-podcast">
+                  <span>Building Talks podcast</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/news/trending/rics-in-crisis">
+                  <span>RICS in crisis</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/news/trending/crossrail-latest">
+                  <span>Crossrail latest</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/news/trending/building-safety">
+                  <span>Building safety</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/news/trending/hs2-latest">
+                  <span>HS2 latest</span>
+                </a>
+              </li>
+              <li class="navprom break">
+                <a href="https://www.building.co.uk/materials/1000151.subject">
+                  <span>Materials shortages</span>
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li class="hasChildren ">
+            <a href="#">
+              <span>Campaigns</span>
+            </a>
+            <ul aria-hidden="true" class="subMenu hide">
+              <li class="parentBack">
+                <a class="toolbar" href="#">
+                  <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+                  <span class="btn backBtn">
+                    <i></i>
+                  </span>
+                </a>
+              </li>
+              <li class="parentNav">
+                <span>Campaigns</span>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/news/campaigns/every-person-counts">
+                  <span>Every Person Counts</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/news/campaigns/how-to-save-the-world">
+                  <span>How to save the world</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/news/campaigns/proud-to-help">
+                  <span>Proud to Help</span>
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li class="hasChildren ">
+            <a href="https://www.building.co.uk/news/companies" aria-expanded="false">
+              <span>Companies</span>
+            </a>
+            <ul aria-hidden="true" class="subMenu hide">
+              <li class="parentBack">
+                <a class="toolbar" href="#">
+                  <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+                  <span class="btn backBtn">
+                    <i></i>
+                  </span>
+                </a>
+              </li>
+              <li class="parentNav">
+                <a href="https://www.building.co.uk/news/companies">
+                  <span>Companies</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/216.more">
+                  <span>Consultants</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/219.more">
+                  <span>Contractors</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/217.more">
+                  <span>Architects</span>
+                </a>
+              </li>
+              <li class="navprom break">
+                <a href="https://www.building.co.uk/218.more">
+                  <span>Clients</span>
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li class="hasChildren ">
+            <a href="https://www.building.co.uk/news/sectors" aria-expanded="false">
+              <span>Sectors</span>
+            </a>
+            <ul aria-hidden="true" class="subMenu hide">
+              <li class="parentBack">
+                <a class="toolbar" href="#">
+                  <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+                  <span class="btn backBtn">
+                    <i></i>
+                  </span>
+                </a>
+              </li>
+              <li class="parentNav">
+                <a href="https://www.building.co.uk/news/sectors">
+                  <span>Sectors</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/231.more">
+                  <span>Cities &amp; regeneration</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/234.more">
+                  <span>Housing</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/232.more">
+                  <span>Education &amp; healthcare</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/233.more">
+                  <span>Commercial</span>
+                </a>
+              </li>
+              <li class="break">
+                <a href="https://www.building.co.uk/235.more">
+                  <span>Infrastructure</span>
+                </a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li class="hasChildren ">
+        <a href="https://www.building.co.uk/focus" aria-expanded="false">
+          <span>Focus</span>
+        </a>
+        <ul aria-hidden="true" class="subMenu hide">
+          <li class="parentBack">
+            <a class="toolbar" href="#">
+              <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+              <span class="btn backBtn">
+                <i></i>
+              </span>
+            </a>
+          </li>
+          <li class="parentNav">
+            <a href="https://www.building.co.uk/focus">
+              <span>Focus</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.building.co.uk/focus/buildings">
+              <span>Buildings</span>
+            </a>
+          </li>
+          <li class="hasChildren ">
+            <a href="https://www.building.co.uk/focus" aria-expanded="false">
+              <span>Features</span>
+            </a>
+            <ul aria-hidden="true" class="subMenu hide">
+              <li class="parentBack">
+                <a class="toolbar" href="#">
+                  <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+                  <span class="btn backBtn">
+                    <i></i>
+                  </span>
+                </a>
+              </li>
+              <li class="parentNav">
+                <a href="https://www.building.co.uk/focus">
+                  <span>Features</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/focus/features/sponsored-content">
+                  <span>Sponsored content</span>
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li class="">
+            <a href="https://www.building.co.uk/focus/interviews">
+              <span>Interviews</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.building.co.uk/focus/election-focus">
+              <span>Election Focus</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.building.co.uk/focus/funding-the-future">
+              <span>Funding the Future</span>
+            </a>
+          </li>
+        </ul>
+      </li>
+      <li class="RightAligned">
+        <a href="https://www.building.co.uk/comment">
+          <span>Comment</span>
+        </a>
+      </li>
+      <li class="hasChildren ">
+        <a href="https://www.building.co.uk/programmes" aria-expanded="false">
+          <span>Programmes</span>
+        </a>
+        <ul aria-hidden="true" class="subMenu hide">
+          <li class="parentBack">
+            <a class="toolbar" href="#">
+              <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+              <span class="btn backBtn">
+                <i></i>
+              </span>
+            </a>
+          </li>
+          <li class="parentNav">
+            <a href="https://www.building.co.uk/programmes">
+              <span>Programmes</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.building.co.uk/programmes/buildings-design-and-specification">
+              <span>Buildings, Design and Specification</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.building.co.uk/programmes/construction-business-strategy-risk-and-regulations">
+              <span>Construction Business: Strategy, Risk and Regulations</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.building.co.uk/programmes/digital-construction">
+              <span>Digital Construction</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.building.co.uk/programmes/housing">
+              <span>Housing</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.building.co.uk/programmes/international">
+              <span>International</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.building.co.uk/programmes/net-zero-and-energy">
+              <span>Net zero and energy</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.building.co.uk/programmes/social-value">
+              <span>Social Value</span>
+            </a>
+          </li>
+        </ul>
+      </li>
+      <li class="hasChildren ">
+        <a href="https://www.building.co.uk/cpd" aria-expanded="false">
+          <span>CPD</span>
+        </a>
+        <ul aria-hidden="true" class="subMenu hide">
+          <li class="parentBack">
+            <a class="toolbar" href="#">
+              <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+              <span class="btn backBtn">
+                <i></i>
+              </span>
+            </a>
+          </li>
+          <li class="parentNav">
+            <a href="https://www.building.co.uk/cpd">
+              <span>CPD</span>
+            </a>
+          </li>
+          <li class="hasChildren ">
+            <a href="https://www.building.co.uk/cpd/cpd" aria-expanded="false">
+              <span>CPD</span>
+            </a>
+            <ul aria-hidden="true" class="subMenu hide">
+              <li class="parentBack">
+                <a class="toolbar" href="#">
+                  <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+                  <span class="btn backBtn">
+                    <i></i>
+                  </span>
+                </a>
+              </li>
+              <li class="parentNav">
+                <a href="https://www.building.co.uk/cpd/cpd">
+                  <span>CPD</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/cpd/cpd">
+                  <span>Take the latest modules</span>
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li class="hasChildren ">
+            <a href="#">
+              <span>Careers</span>
+            </a>
+            <ul aria-hidden="true" class="subMenu hide">
+              <li class="parentBack">
+                <a class="toolbar" href="#">
+                  <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+                  <span class="btn backBtn">
+                    <i></i>
+                  </span>
+                </a>
+              </li>
+              <li class="parentNav">
+                <span>Careers</span>
+              </li>
+              <li class="">
+                <a href="https://www.building4jobs.com/" class="newWindow">
+                  <span>Search for jobs</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/cpd/careers/careers-features">
+                  <span>Careers features</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/cpd/careers/salary-surveys">
+                  <span>Salary Surveys</span>
+                </a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li class="hasChildren ">
+        <a href="https://www.building.co.uk/building-the-future" aria-expanded="false">
+          <span>Building the Future</span>
+        </a>
+        <ul aria-hidden="true" class="subMenu hide">
+          <li class="parentBack">
+            <a class="toolbar" href="#">
+              <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+              <span class="btn backBtn">
+                <i></i>
+              </span>
+            </a>
+          </li>
+          <li class="parentNav">
+            <a href="https://www.building.co.uk/building-the-future">
+              <span>Building the Future</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.building.co.uk/building-the-future/building-the-future-conference">
+              <span>Building the Future Conference</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.building.co.uk/building-the-future/building-the-future-commission">
+              <span>Building the Future Commission</span>
+            </a>
+          </li>
+        </ul>
+      </li>
+      <li class="RightAligned">
+        <a href="https://www.building4jobs.com/" class="newWindow">
+          <span>Jobs</span>
+        </a>
+      </li>
+      <li class="hasChildren ">
+        <a href="https://www.building.co.uk/data" aria-expanded="false">
+          <span>Data</span>
+        </a>
+        <ul aria-hidden="true" class="subMenu hide">
+          <li class="parentBack">
+            <a class="toolbar" href="#">
+              <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+              <span class="btn backBtn">
+                <i></i>
+              </span>
+            </a>
+          </li>
+          <li class="parentNav">
+            <a href="https://www.building.co.uk/data">
+              <span>Data</span>
+            </a>
+          </li>
+          <li class="hasChildren ">
+            <a href="#">
+              <span>Market data</span>
+            </a>
+            <ul aria-hidden="true" class="subMenu hide">
+              <li class="parentBack">
+                <a class="toolbar" href="#">
+                  <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+                  <span class="btn backBtn">
+                    <i></i>
+                  </span>
+                </a>
+              </li>
+              <li class="parentNav">
+                <span>Market data</span>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/data/market-data/league-tables">
+                  <span>League tables</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/data/market-data/market-forecast">
+                  <span>Market forecast</span>
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li class="hasChildren ">
+            <a href="#">
+              <span>Cost Data</span>
+            </a>
+            <ul aria-hidden="true" class="subMenu hide">
+              <li class="parentBack">
+                <a class="toolbar" href="#">
+                  <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+                  <span class="btn backBtn">
+                    <i></i>
+                  </span>
+                </a>
+              </li>
+              <li class="parentNav">
+                <span>Cost Data</span>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/data/cost-data/cost-models">
+                  <span>Cost models</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/data/cost-data/infrastructure-costs">
+                  <span>Infrastructure costs</span>
+                </a>
+              </li>
+              <li class="">
+                <a href="https://www.building.co.uk/data/cost-data/international-costs">
+                  <span>International costs</span>
+                </a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li class="">
+        <a href="https://subs.building.co.uk/subscribe" class="newWindow">
+          <span>Subscribe</span>
+        </a>
+      </li>
+      <li class="hasChildren ">
+        <a href="https://events.assemblemediagroup.co.uk/" class="newWindow" aria-expanded="false">
+          <span>Events</span>
+        </a>
+        <ul aria-hidden="true" class="subMenu hide">
+          <li class="parentBack">
+            <a class="toolbar" href="#">
+              <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+              <span class="btn backBtn">
+                <i></i>
+              </span>
+            </a>
+          </li>
+          <li class="parentNav">
+            <a href="https://events.assemblemediagroup.co.uk/" class="newWindow">
+              <span>Events</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://building-awards.com/buildingawards23/en/page/home" class="newWindow">
+              <span>Building Awards</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.building.co.uk/events/roundtables">
+              <span>Roundtables</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://events.assemblemediagroup.co.uk/webinars/">
+              <span>Webinars</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.building.co.uk/events/podcasts">
+              <span>Podcasts</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.building.co.uk/news/the-construction-industry-dragon-boat-challenge-is-back-in-2022/5115580.article" class="newWindow">
+              <span>CRASH charity</span>
+            </a>
+          </li>
+        </ul>
+      </li>
+      <li class="hasChildren ">
+        <a href="https://www.building.co.uk/building-boardroom/" aria-expanded="false">
+          <span>Building Boardroom</span>
+        </a>
+        <ul aria-hidden="true" class="subMenu hide">
+          <li class="parentBack">
+            <a class="toolbar" href="#">
+              <span class="header">Back<span class="assistive"> to parent navigation item</span></span>
+              <span class="btn backBtn">
+                <i></i>
+              </span>
+            </a>
+          </li>
+          <li class="parentNav">
+            <a href="https://www.building.co.uk/building-boardroom/">
+              <span>Building Boardroom</span>
+            </a>
+          </li>
+          <li class="">
+            <a href="https://www.building.co.uk/building-boardroom/building-boardroom-digital-construction-academy">
+              <span>Building Boardroom Digital Construction Academy</span>
+            </a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    
+  </div>
+</div>
+<div class="mobileMenuClose"></div>
+		<div id="mainnav" class="desktopNavigation container showMenuPushed" data-menu-open-pushed=""><div class="dropdown vanityPanel"><div class="inner-sleeve"></div></div><div class="inner-sleeve" role="navigation"><ul class="main"><li data-navcode="4005" data-rootnavcode="4005" class="home-icon hasChildren twoSubNav nav-item"><a href="https://www.building.co.uk/" id="accessible-megamenu-1745382022160-1" aria-haspopup="true" aria-controls="accessible-megamenu-1745382022160-2" aria-expanded="false"><span>Home</span></a><div class="dropdown sub-nav" id="accessible-megamenu-1745382022160-2" role="group" aria-expanded="false" aria-hidden="true" aria-labelledby="accessible-megamenu-1745382022160-1"><div class="inner-sleeve"><ul><li class="subnav"><ul><li data-navcode="3322" data-rootnavcode="4005" class=""><a href="https://www.building.co.uk/about-us"><span>About Us</span></a><ul><li data-navcode="3312" data-rootnavcode="4005" class=""><a href="https://www.building.co.uk/contact-building"><span>Contact details</span></a></li><li data-navcode="3327" data-rootnavcode="4005" class="break"><a href="https://www.building.co.uk/focus/features/from-the-archives"><span>Our history: 180 years of Building</span></a></li></ul></li></ul></li><li class="subnav"><ul><li data-navcode="1768" data-rootnavcode="4005" class=""><a href="https://www.building.co.uk/home/digital-editions"><span>Digital editions</span></a><ul><li data-navcode="4110" data-rootnavcode="4005" class=""><a href="https://www.building.co.uk/home/digital-editions/digital-supplements"><span>Digital supplements</span></a></li></ul></li><li data-navcode="3328" data-rootnavcode="4005" class=""><a href="https://subs.building.co.uk/subscribe"><span>Subscriptions</span></a><ul><li data-navcode="3329" data-rootnavcode="4005" class=""><a href="https://subs.building.co.uk/subscribe"><span>Buy or renew a subscription</span></a></li><li data-navcode="3330" data-rootnavcode="4005" class=""><a href="https://www.building.co.uk/contact-building"><span>Subscriber queries</span></a></li></ul></li><li data-navcode="2780" data-rootnavcode="4005" class=""><a href="https://events.assemblemediagroup.co.uk/" class="newWindow"><span>Events</span></a><ul><li data-navcode="2791" data-rootnavcode="4005" class=""><a href="https://www.building-awards.com"><span>Building Awards</span></a></li><li data-navcode="3204" data-rootnavcode="4005" class=""><a href="https://www.building.co.uk/programmes"><span>Programmes</span></a></li><li data-navcode="3362" data-rootnavcode="4005" class=""><a href="https://www.building.co.uk/webinars"><span>Webinars</span></a></li></ul></li></ul></li><li class="htmlBlock"><div><div class="column">
+<p><img src="https://d3sux4fmh2nu8u.cloudfront.net/Pictures/480xAny/P/web/i/c/d/eventspresentedbyv2_445267.jpg" width="360px"></p> 
+<center><a class="button" href="https://events.assemblemediagroup.co.uk/" target="_blank">Find out more</a></center>
+</div>  
+
+<!--
+<div class="column">
+<p><img src="https://d3sux4fmh2nu8u.cloudfront.net/Pictures/480xAny/P/web/j/v/d/microsoftteamsimage_960232.jpg" width="360px"></p>
+    <p><strong>A festival focused on the future of digital construction</strong></p>
+    <a class="button" href="https://events.assemblemediagroup.co.uk/digital-building-week/" target="_blank">See the full agenda</a>
+</div>
+--></div></li></ul></div></div></li><li data-navcode="253" data-rootnavcode="253" class="hasChildren threeSubNav nav-item"><a href="https://www.building.co.uk/news" id="accessible-megamenu-1745382022162-3" aria-haspopup="true" aria-controls="accessible-megamenu-1745382022162-4" aria-expanded="false"><span>News</span></a><div class="dropdown sub-nav" id="accessible-megamenu-1745382022162-4" role="group" aria-expanded="false" aria-hidden="true" aria-labelledby="accessible-megamenu-1745382022162-3"><div class="inner-sleeve"><ul><li class="subnav"><ul><li data-navcode="2895" data-rootnavcode="253" class=""><a href="https://www.building.co.uk/news/trending"><span>Trending</span></a><ul><li data-navcode="3402" data-rootnavcode="253" class=""><a href="https://www.building.co.uk/news/trending/race-to-net-zero"><span>Race to net zero</span></a></li><li data-navcode="3923" data-rootnavcode="253" class=""><a href="https://www.building.co.uk/news/trending/building-talks-podcast"><span>Building Talks podcast</span></a></li><li data-navcode="3914" data-rootnavcode="253" class=""><a href="https://www.building.co.uk/news/trending/rics-in-crisis"><span>RICS in crisis</span></a></li><li data-navcode="3597" data-rootnavcode="253" class=""><a href="https://www.building.co.uk/news/trending/crossrail-latest"><span>Crossrail latest</span></a></li><li data-navcode="3377" data-rootnavcode="253" class=""><a href="https://www.building.co.uk/news/trending/building-safety"><span>Building safety</span></a></li><li data-navcode="3701" data-rootnavcode="253" class=""><a href="https://www.building.co.uk/news/trending/hs2-latest"><span>HS2 latest</span></a></li><li data-navcode="3898" data-rootnavcode="253" class="navprom break"><a href="https://www.building.co.uk/materials/1000151.subject"><span>Materials shortages</span></a></li></ul></li></ul></li><li class="subnav"><ul><li data-navcode="3932" data-rootnavcode="253" class=""><span>Campaigns</span><ul><li data-navcode="3933" data-rootnavcode="253" class=""><a href="https://www.building.co.uk/news/campaigns/every-person-counts"><span>Every Person Counts</span></a></li><li data-navcode="3918" data-rootnavcode="253" class=""><a href="https://www.building.co.uk/news/campaigns/how-to-save-the-world"><span>How to save the world</span></a></li><li data-navcode="3934" data-rootnavcode="253" class=""><a href="https://www.building.co.uk/news/campaigns/proud-to-help"><span>Proud to Help</span></a></li></ul></li><li data-navcode="3332" data-rootnavcode="253" class=""><a href="https://www.building.co.uk/news/companies"><span>Companies</span></a><ul><li data-navcode="3333" data-rootnavcode="253" class=""><a href="https://www.building.co.uk/216.more"><span>Consultants</span></a></li><li data-navcode="3334" data-rootnavcode="253" class=""><a href="https://www.building.co.uk/219.more"><span>Contractors</span></a></li><li data-navcode="3335" data-rootnavcode="253" class=""><a href="https://www.building.co.uk/217.more"><span>Architects</span></a></li><li data-navcode="3336" data-rootnavcode="253" class="navprom break"><a href="https://www.building.co.uk/218.more"><span>Clients</span></a></li></ul></li></ul></li><li class="subnav"><ul><li data-navcode="3351" data-rootnavcode="253" class=""><a href="https://www.building.co.uk/news/sectors"><span>Sectors</span></a><ul><li data-navcode="3338" data-rootnavcode="253" class=""><a href="https://www.building.co.uk/231.more"><span>Cities &amp; regeneration</span></a></li><li data-navcode="3352" data-rootnavcode="253" class=""><a href="https://www.building.co.uk/234.more"><span>Housing</span></a></li><li data-navcode="3353" data-rootnavcode="253" class=""><a href="https://www.building.co.uk/232.more"><span>Education &amp; healthcare</span></a></li><li data-navcode="3354" data-rootnavcode="253" class=""><a href="https://www.building.co.uk/233.more"><span>Commercial</span></a></li><li data-navcode="3355" data-rootnavcode="253" class="break"><a href="https://www.building.co.uk/235.more"><span>Infrastructure</span></a></li></ul></li></ul></li><li class="htmlBlock"><div><div class="column">
+<p><img src="https://d3sux4fmh2nu8u.cloudfront.net/Pictures/480xAny/P/web/r/e/j/grenfelltowerwrapped_shutterstock_1117120049_138087.jpg" width="360px"><br>
+    <strong>All the latest updates on building safety reform</strong></p>
+    <center><a class="button" href="https://www.building.co.uk/programmes/construction-business-strategy-risk-and-regulations" target="_blank">Regulations latest</a></center>
+</div></div></li></ul></div></div></li><li data-navcode="420" data-rootnavcode="420" class="hasChildren oneSubNav nav-item"><a href="https://www.building.co.uk/focus" id="accessible-megamenu-1745382022163-5" aria-haspopup="true" aria-controls="accessible-megamenu-1745382022163-6" aria-expanded="false"><span>Focus</span></a><div class="dropdown sub-nav" id="accessible-megamenu-1745382022163-6" role="group" aria-expanded="false" aria-hidden="true" aria-labelledby="accessible-megamenu-1745382022163-5"><div class="inner-sleeve"><ul><li class="subnav"><ul><li data-navcode="3870" data-rootnavcode="420" class=""><a href="https://www.building.co.uk/focus/buildings"><span>Buildings</span></a></li><li data-navcode="3869" data-rootnavcode="420" class=""><a href="https://www.building.co.uk/focus"><span>Features</span></a><ul><li data-navcode="3412" data-rootnavcode="420" class=""><a href="https://www.building.co.uk/focus/features/sponsored-content"><span>Sponsored content</span></a></li></ul></li><li data-navcode="2720" data-rootnavcode="420" class=""><a href="https://www.building.co.uk/focus/interviews"><span>Interviews</span></a></li><li data-navcode="4070" data-rootnavcode="420" class=""><a href="https://www.building.co.uk/focus/election-focus"><span>Election Focus</span></a></li><li data-navcode="4111" data-rootnavcode="420" class=""><a href="https://www.building.co.uk/focus/funding-the-future"><span>Funding the Future</span></a></li></ul></li><li class="promotedStory"><a href="/data/infrastructure-update-how-prepared-is-the-water-industry-for-its-biggest-ever-investment-programme/5134726.article" class="image"><div class="image"><img src="https://d3sux4fmh2nu8u.cloudfront.net/Pictures/274x183/6/3/1/1998631_tideway2_593198.jpg" loading="lazy" class="lazyloaded" alt="Tideway 2"></div><div class="captionBlock"><span class="title">Infrastructure update: How prepared is the water industry for its biggest ever investment programme?</span></div></a></li><li class="promotedStory"><a href="/data/infrastructure-update-how-can-developers-navigate-the-ever-lengthening-connections-queue/5132658.article" class="image"><div class="image"><img src="https://d3sux4fmh2nu8u.cloudfront.net/Pictures/274x183/5/9/5/1990595_substationshutterstock_385183.jpg" loading="lazy" class="lazyloaded" alt="Substation shutterstock"></div><div class="captionBlock"><span class="title">Infrastructure update: How can developers navigate the ever-lengthening connections queue?</span></div></a></li><li class="promotedStory"><a href="/data/infrastructure-update-electricity-transmission-owners-hold-key-to-uks-energy-transition-but-face-challenges/5132657.article" class="image"><div class="image"><img src="https://d3sux4fmh2nu8u.cloudfront.net/Pictures/274x183/5/9/3/1990593_windfarmshutterstock_580380_crop.jpg" loading="lazy" class="lazyloaded" alt="Wind farm shutterstock"></div><div class="captionBlock"><span class="title">Infrastructure update: Electricity transmission owners hold key to UK’s energy transition but face challenges</span></div></a></li></ul></div></div></li><li data-navcode="2794" data-rootnavcode="2794" class="RightAligned hasChildren nav-item"><a href="https://www.building.co.uk/comment" id="accessible-megamenu-1745382022163-7" aria-haspopup="true" aria-controls="accessible-megamenu-1745382022163-8" aria-expanded="false"><span>Comment</span></a><div class="dropdown sub-nav" id="accessible-megamenu-1745382022163-8" role="group" aria-expanded="false" aria-hidden="true" aria-labelledby="accessible-megamenu-1745382022163-7"><div class="inner-sleeve"><ul><li class="promotedStory"><a href="/comment/spring-statement-and-trump-tariffs-how-can-the-built-environment-respond/5135368.article" class="image"><div class="image"><img src="https://d3sux4fmh2nu8u.cloudfront.net/Pictures/274x183/4/3/0/2001430_richardsteerchairmangleedslores_362097_crop.jpg" loading="lazy" class="lazyloaded" alt="Richard Steer, Chairman, Gleeds lo res"></div><div class="captionBlock"><span class="title">Spring statement and Trump tariffs… How can the built environment respond?</span></div></a></li><li class="promotedStory"><a href="/comment/implementing-the-building-safety-act-in-wales/5134867.article" class="image"><div class="image"><img src="https://d3sux4fmh2nu8u.cloudfront.net/Pictures/274x183/3/8/0/1999380_legal2mainimage_774782.jpg" loading="lazy" class="lazyloaded" alt="Legal 2 main image"></div><div class="captionBlock"><span class="title">Implementing the Building Safety Act in Wales</span></div></a></li><li class="promotedStory"><a href="/legal/how-landmark-building-safety-court-rulings-could-clarify-the-law-on-liability/5134865.article" class="image"><div class="image"><img src="https://d3sux4fmh2nu8u.cloudfront.net/Pictures/274x183/3/7/0/1999370_theresamohammedbw2018_175150.jpg" loading="lazy" class="lazyloaded" alt="Theresa mohammed bw 2018"></div><div class="captionBlock"><span class="title">How landmark building safety court rulings could clarify the law on liability</span></div></a></li><li class="promotedStory"><a href="/comment/we-urgently-need-a-government-that-can-stoke-industry-optimism/5134641.article" class="image"><div class="image"><img src="https://d3sux4fmh2nu8u.cloudfront.net/Pictures/274x183/3/6/5/1998365_richardsteerchairmangleedslores_362097_crop.jpg" loading="lazy" class="lazyloaded" alt="Richard Steer, Chairman, Gleeds lo res"></div><div class="captionBlock"><span class="title">We urgently need a government that can stoke industry optimism</span></div></a></li></ul></div></div></li><li data-navcode="4011" data-rootnavcode="4011" class="hasChildren oneSubNav nav-item"><a href="https://www.building.co.uk/programmes" id="accessible-megamenu-1745382022163-9" aria-haspopup="true" aria-controls="accessible-megamenu-1745382022163-10" aria-expanded="false"><span>Programmes</span></a><div class="dropdown sub-nav" id="accessible-megamenu-1745382022163-10" role="group" aria-expanded="false" aria-hidden="true" aria-labelledby="accessible-megamenu-1745382022163-9"><div class="inner-sleeve"><ul><li class="subnav"><ul><li data-navcode="4064" data-rootnavcode="4011" class=""><a href="https://www.building.co.uk/programmes/buildings-design-and-specification"><span>Buildings, Design and Specification</span></a></li><li data-navcode="3830" data-rootnavcode="4011" class=""><a href="https://www.building.co.uk/programmes/construction-business-strategy-risk-and-regulations"><span>Construction Business: Strategy, Risk and Regulations</span></a></li><li data-navcode="3825" data-rootnavcode="4011" class=""><a href="https://www.building.co.uk/programmes/digital-construction"><span>Digital Construction</span></a></li><li data-navcode="3829" data-rootnavcode="4011" class=""><a href="https://www.building.co.uk/programmes/housing"><span>Housing</span></a></li><li data-navcode="3873" data-rootnavcode="4011" class=""><a href="https://www.building.co.uk/programmes/international"><span>International</span></a></li><li data-navcode="3826" data-rootnavcode="4011" class=""><a href="https://www.building.co.uk/programmes/net-zero-and-energy"><span>Net zero and energy</span></a></li><li data-navcode="3827" data-rootnavcode="4011" class=""><a href="https://www.building.co.uk/programmes/social-value"><span>Social Value</span></a></li></ul></li><li class="htmlBlock"><div><div class="column">
+<p><img src="https://d3sux4fmh2nu8u.cloudfront.net/Pictures/480xAny/P/web/c/k/b/eventspresentedbyv2_740775.jpg" width="300px"></p> 
+<center><a class="button" href="https://events.assemblemediagroup.co.uk/" target="_blank">Find out more</a></center>
+</div></div></li></ul></div></div></li><li data-navcode="1632" data-rootnavcode="1632" class="hasChildren oneSubNav nav-item"><a href="https://www.building.co.uk/cpd" id="accessible-megamenu-1745382022164-11" aria-haspopup="true" aria-controls="accessible-megamenu-1745382022164-12" aria-expanded="false"><span>CPD</span></a><div class="dropdown sub-nav" id="accessible-megamenu-1745382022164-12" role="group" aria-expanded="false" aria-hidden="true" aria-labelledby="accessible-megamenu-1745382022164-11"><div class="inner-sleeve"><ul><li class="subnav"><ul><li data-navcode="1673" data-rootnavcode="1632" class=""><a href="https://www.building.co.uk/cpd/cpd"><span>CPD</span></a><ul><li data-navcode="2959" data-rootnavcode="1632" class=""><a href="https://www.building.co.uk/cpd/cpd"><span>Take the latest modules</span></a></li></ul></li><li data-navcode="537" data-rootnavcode="1632" class=""><span>Careers</span><ul><li data-navcode="2817" data-rootnavcode="1632" class=""><a href="https://www.building4jobs.com/" class="newWindow"><span>Search for jobs</span></a></li><li data-navcode="2271" data-rootnavcode="1632" class=""><a href="https://www.building.co.uk/cpd/careers/careers-features"><span>Careers features</span></a></li><li data-navcode="1749" data-rootnavcode="1632" class=""><a href="https://www.building.co.uk/cpd/careers/salary-surveys"><span>Salary Surveys</span></a></li></ul></li></ul></li><li class="promotedStory"><a href="/cpd/cpd-04-2025-energy-performance-evaluation-in-architectural-projects/5135011.article" class="image"><div class="image"><img src="https://d3sux4fmh2nu8u.cloudfront.net/Pictures/274x183/1/3/5/2000135_greenbuildingshutterstock_13648_crop.jpg" loading="lazy" class="lazyloaded" alt="green building shutterstock"></div><div class="captionBlock"><span class="title">CPD 04 2025: Energy performance evaluation in architectural projects</span><span class="author">Sponsored by <span class="noLink">Vectorworks</span></span></div></a></li><li class="promotedStory"><a href="/cpd/cpd-03-2025-segmental-retaining-walls-for-housing-developments/5135010.article" class="image"><div class="image"><img src="https://d3sux4fmh2nu8u.cloudfront.net/Pictures/274x183/9/9/0/1999990_tobermorebuildingcpdretainingwall1_992691_crop.jpg" loading="lazy" class="lazyloaded" alt="Tobermore -  Building CPD - retaining wall 1"></div><div class="captionBlock"><span class="title">CPD 03 2025: Segmental retaining walls for housing developments</span><span class="author">Sponsored by <span class="noLink">Tobermore</span></span></div></a></li><li class="promotedStory"><a href="/cpd/cpd-02-2025-hard-landscaping-specification-for-housing-developments/5134279.article" class="image"><div class="image"><img src="https://d3sux4fmh2nu8u.cloudfront.net/Pictures/274x183/8/7/7/1996877_tobermorebuildingcpdhardlandscapingspecificationforhousingdevelopments_blogimages5_40293_crop.jpg" loading="lazy" class="lazyloaded" alt="Tobermore - Building - CPD -  Hard landscaping specification for housing developments_blog images5"></div><div class="captionBlock"><span class="title">CPD 02 2025: Hard landscaping specification for housing developments</span><span class="author">Sponsored by <span class="noLink">Tobermore</span></span></div></a></li></ul></div></div></li><li data-navcode="4057" data-rootnavcode="4057" class="hasChildren oneSubNav nav-item"><a href="https://www.building.co.uk/building-the-future" id="accessible-megamenu-1745382022164-13" aria-haspopup="true" aria-controls="accessible-megamenu-1745382022164-14" aria-expanded="false"><span>Building the Future</span></a><div class="dropdown sub-nav" id="accessible-megamenu-1745382022164-14" role="group" aria-expanded="false" aria-hidden="true" aria-labelledby="accessible-megamenu-1745382022164-13"><div class="inner-sleeve"><ul><li class="subnav"><ul><li data-navcode="4112" data-rootnavcode="4057" class=""><a href="https://www.building.co.uk/building-the-future/building-the-future-conference"><span>Building the Future Conference</span></a></li><li data-navcode="4031" data-rootnavcode="4057" class=""><a href="https://www.building.co.uk/building-the-future/building-the-future-commission"><span>Building the Future Commission</span></a></li></ul></li><li class="promotedStory"><a href="/news/embrace-ai-technologies-scape-boss-urges-construction/5131618.article" class="image"><div class="image"><img src="https://d3sux4fmh2nu8u.cloudfront.net/Pictures/274x183/7/2/4/1986724_markrobinsonheadshot_955081_crop.jpg" loading="lazy" class="lazyloaded" alt="Mark Robinson headshot"></div><div class="captionBlock"><span class="title">‘Embrace AI technologies,’ Scape boss urges construction</span></div></a></li></ul></div></div></li><li data-navcode="566" data-rootnavcode="566" class="RightAligned nav-item"><a href="https://www.building4jobs.com/" class="newWindow" id="accessible-megamenu-1745382022164-15"><span>Jobs</span></a></li><li data-navcode="469" data-rootnavcode="469" class="hasChildren oneSubNav nav-item"><a href="https://www.building.co.uk/data" id="accessible-megamenu-1745382022165-16" aria-haspopup="true" aria-controls="accessible-megamenu-1745382022165-17" aria-expanded="false"><span>Data</span></a><div class="dropdown sub-nav" id="accessible-megamenu-1745382022165-17" role="group" aria-expanded="false" aria-hidden="true" aria-labelledby="accessible-megamenu-1745382022165-16"><div class="inner-sleeve"><ul><li class="subnav"><ul><li data-navcode="2818" data-rootnavcode="469" class=""><span>Market data</span><ul><li data-navcode="2962" data-rootnavcode="469" class=""><a href="https://www.building.co.uk/data/market-data/league-tables"><span>League tables</span></a></li><li data-navcode="2968" data-rootnavcode="469" class=""><a href="https://www.building.co.uk/data/market-data/market-forecast"><span>Market forecast</span></a></li></ul></li><li data-navcode="471" data-rootnavcode="469" class=""><span>Cost Data</span><ul><li data-navcode="2531" data-rootnavcode="469" class=""><a href="https://www.building.co.uk/data/cost-data/cost-models"><span>Cost models</span></a></li><li data-navcode="2529" data-rootnavcode="469" class=""><a href="https://www.building.co.uk/data/cost-data/infrastructure-costs"><span>Infrastructure costs</span></a></li><li data-navcode="2528" data-rootnavcode="469" class=""><a href="https://www.building.co.uk/data/cost-data/international-costs"><span>International costs</span></a></li></ul></li></ul></li><li class="promotedStory"><a href="/data/market-forecast-why-viability-is-tight-for-construction-projects-in-the-uk/5135417.article" class="image"><div class="image"><img src="https://d3sux4fmh2nu8u.cloudfront.net/Pictures/274x183/6/8/2/2001682_shutterstock_2502468339_147112_crop.jpg" loading="lazy" class="lazyloaded" alt="shutterstock_2502468339"></div><div class="captionBlock"><span class="title">Market forecast: Why viability is tight for construction projects in the UK</span></div></a></li><li class="promotedStory"><a href="/cost-models/cost-model-incorporating-sustainability-in-purpose-built-student-accommodation/5135349.article" class="image"><div class="image"><img src="https://d3sux4fmh2nu8u.cloudfront.net/Pictures/274x183/3/7/1/2001371_jsanter6492_37828_crop.jpg" loading="lazy" class="lazyloaded" alt="JSanter-6492"></div><div class="captionBlock"><span class="title">Cost model: Incorporating sustainability in purpose-built student accommodation</span></div></a></li><li class="promotedStory"><a href="/data/infrastructure-update-how-prepared-is-the-water-industry-for-its-biggest-ever-investment-programme/5134726.article" class="image"><div class="image"><img src="https://d3sux4fmh2nu8u.cloudfront.net/Pictures/274x183/6/3/1/1998631_tideway2_593198.jpg" loading="lazy" class="lazyloaded" alt="Tideway 2"></div><div class="captionBlock"><span class="title">Infrastructure update: How prepared is the water industry for its biggest ever investment programme?</span></div></a></li></ul></div></div></li><li data-navcode="3885" data-rootnavcode="3885" class="nav-item"><a href="https://subs.building.co.uk/subscribe" class="newWindow" id="accessible-megamenu-1745382022165-18"><span>Subscribe</span></a></li><li class="more nav-item"><a href="#mobilemenu" data-menu-toggle-button="" aria-expanded="false" id="accessible-megamenu-1745382022166-24" role="group" aria-hidden="true" class="sub-nav"><span>
+                More from<span class="assistive"> navigation items</span></span></a></li><li data-navcode="3281" data-rootnavcode="3281" class="hasChildren oneSubNav nav-item hide"><a href="https://events.assemblemediagroup.co.uk/" class="newWindow" id="accessible-megamenu-1745382022165-19" aria-haspopup="true" aria-controls="accessible-megamenu-1745382022165-20" aria-expanded="false"><span>Events</span></a><div class="dropdown sub-nav" id="accessible-megamenu-1745382022165-20" role="group" aria-expanded="false" aria-hidden="true" aria-labelledby="accessible-megamenu-1745382022165-19"><div class="inner-sleeve"><ul><li class="subnav"><ul><li data-navcode="3347" data-rootnavcode="3281" class=""><a href="https://building-awards.com/buildingawards23/en/page/home" class="newWindow"><span>Building Awards</span></a></li><li data-navcode="3349" data-rootnavcode="3281" class=""><a href="https://www.building.co.uk/events/roundtables"><span>Roundtables</span></a></li><li data-navcode="2518" data-rootnavcode="3281" class=""><a href="https://events.assemblemediagroup.co.uk/webinars/"><span>Webinars</span></a></li><li data-navcode="3418" data-rootnavcode="3281" class=""><a href="https://www.building.co.uk/events/podcasts"><span>Podcasts</span></a></li><li data-navcode="3700" data-rootnavcode="3281" class=""><a href="https://www.building.co.uk/news/the-construction-industry-dragon-boat-challenge-is-back-in-2022/5115580.article" class="newWindow"><span>CRASH charity</span></a></li></ul></li><li class="htmlBlock"><div><div class="column">
+<p><img src="https://d3sux4fmh2nu8u.cloudfront.net/Pictures/1200xAny/P/web/i/c/d/eventspresentedbyv2_445267.jpg" width="170px"></p>
+<center><p><strong>2024 events calendar </strong></p>
+<a class="button" href="https://events.assemblemediagroup.co.uk/upcoming-events/" target="_blank">Explore now </a>
+</center></div> 
+<div class="column">
+<p><img src="https://d3sux4fmh2nu8u.cloudfront.net/Pictures/480xAny/P/web/r/l/x/ba24logofinal01_404542.png" width="115px"></p>
+    <center><p><strong>Building Awards</strong></p>
+    <a class="button" href="https://building-awards.com/buildingaw<center>ards23/en/page/home" target="_blank">Keep up to date</a></center>
+</div></div></li></ul></div></div></li><li data-navcode="3822" data-rootnavcode="3822" class="hasChildren oneSubNav nav-item hide"><a href="https://www.building.co.uk/building-boardroom/" id="accessible-megamenu-1745382022165-21" aria-haspopup="true" aria-controls="accessible-megamenu-1745382022165-22" aria-expanded="false"><span>Building Boardroom</span></a><div class="dropdown sub-nav" id="accessible-megamenu-1745382022165-22" role="group" aria-expanded="false" aria-hidden="true" aria-labelledby="accessible-megamenu-1745382022165-21"><div class="inner-sleeve"><ul><li class="subnav"><ul><li data-navcode="3963" data-rootnavcode="3822" class=""><a href="https://www.building.co.uk/building-boardroom/building-boardroom-digital-construction-academy"><span>Building Boardroom Digital Construction Academy</span></a></li></ul></li><li class="promotedStory"><a href="/cost-models/cost-model-incorporating-sustainability-in-purpose-built-student-accommodation/5135349.article" class="image"><div class="image"><img src="https://d3sux4fmh2nu8u.cloudfront.net/Pictures/274x183/3/7/1/2001371_jsanter6492_37828_crop.jpg" loading="lazy" class="lazyloaded" alt="JSanter-6492"></div><div class="captionBlock"><span class="title">Cost model: Incorporating sustainability in purpose-built student accommodation</span></div></a></li><li class="promotedStory"><a href="/cost-models/cost-model-exploring-the-advantages-of-surgical-hubs-and-barn-theatres/5134268.article" class="image"><div class="image"><img src="https://d3sux4fmh2nu8u.cloudfront.net/Pictures/274x183/8/2/4/1996824_shutterstock_2385184407copy_701198.jpg" loading="lazy" class="lazyloaded" alt="shutterstock_2385184407 copy"></div><div class="captionBlock"><span class="title">Cost model: exploring the advantages of surgical hubs and barn theatres</span></div></a></li><li class="promotedStory"><a href="/cost-models/cost-model-what-solutions-are-there-for-low-embodied-carbon-office-fit-outs/5133079.article" class="image"><div class="image"><img src="https://d3sux4fmh2nu8u.cloudfront.net/Pictures/274x183/0/9/3/1992093_shelletchighres37kopie21copy_352342_crop.jpg" loading="lazy" class="lazyloaded" alt="Shell ETC highres 37 kopie 2 (1) copy"></div><div class="captionBlock"><span class="title">Cost model: What solutions are there for low embodied carbon office fit-outs?</span></div></a></li></ul></div></div></li></ul></div></div><div class="desktopNavigationSpace"></div>
+	</div>
+</header>
+
+
+<div class="ad-style1 showMenuPushed">
+    <div class="sleeve">     
+<div class="spinAdvert">
+    <div class="ad">
+<div id="div-gpt-ad-undernav" data-google-query-id="CNu1qNym7YwDFen1FgUd_FAWww" style="display: none;">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-undernav'); });
+</script>
+<div id="google_ads_iframe_/20880572/amg-bldg/undernav_0__container__" style="border: 0pt none; width: 1024px; height: 0px;"></div></div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+		<div id="wrapper_sleeve" data-menu-open-pushed="" class="showMenuPushed">
+			<div id="columns" class="container">
+				<div id="colwrapper" class="inner-sleeve">
+					<div id="colmain" role="main">
+						<div id="content">
+							<div id="content_sleeve">
+								
+	<div class="pagenotfound">
+		<div class="htmlContent">
+			 <h1>Sorry about this!</h1>   
+<p class="bold">The page you're looking for cannot be found.</p>
+    <p>The link you clicked, or the URL you typed into your browser, didn’t work for some reason. Here are some possible reasons why:</p>             <ol>                 
+    <li>We have a “bad” link that has been moved or removed</li>                 <li>You may have typed the address incorrectly</li>                 
+    <li>We have a problem with the server. </li>             
+ </ol>
+ <p class="bold options404">Please try one of the following options:</p>  
+    <ul>
+        <li><a href="javascript:history.back()">Go back to the previous page</a></li>
+        <li><a href="/">Continue to the home page</a></li>
+    </ul>
+
+			
+		</div>
+	</div>
+
+							</div>
+						</div>
+					</div>
+					<div id="rightcolumn" class="fixedrightcolumn rightcolumn">
+						<div id="rightcolumn_sleeve">
+							
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			
+			
+
+<div class="footer_ad">
+	<div class="footer_ad_strip">
+		<div class="ad">
+			
+		</div>
+	</div>
+</div>
+			
+<div id="footer" class="footer" role="contentinfo">
+	<div class="container footerTopNavPageText">
+		<div class="inner-sleeve">
+			<div class="nav topNav"><ul><li class="first"><a href="https://www.building.co.uk/previous-issues">Previous issues</a></li><li class=""><a href="https://www.building.co.uk/a-z-subjects">A - Z Subjects</a></li><li class=""><a href="https://www.building.co.uk/a-z-contributors">A - Z Contributors</a></li><li class="last"><a href="https://www.buildingproductsearch.co.uk">Building Product Search</a></li></ul></div><div class="footerSocial">
+    <span class="footerSocialText"><strong>Find us on social media:</strong></span>
+    <ul>
+        <li class="footerSocialFacebook">
+            <a href="https://www.facebook.com/BuildingMagazine" target="_blank" title="Connect with us on Facebook"></a>
+        </li>
+        <li class="footerSocialTwitter">
+            <a href="https://twitter.com/BuildingNews" target="_blank" title="Connect with us on Twitter"></a>
+        </li>
+        <li class="footerSocialLinkedin">
+            <a href="https://www.linkedin.com/company/building-uk" target="_blank" title="Connect with us on Linked in"></a>
+        </li>
+        <li class="footerSocialEmail">
+            <a href="/contact-building" title="Email us"></a>
+        </li>
+		  <li class="footerSocialInstagram">
+            <a href="https://www.instagram.com/buildingmag_news/" target="_blank" title="Connect with us on Instagram"></a>
+        </li><li class="footerSocialYoutube">
+            <a href="https://www.youtube.com/channel/UCcqCcIsFbgX-6bF3-g-bGYA" target="_blank" title="Connect with us on Youtube"></a>
+        </li>
+        <!--<li class="footerSocialVimeo">
+            <a href="#" title="Connect with us on Vimeo"></a>
+        </li>
+        <li class="footerSocialGoogle">
+            <a href="#" title="Connect with us on Google"></a>
+        </li>-->
+        <!--<li class="footerSocialPinterest">
+            <a href="https://www.pinterest.com/buildingmag/" target="_blank" title="Connect with us on Pinterest"></a>
+        </li>
+        </li>-->
+    </ul>
+</div>
+		</div>
+	</div>
+	<div class="container bottomNav"><div class="inner-sleeve"><ul><li class="first">© Building 2023</li><li><a href="https://www.building.co.uk/terms-and-conditions">Terms and Conditions</a></li><li><a href="https://www.building.co.uk/5093796.article" class="newWindow">Cookie Policy</a></li><li><a href="https://www.building.co.uk/5093796.article" class="newWindow">Privacy Policy</a></li><li><a href="https://www.building.co.uk/contact-building">Contact Building</a></li><li><a href="https://www.building.co.uk/about-us/5004246.article">About Us</a></li><li><a href="https://www.building.co.uk/advertise">Advertise</a></li><li class="last"><a href="https://www.building.co.uk/specs">Specs</a></li></ul></div></div>		
+	<div class="bottom">
+		<div class="container footerBottomNavPageText">
+			<div class="inner-sleeve">
+				
+				<p class="webvision">Site powered by <a href="https://www.abacusemedia.com/webvisioncloud">Webvision Cloud</a></p>
+			</div>
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+	<script src="/Magazine/core.js?p=7605401680538657" defer=""></script>
+	
+
+	
+
+	
+
+<div class="overlay"></div><div class="abacusPopup" tabindex="0" aria-labelledby="popupLabel" role="dialog"><div class="sleeve"><div class="abacusPopupContent"></div></div></div><ins class="adsbygoogle adsbygoogle-noablate" data-adsbygoogle-status="done" style="display: none !important;" data-ad-status="unfilled"><div id="aswift_0_host" style="border: none; height: 0px; width: 0px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block;"><iframe id="aswift_0" name="aswift_0" browsingtopics="true" style="left:0;position:absolute;top:0;border:0;width:undefinedpx;height:undefinedpx;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9529750328040678&amp;output=html&amp;adk=3175972408&amp;adf=2923868809&amp;abgtt=1&amp;lmt=1745382023&amp;plat=3%3A16%2C9%3A32776%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1081344%2C32%3A32%2C41%3A32%2C42%3A32&amp;plas=270x672_r&amp;format=0x0&amp;url=https%3A%2F%2Fwww.building.co.uk%2Fsearch%3Fsearch%3DPacific%2BMarble%2B%26%2BGranite%2B(H.K.)%2BLimited&amp;pra=5&amp;wgl=1&amp;aihb=0&amp;asro=1&amp;aifxl=29_18~30_19&amp;aiapm=0.15&amp;aiapmi=0.16&amp;aiact=0.7&amp;ailct=0.7&amp;uach=WyJtYWNPUyIsIjE1LjMuMiIsImFybSIsIiIsIjEzNS4wLjcwNDkuOTYiLG51bGwsMCxudWxsLCI2NCIsW1siR29vZ2xlIENocm9tZSIsIjEzNS4wLjcwNDkuOTYiXSxbIk5vdC1BLkJyYW5kIiwiOC4wLjAuMCJdLFsiQ2hyb21pdW0iLCIxMzUuMC43MDQ5Ljk2Il1dLDBd&amp;dt=1745382022977&amp;bpp=10&amp;bdt=1781&amp;idt=762&amp;shv=r20250421&amp;mjsv=m202504170101&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;cookie_enabled=1&amp;eoidce=1&amp;nras=1&amp;correlator=2123222138193&amp;frm=20&amp;pv=2&amp;u_tz=480&amp;u_his=4&amp;u_h=982&amp;u_w=1512&amp;u_ah=884&amp;u_aw=1512&amp;u_cd=30&amp;u_sd=2&amp;dmc=8&amp;adx=-12245933&amp;ady=-12245933&amp;biw=1920&amp;bih=993&amp;scr_x=0&amp;scr_y=0&amp;eid=95357427%2C31091334%2C44801779%2C95357878%2C95357715&amp;oid=2&amp;pvsid=949632879954506&amp;tmod=1158113884&amp;uas=0&amp;nvt=1&amp;fsapi=1&amp;fc=1920&amp;brdim=0%2C0%2C0%2C0%2C1512%2C38%2C0%2C0%2C1920%2C993&amp;vis=2&amp;rsz=%7C%7Cs%7C&amp;abl=NS&amp;fu=32768&amp;bc=31&amp;bz=0&amp;td=1&amp;tdf=2&amp;psd=W251bGwsbnVsbCxudWxsLDNd&amp;nt=1&amp;ifi=1&amp;uci=a!1&amp;fsb=1&amp;dtd=780" data-google-container-id="a!1" tabindex="0" title="Advertisement" aria-label="Advertisement" data-load-complete="true"></iframe></div></ins>
+<script id="hs-script-loader" text="" charset="" type="text/javascript" src="//js.hs-scripts.com/4363057.js"></script>
+<script id="hs-script-loader" text="" charset="" type="text/javascript" src="//js.hs-scripts.com/4446385.js"></script>
+<script type="text/javascript" id="" charset="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","346629299285248");fbq("set","agent","tmgoogletagmanager","346629299285248");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=346629299285248&amp;ev=PageView&amp;noscript=1"></noscript><iframe allow="join-ad-interest-group" data-tagging-id="AW-758233501" data-load-time="1745382024268" height="0" width="0" src="https://td.doubleclick.net/td/rul/758233501?random=1745382024264&amp;cv=11&amp;fst=1745382024264&amp;fmt=3&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be54l0z877413376za201zb9103129340&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=102803279~102813109~102887800~102926062~103027016~103051953~103055465~103077950~103106314~103106316&amp;ptag_exp=102803279~102813109~102887800~102926062~103027016~103051953~103055465~103077950~103106314~103106316&amp;u_w=1512&amp;u_h=982&amp;url=https%3A%2F%2Fwww.building.co.uk%2Fsearch%3Fsearch%3DPacific%2BMarble%2B%26%2BGranite%2B(H.K.)%2BLimited&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=Page%20Not%20Found%20%7C%20Building&amp;npa=0&amp;pscdl=noapi&amp;uaa=arm&amp;uab=64&amp;uafvl=Google%2520Chrome%3B135.0.7049.96%7CNot-A.Brand%3B8.0.0.0%7CChromium%3B135.0.7049.96&amp;uamb=0&amp;uam=&amp;uap=macOS&amp;uapv=15.3.2&amp;uaw=0&amp;fledge=1&amp;_tu=Cg" style="display: none; visibility: hidden;"></iframe><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe>
+
+
+<iframe owner="archetype" title="archetype" style="display: none; visibility: hidden;"></iframe><iframe src="https://www.google.com/recaptcha/api2/aframe" width="0" height="0" style="display: none;"></iframe></body><iframe id="google_esf" name="google_esf" src="https://googleads.g.doubleclick.net/pagead/html/r20250421/r20190131/zrt_lookup.html" style="display: none;"></iframe><iframe name="goog_topics_frame" src="https://securepubads.g.doubleclick.net/static/topics/topics_frame.html" style="display: none;"></iframe></html>

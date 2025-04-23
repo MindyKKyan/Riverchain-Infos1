@@ -1,0 +1,76 @@
+{
+  "source": "bing_news",
+  "articles": [
+    {
+      "title": "Analyst Says",
+      "url": "http://www.aastocks.com/en/mobile/news.aspx?newsid=NOW.1434906&newssource=AAFN",
+      "source": "AASTOCKS.com",
+      "date": "1d",
+      "summary": "",
+      "image_url": "/th?id=ODF.MQ8OytLcHu8SZAJW6-S4kQ&pid=news&w=16&h=16&c=14&rs=2&qlt=90"
+    },
+    {
+      "title": "",
+      "url": "https://finance.yahoo.com/quote/0017.HK/news/",
+      "source": "Yahoo Finance",
+      "date": "1d",
+      "summary": ""
+    },
+    {
+      "title": "",
+      "url": "https://www.businesstimes.com.sg/international/global/new-world-seeks-hk15-6-billion-loan-pledging-prized-hong-kong-asset",
+      "source": "Business Times",
+      "date": "26d",
+      "summary": ""
+    },
+    {
+      "title": "",
+      "url": "https://www.morningstar.com/stocks/xhkg/00017/news",
+      "source": "Morningstar",
+      "date": "12d",
+      "summary": ""
+    },
+    {
+      "title": "",
+      "url": "https://www.scmp.com/business/banking-finance/article/3304764/new-world-development-plans-sweetening-terms-two-loans-it-seeking",
+      "source": "scmp.com",
+      "date": "21d",
+      "summary": ""
+    },
+    {
+      "title": "",
+      "url": "https://www.bloomberg.com/news/articles/2025-03-27/new-world-seeks-2-billion-loan-pledging-prized-hong-kong-asset",
+      "source": "Bloomberg L.P.",
+      "date": "26d",
+      "summary": ""
+    },
+    {
+      "title": "22 Hong Kong, mainland firms express interest in pilot Northern Metropolis scheme",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3304624/22-hong-kong-mainland-firms-express-interest-pilot-northern-metropolis-scheme",
+      "source": "scmp.com",
+      "date": "22d",
+      "summary": ""
+    },
+    {
+      "title": "Spare",
+      "url": "https://www.msn.com/en-xl/general/general/spare-developing-countries-from-new-u-s-tariffs-un-trade-chief/ar-AA1CIYCb?ocid=BingNewsVerp",
+      "source": "MSN",
+      "date": "11d",
+      "summary": ""
+    },
+    {
+      "title": "Adrian Cheng invests in medical equipment firm in first bet after exit as",
+      "url": "https://www.scmp.com/business/article/3304951/adrian-cheng-invests-medical-equipment-firm-first-bet-after-new-world-exit",
+      "source": "scmp.com",
+      "date": "20d",
+      "summary": ""
+    },
+    {
+      "title": "",
+      "url": "https://www.bloomberg.com/news/articles/2025-04-01/new-world-sweetens-terms-for-loans-again-tapping-prized-asset",
+      "source": "Bloomberg L.P.",
+      "date": "21d",
+      "summary": ""
+    }
+  ]
+}

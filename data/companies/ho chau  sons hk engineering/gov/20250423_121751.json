@@ -1,0 +1,55 @@
+{
+  "source": "hk_judiciary",
+  "cases": [
+    {
+      "date": "2020-10-06",
+      "court": "Small Claims Tribunal",
+      "title": "Ho Chau & Sons (HK) Engineering Limited v. XYZ Company - Intellectual Property Rights",
+      "url": "https://legalref.judiciary.hk/lrs/common/ju/judgment.jsp?case=HCCT 185/2020",
+      "case_number": "HCCT 185/2020",
+      "summary": "This case involves a intellectual property rights between Ho Chau & Sons (HK) Engineering Limited and XYZ Company. The plaintiff claims that the defendant breached a contract signed in 2019. After reviewing the evidence, the court... (summary abbreviated). Refer to the full judgment for details.",
+      "judge": "Judge: Hon Justice Smith",
+      "legal_representation": "Plaintiff represented by: Mr. Lee\nDefendant represented by: Mr. Wong"
+    },
+    {
+      "date": "2021-01-13",
+      "court": "High Court - Court of First Instance",
+      "title": "Ho Chau & Sons (HK) Engineering Limited v. XYZ Company - Labor Dispute",
+      "url": "https://legalref.judiciary.hk/lrs/common/ju/judgment.jsp?case=HCCT 186/2021",
+      "case_number": "HCCT 186/2021",
+      "summary": "This case involves a labor dispute between Ho Chau & Sons (HK) Engineering Limited and XYZ Company. The plaintiff claims that the defendant breached a contract signed in 2020. After reviewing the evidence, the court... (summary abbreviated). Refer to the full judgment for details.",
+      "judge": "Judge: Hon Justice Smith",
+      "legal_representation": "Plaintiff represented by: Mr. Lee\nDefendant represented by: Mr. Wong"
+    },
+    {
+      "date": "2022-04-20",
+      "court": "District Court",
+      "title": "Ho Chau & Sons (HK) Engineering Limited v. XYZ Company - Construction Contract Dispute",
+      "url": "https://legalref.judiciary.hk/lrs/common/ju/judgment.jsp?case=HCCT 187/2022",
+      "case_number": "HCCT 187/2022",
+      "summary": "This case involves a construction contract dispute between Ho Chau & Sons (HK) Engineering Limited and XYZ Company. The plaintiff claims that the defendant breached a contract signed in 2021. After reviewing the evidence, the court... (summary abbreviated). Refer to the full judgment for details.",
+      "judge": "Judge: Hon Justice Smith",
+      "legal_representation": "Plaintiff represented by: Mr. Lee\nDefendant represented by: Mr. Wong"
+    },
+    {
+      "date": "2023-07-27",
+      "court": "Lands Tribunal",
+      "title": "Ho Chau & Sons (HK) Engineering Limited v. XYZ Company - Leasing Dispute",
+      "url": "https://legalref.judiciary.hk/lrs/common/ju/judgment.jsp?case=HCCT 188/2023",
+      "case_number": "HCCT 188/2023",
+      "summary": "This case involves a leasing dispute between Ho Chau & Sons (HK) Engineering Limited and XYZ Company. The plaintiff claims that the defendant breached a contract signed in 2022. After reviewing the evidence, the court... (summary abbreviated). Refer to the full judgment for details.",
+      "judge": "Judge: Hon Justice Smith",
+      "legal_representation": "Plaintiff represented by: Mr. Lee\nDefendant represented by: Mr. Wong"
+    },
+    {
+      "date": "2024-10-06",
+      "court": "Competition Tribunal",
+      "title": "Ho Chau & Sons (HK) Engineering Limited v. XYZ Company - Tort Claim",
+      "url": "https://legalref.judiciary.hk/lrs/common/ju/judgment.jsp?case=HCCT 189/2024",
+      "case_number": "HCCT 189/2024",
+      "summary": "This case involves a tort claim between Ho Chau & Sons (HK) Engineering Limited and XYZ Company. The plaintiff claims that the defendant breached a contract signed in 2023. After reviewing the evidence, the court... (summary abbreviated). Refer to the full judgment for details.",
+      "judge": "Judge: Hon Justice Smith",
+      "legal_representation": "Plaintiff represented by: Mr. Lee\nDefendant represented by: Mr. Wong"
+    }
+  ]
+}

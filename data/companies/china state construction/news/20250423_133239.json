@@ -1,0 +1,133 @@
+{
+  "source": "bing_news",
+  "articles": [
+    {
+      "title": "",
+      "url": "https://finance.yahoo.com/news/china-construction-market-forecast-report-082700859.html",
+      "source": "",
+      "date": "",
+      "summary": "The Chinese construction industry is set for steady growth, with a forecasted increase of 3.2% in 2025, mainly driven by infrastructure and energy sectors. The Xiongan High-Speed Railway's new 468.5 ...",
+      "image_url": "data:image/png;base64,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"
+    },
+    {
+      "title": "Thai-",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3307344/thai-chinese-firm-denies-safety-breach-probe-bangkok-skyscraper-collapse-during-quake",
+      "source": "",
+      "date": "",
+      "summary": "Xin Ke Yuan Steel is being scrutinised for the quality of steel rods in a high-rise that collapsed during last month’s ...",
+      "image_url": "/th?id=OVF.%2FsTfh4Q9KFOyKOdfhr%2FiAw&pid=News&w=234&h=132&c=14&rs=2&qlt=90"
+    },
+    {
+      "title": "Thai-",
+      "url": "https://www.msn.com/en-gb/public-safety-and-emergencies/health-and-safety-alerts/thai-chinese-company-denies-flouting-safety-measures-in-probe-of-skyscraper-collapse-following-quake/ar-AA1DjVU5?ocid=BingNewsVerp",
+      "source": "",
+      "date": "",
+      "summary": "BANGKOK: A Thai-Chinese company denied Monday (April 21) allegations its steel rods did not pass safety standard tests after ...",
+      "image_url": "/th?id=OVFT.EyyKuG-hvORi7-_MvSLWAS&pid=News&w=234&h=132&c=14&rs=2&qlt=90"
+    },
+    {
+      "title": "Thailand arrests",
+      "url": "https://www.msn.com/en-gb/public-safety-and-emergencies/general/thailand-arrests-chinese-executive-linked-to-bangkok-tower-that-collapsed-during-earthquake/ar-AA1DnT41?ocid=BingNewsVerp",
+      "source": "",
+      "date": "",
+      "summary": "Thailand’s authorities arrested a Chinese executive linked to the construction company responsible for a high-rise tower that ...",
+      "image_url": "/th?id=OVF.mla1SB40V%2F5ag8l9lOu3pA&pid=News&w=234&h=132&c=14&rs=2&qlt=90"
+    },
+    {
+      "title": "threatens to unleash $1.9 trillion 'tsunami' on the world in drawn-out tariff warfare with the U.S.",
+      "url": "https://www.msn.com/en-xl/news/other/china-threatens-to-unleash-19-trillion-tsunami-on-the-world-in-drawn-out-tariff-warfare-with-the-us/ar-AA1CE6jr?ocid=BingNewsVerp",
+      "source": "",
+      "date": "",
+      "summary": "China is preparing for a 'prolonged economic warfare' with Donald Trump after the president added additional tariffs on ...",
+      "image_url": "/th?id=OVFT.fcimNkbTchQaZmQh6coM1y&pid=News&w=234&h=132&c=14&rs=2&qlt=90"
+    },
+    {
+      "title": "executive of firm",
+      "url": "https://www.msn.com/en-xl/money/general/chinese-executive-of-firm-constructing-collapsed-high-rise-in-bangkok-arrested/ar-AA1DgID0?ocid=BingNewsVerp",
+      "source": "Asian News International on MSN",
+      "date": "",
+      "summary": "The firm was building the 30-storey State Audit Office headquarters in Chatuchak district of Bangkok, which collapsed after ...",
+      "image_url": "/th?id=OVFT.JkALI7_oL3QD9swMeDrABS&pid=News&w=234&h=132&c=14&rs=2&qlt=90"
+    },
+    {
+      "title": "-Built Airport in Nepal Was Littered With Corruption, Inquiry Finds",
+      "url": "https://www.nytimes.com/2025/04/18/business/china-nepal-airport.html",
+      "source": "",
+      "date": "",
+      "summary": "A Nepali investigation blamed lawmakers and officials for looking the other way. The $216 million airport receives only one ...",
+      "image_url": "/th?id=OVFT.-Vu-P_4bvW5plpcK6jbM7i&pid=News&w=234&h=132&c=14&rs=2&qlt=90"
+    },
+    {
+      "title": "and Cambodia ink deal for massive canal project that has raised environmental concerns",
+      "url": "https://www.msn.com/en-us/news/world/china-and-cambodia-ink-deal-for-massive-canal-project-that-has-raised-environmental-concerns/ar-AA1DbMzI?ocid=BingNewsVerp",
+      "source": "",
+      "date": "",
+      "summary": "Cambodia and China have signed a US$1.2 billion deal to finance an ambitious canal project that aims to boost trade ...",
+      "image_url": "/th?id=OVFT.gBowwb3GhsHtTlXMT07URi&pid=News&w=234&h=132&c=14&rs=2&qlt=90"
+    },
+    {
+      "title": "Fire in",
+      "url": "https://www.msn.com/en-xl/news/other/fire-in-china-nursing-home-kills-20/ar-AA1Czyvq?ocid=BingNewsVerp",
+      "source": "VnExpress International on MSN",
+      "date": "",
+      "summary": "Twenty people have died in a fire at a nursing home in northern China's Hebei province, Beijing's state news agency Xinhua ...",
+      "image_url": "/th?id=OVFT.3h-4iRLbfUnXsdv2cgyJKC&pid=News&w=234&h=132&c=14&rs=2&qlt=90"
+    },
+    {
+      "title": "Thai-",
+      "url": "https://www.msn.com/en-xl/news/other/thai-chinese-company-denies-ignoring-safety-after-quake-caused-block-to-collapse/ar-AA1DkulI?ocid=BingNewsVerp",
+      "source": "",
+      "date": "",
+      "summary": "The collapse sparked questions about the enforcement of construction safety and the state-run Chinese contractor, China ...",
+      "image_url": "/th?id=OVFT.zqA_Kq6GzcDLBd_sAqE28C&pid=News&w=234&h=132&c=14&rs=2&qlt=90&dpr=2"
+    },
+    {
+      "title": "Port",
+      "url": "https://www.enr.com/articles/60580-china-port-construction-in-africa-raises-concern-about-military-use",
+      "source": "Engineering News-Record",
+      "date": "",
+      "summary": "At least seven China-backed ports have design features that make them able to berth naval facilities, even though they wasn't ...",
+      "image_url": "/th?id=OVFT.9m-MSUcvaKwOmMwQUR37py&pid=News&w=234&h=132&c=14&rs=2&qlt=90&dpr=2"
+    },
+    {
+      "title": "Tawee vows:",
+      "url": "https://www.nationthailand.com/news/general/40049085",
+      "source": "Nation Thailand",
+      "date": "",
+      "summary": "Justice Minister Tawee vows China cannot interfere in Thai legal cases against CREC over a deadly building collapse.",
+      "image_url": "/th?id=OVFT.Aly6vLI_PeGT7hSEX6xqUi&pid=News&w=234&h=132&c=14&rs=2&qlt=90&dpr=2"
+    },
+    {
+      "title": "Thailand authorities arrest",
+      "url": "https://www.msn.com/en-in/news/world/thailand-authorities-arrest-chinese-national-over-bangkok-skyscraper-collapse/ar-AA1Dgvfl?ocid=BingNewsVerp",
+      "source": "",
+      "date": "",
+      "summary": "The Thai authorities have arrested the Chinese executive of the construction company that was building the State Audit Office tower in Bangkok, which collapsed after strong tremors jolted the nation ...",
+      "image_url": "/th?id=OJ.0t100CGO8ioRJg&pid=news&w=41&h=16&rs=2&dpr=2"
+    },
+    {
+      "title": "Satellite images show 'Beijing Military City,' the secretive command center",
+      "url": "https://www.msn.com/en-us/news/world/satellite-images-show-beijing-military-city-the-secretive-command-center-china-is-building-it-may-be-the-worlds-largest/ss-AA1D3biS?ocid=BingNewsVerp",
+      "source": "",
+      "date": "",
+      "summary": "China is secretly building a massive military command center southwest of Beijing. The 1,500-acre construction site is expected to dwarf the Pentagon.",
+      "image_url": "/th?id=OJ.iTCrrGvEGMQHbw&pid=news&w=50&h=16&rs=2&dpr=2"
+    },
+    {
+      "title": "The world’s tallest bridge will open in",
+      "url": "https://www.msn.com/en-us/news/world/the-world-s-tallest-bridge-will-open-in-china-this-summer/ar-AA1CZYCo?ocid=BingNewsVerp",
+      "source": "",
+      "date": "",
+      "summary": "Move over, Golden Gate and Sydney Harbour. China is set to open the world’s tallest bridge in June, the latest feat of ...",
+      "image_url": "/th?id=OVFT.14SEVAZWTprU49YNlo5jgy&pid=News&w=234&h=132&c=14&rs=2&qlt=90&dpr=2"
+    },
+    {
+      "title": "Railway Executive Detained Over Bangkok Building Disaster",
+      "url": "https://www.khaosodenglish.com/news/2025/04/19/china-railway-executive-detained-over-bangkok-building-disaster/",
+      "source": "Khaosod English",
+      "date": "",
+      "summary": "Thai authorities have made their first arrest following the collapse of the 33-story State Audit Office building in Bangkok.",
+      "image_url": "/th?id=OVFT.7qNtKLbLVRQBYm_FmWcOBy&pid=News&w=234&h=132&c=14&rs=2&qlt=90&dpr=2"
+    }
+  ]
+}

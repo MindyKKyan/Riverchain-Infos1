@@ -1,0 +1,55 @@
+{
+  "source": "construction_qualifications",
+  "qualifications": [
+    {
+      "title": "专业承建商 (混凝土)",
+      "issuing_authority": "建造业议会",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2026-08-28",
+      "certification_number": "HKCQ-8431",
+      "status": "有效",
+      "url": "https://www.construction-cert.hk/cert/8431",
+      "description": "专业承建商 (混凝土)认证是针对在专业承建商领域的企业颁发的资质认证，由建造业议会认证发布。"
+    },
+    {
+      "title": "专业承建商 (土方工程)",
+      "issuing_authority": "香港建筑师学会",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2027-11-07",
+      "certification_number": "HKCQ-8432",
+      "status": "有效",
+      "url": "https://www.construction-cert.hk/cert/8432",
+      "description": "专业承建商 (土方工程)认证是针对在专业承建商领域的企业颁发的资质认证，由香港建筑师学会认证发布。"
+    },
+    {
+      "title": "专业承建商 (基础工程)",
+      "issuing_authority": "香港特别行政区政府屋宇署",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2025-02-14",
+      "certification_number": "HKCQ-8433",
+      "status": "有效",
+      "url": "https://www.construction-cert.hk/cert/8433",
+      "description": "专业承建商 (基础工程)认证是针对在专业承建商领域的企业颁发的资质认证，由香港特别行政区政府屋宇署认证发布。"
+    },
+    {
+      "title": "专业承建商 (结构钢筋)",
+      "issuing_authority": "建造业议会",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2026-05-21",
+      "certification_number": "HKCQ-8434",
+      "status": "有效",
+      "url": "https://www.construction-cert.hk/cert/8434",
+      "description": "专业承建商 (结构钢筋)认证是针对在专业承建商领域的企业颁发的资质认证，由建造业议会认证发布。"
+    },
+    {
+      "title": "专业承建商 (拆卸工程)",
+      "issuing_authority": "香港建筑师学会",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2027-08-28",
+      "certification_number": "HKCQ-8435",
+      "status": "有效",
+      "url": "https://www.construction-cert.hk/cert/8435",
+      "description": "专业承建商 (拆卸工程)认证是针对在专业承建商领域的企业颁发的资质认证，由香港建筑师学会认证发布。"
+    }
+  ]
+}

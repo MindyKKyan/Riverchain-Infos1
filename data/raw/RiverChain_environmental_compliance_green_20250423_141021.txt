@@ -1,0 +1,870 @@
+<html lang="en-hk" class="wf-roboto-n3-inactive wf-roboto-n4-inactive wf-roboto-n5-inactive wf-roboto-n6-inactive wf-inactive"><head><meta http-equiv="origin-trial" content="A7vZI3v+Gz7JfuRolKNM4Aff6zaGuT7X0mf3wtoZTnKv6497cVMnhy03KDqX7kBz/q/iidW7srW31oQbBt4VhgoAAACUeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGUuY29tOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRpb25pbmczIiwiZXhwaXJ5IjoxNzU3OTgwODAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta charset="UTF-8">
+<title>Hong Kong Green Building Council Limited | HKGBC</title>
+
+<meta property="og:title" content="Hong Kong Green Building Council Limited">
+<meta property="og:image" content="https://www.hkgbc.org.hk/og/images/HKGBW-2018_KV_Webbanner_R.jpg">
+<meta property="og:image:secure_url" content="https://www.hkgbc.org.hk/og/images/HKGBW-2018_KV_Webbanner_R.jpg"> 
+<meta property="og:image:width" content="600"> 
+<meta property="og:image:height" content="315"> 
+<meta property="og:description" content="Many may consider a green building as a building that comes with green walls and solar panels to beautify and protect the environment. It is way more than that. Green building is a multi-disciplinary subject and has a profound impact on us.">
+<meta name="keywords" content="What is Green Building?">
+<meta name="description" content="Many may consider a green building as a building that comes with green walls and solar panels to beautify and protect the environment. It is way more than that. Green building is a multi-disciplinary subject and has a profound impact on us.">
+
+
+
+
+
+<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+<!-- ▼ favicons  -->
+<link rel="shortcut icon" href="/share/img/favicon_32.ico">
+<link rel="icon" type="image/png" href="/share/img/favicon_32.png">
+<link rel="apple-touch-icon" href="/share/img/favicon_128.png">
+
+
+
+<!-- ▼ jq plugins -->
+<link rel="stylesheet" href="/share/css/perfect-scrollbar.min.css">
+<link rel="stylesheet" href="/share/css/jquery.fancybox.min.css" type="text/css">
+<link rel="stylesheet" href="/share/css/select2.css" type="text/css">
+<link rel="stylesheet" href="/share/css/slick.css" type="text/css">
+<link rel="stylesheet" href="/share/css/slick-theme.css" type="text/css">
+<link rel="stylesheet" href="/share/css/bootstrap/zebra_datepicker.min.css" type="text/css">
+<link rel="stylesheet" href="/share/css/slick-theme.css" type="text/css">
+<link rel="stylesheet" href="/share/css/trumbowyg.min.css" type="text/css">
+<link rel="stylesheet" href="/share/css/datatables.min.css" type="text/css">
+<link rel="stylesheet" href="/share/css/animate.min.css" type="text/css">
+<link rel="stylesheet" href="/share/css/easy-autocomplete.min.css"> 
+<!-- ▼ common css  -->
+
+<link rel="stylesheet" href="/share/css/common.css">
+
+
+
+
+
+<script src="https://connect.facebook.net/en_GB/sdk.js?hash=ca757f240e178f2dfc9ae6201350cd21" async="" crossorigin="anonymous"></script><script type="text/javascript" async="" charset="utf-8" src="https://www.gstatic.com/recaptcha/releases/ItfkQiGBlJCsN5gUMmHbpLEb/recaptcha__en_gb.js" crossorigin="anonymous" integrity="sha384-5D9BW/kEpkIwsYJHWPiqYliVH+AjgzXqa9eWXzxwMvF06Z2dRgRyvBy0RQHk95df"></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v3.1&amp;appId=215713285156409&amp;autoLogAppEvents=1"></script><script src="/share/js/webfont.js" type="text/javascript" async=""></script><script src="/share/js/jquery-3.3.1.min.js"></script>
+<script src="/share/js/datatables.min.js"></script>
+<script src="/share/js/jquery.easing.js"></script>
+<script src="/share/js/jquery.platformselector.js"></script>
+<script src="/share/js/jquery.scrollTo.min.js"></script>
+<script src="/share/js/imagesloaded.pkgd.min.js"></script>
+<script src="/share/js/slick.min.js"></script>
+<script src="/share/js/perfect-scrollbar.jquery.min.js"></script>
+<script src="/share/js/jquery.fancybox.min.js"></script>
+<script src="/share/js/select2.min.js"></script>
+<script src="/share/js/jquery.cookies.js"></script>
+<script src="/share/js/trunk8.js"></script>
+<script src="/share/js/jquery.localize.min.js"></script>
+<script src="/share/js/zebra_datepicker.js"></script>
+<script src="/share/js/trumbowyg.min.js"></script>
+<script src="/share/js/rellax.min.js"></script>
+ <script src="/share/js/jquery.easeScroll.js"></script>
+<script type="text/javascript" src="/share/js/valida.2.1.7.js"></script>
+<script type="text/javascript" src="/share/js/form.js"></script>
+<script src="/share/js/jquery.easy-autocomplete.min.js"></script>
+
+<!-- ▼ common & responsive js -->
+<script src="/share/js/responsive_frame.js"></script>
+<script src="/share/js/greensock/TweenMax.min.js"></script>
+<script src="/share/js/scrollmagic/ScrollMagic.min.js"></script>
+<script src="/share/js/scrollmagic/plugins/animation.gsap.min.js"></script>
+<script src="/share/js/scrollmagic/plugins/debug.addIndicators.min.js"></script>
+<script src="/share/js/common.js" id="commonJS"></script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b6431d888d05676"></script>
+
+<script>
+	var ContextPath = '';
+	
+	var siteKey = '6LdEqGgeAAAAAKiOeDtQiVvAdKgsGFGpUNdlJ2Sw';
+</script>
+
+<script type="text/javascript" id="cookieinfo" src="//cookieinfoscript.com/js/cookieinfo.min.js" data-bg="#006687" data-fg="#FFFFFF" data-link="#ffffff" data-divlinkbg="#71bf44" data-divlink="#ffffff" data-cookie="CookieInfoScript" data-text-align="left" data-message="We use cookies to give you the best possible experience on our website. By continuing to browse this site, you give consent for cookies to be used." data-linkmsg="">
+</script>
+
+<!-- recaptcha v2 -->
+<script type="text/javascript">
+	var CaptchaCallback = function() {
+		if($("#previewForm").length){
+			grecaptcha.render('eventRegistration', {'sitekey' : '6LdEqGgeAAAAAKiOeDtQiVvAdKgsGFGpUNdlJ2Sw'});
+		}
+		if($("#customForm").length) {
+			grecaptcha.render('customForm', {'sitekey': '6LdEqGgeAAAAAKiOeDtQiVvAdKgsGFGpUNdlJ2Sw'});
+		}
+		if($("#emailSubscriptionForm").length) {
+			grecaptcha.render('emailSubscriptionForm', {
+				'sitekey': '6LdEqGgeAAAAAKiOeDtQiVvAdKgsGFGpUNdlJ2Sw'
+			});
+		}
+		// if($("#loginForm").length) {
+		// 	grecaptcha.render('loginForm', {
+		// 		'sitekey': '6LdEqGgeAAAAAKiOeDtQiVvAdKgsGFGpUNdlJ2Sw'
+		// 	});
+		// }
+		if($("#pwdform").length) {
+			 pwdFormWidget = grecaptcha.render('pwdform', {
+				'sitekey': '6LdEqGgeAAAAAKiOeDtQiVvAdKgsGFGpUNdlJ2Sw'
+			});
+		}
+		if($("#memberProfileUpdate").length) {
+			grecaptcha.render('memberProfileUpdate', {
+				'sitekey': '6LdEqGgeAAAAAKiOeDtQiVvAdKgsGFGpUNdlJ2Sw'
+			});
+		}
+		if($("#memberRegistration").length) {
+			grecaptcha.render('memberRegistration', {'sitekey': '6LdEqGgeAAAAAKiOeDtQiVvAdKgsGFGpUNdlJ2Sw'});
+		}
+	};
+</script>
+
+<script src="https://www.google.com/recaptcha/api.js?onload=CaptchaCallback&amp;render=explicit&amp;hl=en-HK" async="" defer=""></script>
+
+
+
+<script async="" type="text/javascript" src="/share/js/main.js"></script>
+<style>
+	.cursor_default{cursor:default}
+</style><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,600" media="all">
+<style type="text/css" data-fbcssmodules="css:fb.css.base css:fb.css.dialog css:fb.css.iframewidget">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0px;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:'lucida grande', tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0px;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:'lucida grande', tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82,82,82,.7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://connect.facebook.net/rsrc.php/v4/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://connect.facebook.net/rsrc.php/v4/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://connect.facebook.net/rsrc.php/v4/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://connect.facebook.net/rsrc.php/v4/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0px;margin:0px;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://connect.facebook.net/rsrc.php/v4/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:white;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0,0,0,.4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:white 0px 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0,30,84,.296875) 0px -1px 0px;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267b2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:white;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0,30,84,.296875) 0px -1px 0px}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://connect.facebook.net/rsrc.php/v4/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://connect.facebook.net/rsrc.php/v4/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}</style></head>
+
+<body class="homePage mac js applewebkit applewebkit_537_36 applewebkit_537 headlesschrome headlesschrome_135_0_0_0 headlesschrome_135 safari safari_537_36 safari_537">
+
+
+<!------------------------- /main/header.jsp (include file) ---------------------->
+
+
+
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<!-- <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b6431d888d05676"></script>
+ -->
+<header id="header" data-genuitec-lp-enabled="false" data-genuitec-file-id="wc1-26" data-genuitec-path="/GBC_STAGE/WebRoot/eng/main/header.jsp" class="fadeInDown" style="opacity: 0.4071; transform: translate3d(0px, -35.574px, 0px);">
+	<div class="wrap">
+		<a href="javascript:void(0);" class="mobileMenuBtn" id="responsive-menu-button"><span></span></a>
+		<div class="leftPart">
+			<div id="logo">
+				<a href="/eng/main/index">HKGBC</a>
+			</div>
+		</div>
+		<div class="rightPart">
+		<nav id="navigation">
+			<nav id="topNav">
+				<ul>
+					
+					<li class="loginBtn">
+						<a href="javascript:void(0)" class="bigBtn" data-localize="btn-login">Login</a>
+						<ul>
+							<li><a href="#memberLogin" class="fancyBox memberLogin" data-localize="header-member-login">HKGBC Member Login</a></li>
+							<li><a href="https://practitioner.hkgbc.org.hk/" target="_blank" data-localize="header-beam-pro-login">BEAM Pro/ BEAM Affiliate<br>Individual Account</a></li>
+							<li><a href="https://beamplusaccount.force.com/login" target="_blank" data-localize="header-beam-plus-login">BEAM Plus Project<br>Online Account</a></li>
+						</ul>
+					</li>
+					
+					<li class="searchWrap">
+						<input type="text" class="searchField" placeholder="Search" id="goSearch">
+						<input type="button" class="searchSubmit" onclick="indexSearch()">
+						<a href="javascript:void(0)" class="icon search" title="Search">Search</a>
+					</li>
+					<li><a href="https://www.facebook.com/hkgreenbuildingcouncil" class="icon facebook" target="_blank">facebook</a></li>
+					<li><a href="https://www.linkedin.com/company/hong-kong-green-building-council-hkgbc-" class="icon linkin" target="_blank">Linkin</a></li>
+					<li><a href="https://www.instagram.com/hkgreenbuildingcouncil" target="_blank" class="icon instgram">Instgram</a></li>
+					<li><a href="javascript:void(0)" class="icon fontSize">Font Size</a></li>
+					<li class="langBtn"><a href="javascript:void(0)" class="icon lang">EN</a>
+						<ul>
+							<li><a href="javascript:switchlang('tch');">繁體</a></li>
+						</ul>
+					</li>
+				</ul>
+			</nav>
+			<script src="/eng/js/menu.js?t=1745388591866"></script><ul class="mainMenu" id="nav"><li class="withSubmenu"><a href="javascript:void(0)">About Us</a><ul><li><a href="/eng/about-us/about-us/index.jsp">About HKGBC</a><ul style=""><li><a href="/eng/about-us/about-us/board-of-director/index.jsp">Board of Directors (2024-2025)</a><ul><li><a href="/eng/about-us/about-us/board-of-director/our-current-board/index.jsp">Our Current Board (2024-2025)</a></li><li><a href="/eng/about-us/about-us/board-of-director/previous-board/index.jsp">Previous Board</a><ul style=""><li><a href="/eng/about-us/about-us/board-of-director/previous-board/2022-2023/index.jsp">Our Board 2022-2023</a></li><li><a href="/eng/about-us/about-us/board-of-director/previous-board/2020-2021/index.jsp">Our Board 2020-2021</a></li><li><a href="/eng/about-us/about-us/board-of-director/previous-board/2018-2019/index.jsp">Our Board 2018-2019</a></li><li><a href="/eng/about-us/about-us/board-of-director/previous-board/2016-2017/index.jsp">Our Board 2016-2017</a></li><li><a href="/eng/about-us/about-us/board-of-director/previous-board/2014-2015/index.jsp">Our Board 2014-2015</a></li><li><a href="/eng/about-us/about-us/board-of-director/previous-board/2012-2013/index.jsp">Our Board 2012-2013</a></li><li><a href="/eng/about-us/about-us/board-of-director/previous-board/2010-2011/index.jsp">Our Board 2010-2011</a></li></ul></li></ul></li><li><a href="/eng/about-us/about-us/standing-committee/index.jsp">Standing Committees</a><ul><li><a href="/eng/about-us/about-us/standing-committee/finance-executive-committee/index.jsp">Finance &amp; Executive Committee (FEC)</a></li><li><a href="/eng/about-us/about-us/standing-committee/governance-quality-committee/index.jsp">Governance &amp; Quality Committee (G&amp;QC)</a></li><li><a href="/eng/about-us/about-us/standing-committee/communications-membership-committee/index.jsp">Communications &amp; Membership Committee (CMC)</a></li><li><a href="/eng/about-us/about-us/standing-committee/green-labelling-committee/index.jsp">Green Labelling Committee (GLC)</a></li><li><a href="/eng/about-us/about-us/standing-committee/infrastructure-rating-system-committee/index.jsp">Infrastructure Rating System Committee (IRSC)</a></li><li><a href="/eng/about-us/about-us/standing-committee/industry-standards-and-practices-committee/index.jsp">Industry Standards and Practices Committee (ISPC)</a></li><li><a href="/eng/about-us/about-us/standing-committee/sustainable-development-committee/index.jsp">Sustainable Development Committee (SDC)</a></li></ul></li><li><a href="/eng/about-us/about-us/founding-member/index.jsp">Founding Members</a></li><li><a href="/eng/about-us/about-us/honorary-advisor/index.jsp">Honorary Advisor</a></li></ul></li><li><a href="/eng/about-us/what-is-green-building/index.jsp">What is Green Building?</a></li><li><a href="/eng/about-us/Partnership/index.jsp">Partnership</a></li><li><a href="/eng/about-us/corporate-governance/index.jsp">Corporate Governance</a><ul style=""><li><a href="/eng/about-us/corporate-governance/audited-financial-statements/index.jsp">Audited Financial Statements</a></li><li><a href="/eng/about-us/corporate-governance/meeting-attendance-2024/meeting-attendance-2024.jsp">Meeting Attendance of Directors and Standing Committee Members</a></li><li><a href="/eng/about-us/corporate-governance/Probity rules and complaint procedures/probity rules and complaint.jsp">Probity Rules and Complaint Handling Procedures for Election of Directors from Institutional Members</a></li></ul></li><li><a href="/eng/about-us/green-measures-for-hkgbc-events/index.jsp">Green Measures for HKGBC Events</a></li><li><a href="/eng/about-us/expression-interest-tender/index.jsp">Expression of Interest / Tender</a></li><li><a href="/eng/about-us/careers/index.jsp">Careers</a></li><li><a href="/eng/about-us/contact-us/index.jsp">Contact Us</a></li></ul></li><li class="withSubmenu"><a href="javascript:void(0)">News &amp; Events</a><ul><li><a href="/eng/news-events/news/index.jsp">News</a></li><li><a href="/eng/news-events/greenmag-plus/index.jsp">GreenMAG Plus+ (HKGBC E-Newsletter)</a></li><li><a href="/eng/news-events/events-trainings/events">Events &amp; Training</a></li></ul></li><li class="withSubmenu"><a href="javascript:void(0)">Membership</a><ul><li><a href="/eng/membership/membership-package/index.jsp">Introduction</a><ul style=""><li><a href="/eng/membership/membership-package/patron-member/index.jsp">Patron Member</a><ul><li><a href="/eng/membership/membership-package/patron-member/current-patron-members/index.jsp">Current Patron Members</a></li></ul></li><li><a href="/eng/membership/membership-package/institutional-member/index.jsp">Basic Member</a><ul><li><a href="/eng/membership/membership-package/institutional-member/current-institutional-members/index.jsp">Current Basic Members</a></li></ul></li><li><a href="/eng/membership/membership-package/associate-member/index.jsp">Associate Member</a><ul><li><a href="/eng/membership/membership-package/associate-member/current_associate_member_government/government.jsp">Current Associate Member - Government</a></li><li><a href="/eng/membership/membership-package/associate-member/current_associate_member_overseas/overseas.jsp">Current Associate Member - Overseas</a></li></ul></li><li><a href="/eng/membership/membership-package/student-member/index.jsp">Student Member</a></li></ul></li><li><a href="/eng/membership/Current%20Members/currentmembers.jsp">Current Members</a></li><li><a href="/eng/membership/members-corner/index.jsp">Members' Corner</a></li><li><a href="/eng/memberprofile/registration">Member Registration</a></li></ul></li><li class="withSubmenu"><a href="javascript:void(0)">BEAM Plus</a><ul><li><a href="/eng/beam-plus/introduction/index.jsp">Introduction</a></li><li><a href="/eng/beam-plus/beam-plus-new-buildings/index.jsp">New Buildings (NB)</a></li><li><a href="/eng/beam-plus/beam-plus-existing-buildings/index.jsp">Existing Buildings (EB)</a></li><li><a href="/eng/beam-plus/beam-plus-existing-buildings-global/index.jsp">Existing Buildings (EB) - Global Version</a></li><li><a href="/eng/beam-plus/beam-plus-interiors/index.jsp">Interiors (BI)</a></li><li><a href="/eng/beam-plus/beam-plus-neighbourhood/index.jsp">Neighbourhood (ND)</a></li><li><a href="/eng/beam-plus/beam-plus-data-centres/index.jsp">Data Centres (DC)</a></li><li><a href="/eng/beam-plus/beam-plus-existing-schools/index.jsp">Existing Schools (ES)</a></li><li><a href="/eng/beam-plus/beam-plus-dir-stat/index.jsp">Project Directories &amp; Online Exhibition</a></li><li><a href="/eng/beam-plus/beam-plus-references/index.jsp">BEAM Plus Documents &amp; References</a><ul style=""><li><a href="/eng/beam-plus/beam-plus-references/manuals-assessment/manuals-assessment.jsp">Manuals and Assessment Processes</a></li><li><a href="/eng/beam-plus/beam-plus-references/fee/fee.jsp">Fee Scale and NGO / Non-HK Fee Concessions</a></li><li><a href="/eng/beam-plus/beam-plus-references/ref-others/ref-others.jsp">Research Area</a></li></ul></li><li><a href="/eng/beam-plus/promotion/index.jsp">Promotion</a></li><li><a href="/eng/beam-plus/incentive-funding/index.jsp">Tax Incentives, Funding Assistance &amp; Green Mortgage</a></li><li><a href="https://beamplusadmin.my.salesforce-sites.com/" target="_blank">Register your BEAM Plus project</a></li><li><a href="https://beamplusaccount.force.com/" target="_blank">Login to BEAM Plus Project Online Account</a><ul style=""><li><a href="https://form.jotform.com/hkgbc/beamplus-projectinfo-update" target="_blank">Project Information Update Form</a></li></ul></li><li><a href="/eng/beam-plus/practitioners/index.jsp" target="_blank">Practitioners</a><ul style=""><li><a href="https://app.powerbi.com/view?r=eyJrIjoiYjUxMDUwMWMtNWIzOS00YmQxLTgxYTYtMDZkMjczNDE1N2ZhIiwidCI6ImQwMTUyOGY5LTQ3NDItNGJjYS05MDVmLWU3ZjIxZTJhNmM5MiIsImMiOjEwfQ%3D%3D" target="_blank">Directory of Practitioners</a></li><li><a href="/eng/beam-plus/practitioners/green-building-faculty/index.jsp">Recruitment of Green Building Faculty</a></li><li><a href="/eng/beam-plus/practitioners/beam-assessor/index.jsp">Recruitment of BEAM Assessors</a></li><li><a href="/eng/beam-plus/practitioners/beam_consultant/beam_consultant.jsp">List of Companies with Service Records</a></li></ul></li><li><a href="/eng/beam-plus/green-taxonomy/index.jsp">Green Taxonomy Alignment Report Service</a></li><li><a href="/eng/beam-plus/quality-policy/index.jsp">Quality Policy and Achievement</a></li></ul></li><li class="withSubmenu"><a href="javascript:void(0)">Engagement</a><ul><li><a href="/eng/engagement/industry-schemes-awards/index.jsp">Industry Schemes &amp; Awards</a><ul style=""><li><a href="/eng/engagement/industry-schemes-awards/green-building-award/index.jsp">Green Building Award</a><ul><li><a href="https://www.gba.org.hk/">Green Building Award 2025</a></li><li><a href="https://gba2023.hkgbc.org.hk/" target="_blank">Green Building Award 2023</a></li><li><a href="https://gba2021.hkgbc.org.hk/index.php" target="_blank">Green Building Award 2021</a></li><li><a href="http://gba2019.hkgbc.org.hk/indexb.php" target="_blank">Green Building Award 2019</a></li><li><a href="http://gba2016.hkgbc.org.hk/" target="_blank">Green Building Award 2016</a></li><li><a href="/eng/engagement/file/GBA2014Booklet_eVersion.pdf" target="_blank">Green Building Award 2014</a></li><li><a href="https://www2.hkgbc.org.hk/ebook/HKGBC_HKGBA2012/files/assets/basic-html/index.html#page1" target="_blank">Green Building Award 2012</a></li><li><a href="/eng/engagement/file/final_080818.pdf" target="_blank">Green Building Award 2008</a></li></ul></li><li><a href="https://zcrbc.hkgbc.org.hk/" target="_blank">Zero-Carbon-Ready Building Certification</a></li><li><a href="https://zcrbc.hkgbc.org.hk/" target="_blank">Net Zero Energy Building Certification</a></li><li><a href="#">Advancing Net Zero Ideas Competition</a></li><li><a href="/eng/engagement/industry-schemes-awards/rcx/index.jsp">RCx Training and Registration Scheme</a><ul><li><a href="/eng/engagement/industry-schemes-awards/rcx/training/index.jsp">Training</a></li><li><a href="/eng/engagement/industry-schemes-awards/rcx/registration/index.jsp">Registration</a></li><li><a href="/eng/engagement/industry-schemes-awards/rcx/directory/directory.jsp">RCx Directory</a></li><li><a href="/eng/engagement/industry-schemes-awards/rcx/resources/resources.jsp">Resources</a></li></ul></li><li><a href="/eng/engagement/industry-schemes-awards/act-shop/index.jsp" target="_blank">ACT-Shop</a></li><li><a href="https://hkgsa.hkgbc.org.hk/index.php?lang=en" target="_blank">Hong Kong Green Shop Alliance (HKGSA)</a></li><li><a href="http://cicgpc.hkgbc.org.hk/index.php" target="_blank">CIC Green Product Certification</a></li><li><a href="http://epdir.hkgbc.org.hk/index.php?lang=en" target="_blank">Eco-Product Directory</a></li></ul></li><li><a href="/eng/engagement/public-initiatives/index.jsp">Public Initiatives</a><ul style=""><li><a href="/eng/engagement/public-initiatives/hkgbw/index.jsp">Hong Kong Green Building Week (HKGBW)</a><ul><li><a href="/eng/engagement/public-initiatives/hkgbw/hkgbw-2024/hkgbw-2024.jsp">Hong Kong Green Building Week 2024</a></li><li><a href="/eng/engagement/public-initiatives/hkgbw/hkgbw-2023/hkgbw-2023.jsp">Hong Kong Green Building Week 2023</a></li><li><a href="/eng/engagement/public-initiatives/hkgbw/hkgbw-2022/hkgbw-2022.jsp">Hong Kong Green Building Week 2022</a></li><li><a href="/eng/engagement/public-initiatives/hkgbw/hkgbw-2021/hkgbw-2021.jsp">Hong Kong Green Building Week 2021</a></li><li><a href="/eng/engagement/public-initiatives/hkgbw/hkgbw-2020/index.jsp">Hong Kong Green Building Week 2020</a></li><li><a href="/eng/engagement/public-initiatives/hkgbw/hkgbw-2019/index.jsp">Hong Kong Green Building Week 2019</a></li><li><a href="/eng/engagement/public-initiatives/hkgbw/hkgbw-2018/index.jsp">Hong Kong Green Building Week 2018</a></li><li><a href="/eng/engagement/public-initiatives/hkgbw/hkgbw-2017/index.jsp">Hong Kong Green Building Week 2017</a></li><li><a href="/eng/engagement/public-initiatives/hkgbw/hkgbw-2016/index.jsp">Hong Kong Green Building Week 2016</a></li></ul></li><li><a href="/eng/engagement/public-initiatives/green-school/green-building-competition-for-schools/index.jsp">"My Green Space" Student Competition</a></li><li><a href="/eng/engagement/public-initiatives/jockeyclub-energysaver-in-schools-project/index.jsp">Jockey Club Energy Saver in Schools Project</a></li><li><a href="/eng/engagement/public-initiatives/jockeyclub-beamplus-in-schools-project/index.jsp">Jockey Club BEAM Plus in Schools Project (2020-2023)</a></li><li><a href="/eng/engagement/public-initiatives/jockeyclub-green-smart-community-project/index.jsp">HKGBC Jockey Club Green and Smart Community Buildings Project (2018-2019)</a><ul><li><a href="/eng/engagement/public-initiatives/jockeyclub-green-smart-community-project/community_seminars/index.jsp">Green Community Seminars</a></li><li><a href="/eng/engagement/public-initiatives/jockeyclub-green-smart-community-project/promotional-videos/index.jsp">Promotional Videos</a></li></ul></li><li><a href="/eng/engagement/public-initiatives/ECF-green-building-education-video-series/index.jsp">ECF Green Building Education Video Series (2018-2020)</a></li></ul></li></ul></li><li class="withSubmenu"><a href="javascript:void(0)">Global Movement</a><ul><li><a href="/eng/global-movement/world-gbc/index.jsp">WorldGBC</a><ul style=""><li><a href="/eng/engagement/industry-schemes-awards/rcx/The Scheme.jsp">Advancing Net Zero</a></li><li><a href="http://bpp.hkgbc.org.hk/zindex.php" target="_blank">Better Places for People</a></li><li><a href="https://worldgbc.org/world-green-building-week/" target="_blank">World Green Building Week</a></li><li><a href="https://worldgbc2015.hkgbc.org.hk/" target="_blank">WorldGBC Congress 2015 Hong Kong</a></li><li><a href="/eng/global-movement/world-gbc/WorldGBC_APN_Award/worldgbc_apn_award.jsp">Asia Pacific Leadership in Green Building Awards</a></li></ul></li><li><a href="/eng/global-movement/sbe-conference-series/index.jsp">Sustainable Built Environment (SBE) Conference Series</a><ul style=""><li><a href="/eng/global-movement/sbe-conference-series/wsbe24/index.jsp">WSBE24</a></li><li><a href="/eng/global-movement/sbe-conference-series/wsbe2020/index.jsp">WSBE 2020</a></li><li><a href="http://wsbe17hongkong.hk/" target="_blank">WSBE17 Hong Kong</a></li><li><a href="/eng/global-movement/sbe-conference-series/wsb14-barcelona/index.jsp">WSB14 Barcelona</a><ul><li><a href="/eng/global-movement/sbe-conference-series/wsb14-barcelona/hk-delegation/index.jsp">Hong Kong Delegation</a></li><li><a href="/eng/global-movement/sbe-conference-series/wsb14-barcelona/hk-report/index.jsp">Hong Kong Report</a></li><li><a href="/eng/global-movement/sbe-conference-series/wsb14-barcelona/exhibition/index.jsp">Exhibition</a></li><li><a href="/eng/global-movement/sbe-conference-series/wsb14-barcelona/sessions/index.jsp">Sessions</a></li><li><a href="/eng/global-movement/sbe-conference-series/wsb14-barcelona/hk-committee/index.jsp">Hong Kong Organising Committee &amp; Sub-Committees</a></li><li><a href="/eng/global-movement/sbe-conference-series/wsb14-barcelona/key-dates/index.jsp">Key Dates</a></li></ul></li><li><a href="https://www2.hkgbc.org.hk/sb13/en/" target="_blank">SB13 Hong Kong</a></li><li><a href="/eng/global-movement/sbe-conference-series/wsb11/index.jsp">WSB11</a></li></ul></li><li><a href="/eng/global-movement/international-conferences/index.jsp">HKGBC International Conferences</a><ul style=""><li><a href="https://www.hkgbc.org.hk/eng/news-events/events-trainings/events-detail?eventId=490">Greater Bay Area Sustainable Built Environment Conference 2022</a></li><li><a href="/eng/global-movement/international-conferences/International-Conference-on-ANZ/index.jsp">International Conference on Advancing Net Zero 2021</a></li></ul></li><li><a href="/eng/global-movement/exhibitions-worldwide/index.jsp">Green Building Conferences / Exhibitions Worldwide</a></li><li><a href="/eng/global-movement/webinars-materials-worldwide/GB-webinars_materials-worldwide.jsp">Green Building Webinars Worldwide</a></li></ul></li><li class="withSubmenu"><a href="javascript:void(0)">Resources</a><ul><li><a href="https://www.hkgbc.org.hk/eng/global-movement/exhibitions-worldwide/index.jsp">Green Building Conferences / Exhibitions Worldwide</a></li><li><a href="/eng/global-movement/webinars-materials-worldwide/GB-webinars_materials-worldwide.jsp">International Webinars</a></li><li><a href="/eng/resources/past-conference-webinar-materials/index.jsp">Past Conference / Webinar Materials</a></li><li><a href="/eng/resources/publications/index.jsp">Publications</a><ul style=""><li><a href="/eng/resources/publications/HKGBC-Publication/index.jsp">HKGBC</a></li><li><a href="/eng/resources/publications/WorldGBC-Publications/index.jsp">WorldGBC</a></li><li><a href="/eng/resources/publications/International-Organisations/index.jsp">International Organisations</a></li></ul></li><li><a href="/eng/resources/photo-gallery/index.jsp">Photo Gallery</a></li><li><a href="/eng/resources/video-gallery/index.jsp">Video Gallery</a></li><li><a href="/eng/resources/media/media.jsp">Media</a></li><li><a href="/eng/resources/gb-academic-courses/gb-academic-courses.jsp">Green Building Academic Programmes</a></li><li><a href="/eng/resources/useful-links/index.jsp">Useful Links</a><ul style=""><li><a href="/eng/resources/useful-links/local-organizations-and-publications/index.jsp">Local Organisations</a></li><li><a href="/eng/resources/useful-links/overseas-organisations-and-publications/index.jsp">International Organisations</a></li></ul></li></ul></li></ul>
+		</nav>
+		</div>
+		
+	</div>
+<div class="subMenuLayer"></div></header>
+
+<a class="mobileMenuMask" style="display: none;"></a>
+
+<div id="memberLogin" style="display:none;">
+	<div class="popupWrap loginPop" id="login">
+		<div class="popupHeading" data-localize="login-headline">HKGBC Member Login</div>
+		<div class="intro" data-localize="login-intro">Members could login to create and update their profile and post their environment and sustainability reports, latest happening and achievement.</div>
+		<div class="popupFormWrap">
+			<form action="" name="memberloginform" id="memberloginform" method="post">
+				<input type="hidden" name="csrf_token" value="">
+				<div class="col12"><input type="text" placeholder="Enter your membership no." name="memberId" id="memberId"></div>
+				<div class="col12"><input type="password" placeholder="Enter your password" name="password" id="password"></div>
+				<div class="col12 recaptchaWrap" id="loginForm"></div>
+
+				<div class="btnWrap">
+						<div class="col6"><a href="javascript:void(0)" class="btn blue login-btn-submit" data-localize="btn-login">Login</a></div>
+						<div class="col6 last"><a href="/eng/memberprofile/registration" class="btn" data-localize="login-register">Register</a></div>
+				</div>	
+				<div class="col12"><a href="javascript:void(0)" class="forgotPassword" data-localize="login-forgotpassword">Forgot password?</a></div>
+				<div class="col12"><div class="checkboxWrap"><div class="checkbox-style"><input type="checkbox" name="remember" id="rememberMe" value="yes"></div> <label for="rememberMe" data-localize="login-rememberID">Remember my ID on this computer</label></div></div>
+			</form>
+		</div>
+		<p data-localize="login-message">Please contact your organization representative for the password.<br>For more information, please feel free to contact <a href="mailto:members@hkgbc.org.hk">members@hkgbc.org.hk</a></p>
+	</div>
+	<div class="popupWrap loginPop" id="forgotPassword">
+		<div class="popupHeading" data-localize="login-headline-forgotpassword">Forgot Password</div>
+		<div class="intro" data-localize="login-intro-forgotpassword">Reset Your Password</div>
+		<div class="popupFormWrap">
+			<form action="" name="forgotpwdform" id="forgotpwdform" method="post">
+				<input type="hidden" name="csrf_token" value="">
+				<div class="forgotPasswordWrap">
+						<div class="col12"><input type="text" placeholder="Enter your membership no." name="memberId"></div>
+						<div class="col12"><input type="text" placeholder="Enter your email" name="email"></div>
+
+						<div class="col12 recaptchaWrap" id="pwdform"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" width="304" height="78" role="presentation" name="a-tie6fxmf9scs" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LdEqGgeAAAAAKiOeDtQiVvAdKgsGFGpUNdlJ2Sw&amp;co=aHR0cHM6Ly93d3cuaGtnYmMub3JnLmhrOjQ0Mw..&amp;hl=en-GB&amp;v=ItfkQiGBlJCsN5gUMmHbpLEb&amp;size=normal&amp;cb=3h28xafjwjyj"></iframe></div><textarea id="g-recaptcha-response-1" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div>
+						<div class="col6"><a href="javascript:void(0)" class="btn blue btn-back" data-localize="btn-back">Back</a></div>
+						<div class="col6 last"><a href="javascript:void(0)" class="btn blue forgotpwd-btn-submit" data-localize="btn-submit">Submit</a></div>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+
+<script>
+	$(function(){
+		$('.login-btn-submit').click(function(){
+			$.ajax({
+				url : "/eng/member/login",
+				type : "POST",
+				cache : false,
+				data : $("#memberloginform").serialize(),
+				dataType : "json",
+				success : function(data){
+
+
+					if(data.code == 1){
+						alert(data.msg);
+					}else{
+						if(data.name!='' && data.value!=''){
+							setCookie(data.name, data.value);
+						}
+						var jumpUrl = data.url;
+						if(jumpUrl.indexOf("/beampro.jsp")!=-1){
+							window.open(jumpUrl,'_blank');
+							//location.href = window.location.href;
+						}else{
+							location.href = jumpUrl;
+						}
+
+					}
+
+
+				}
+			});
+		});
+		
+		$("#password").keydown(function(e) {  
+			if (e.keyCode == 13) {  
+				//alert('login');
+				$.ajax({
+					url : "/eng/member/login",
+					type : "POST",
+					cache : false,
+					data : $("#memberloginform").serialize(),
+					dataType : "json",
+					success : function(data){
+						if(data.code == 1){
+							alert(data.msg);
+							// loadGRecaptcha();
+						}else{
+							if(data.name!='' && data.value!=''){
+								setCookie(data.name, data.value);
+							}
+							//location.href = data.url;
+							var jumpUrl = data.url;
+							if(jumpUrl.indexOf("/beampro.jsp")!=-1){
+								window.open(jumpUrl,'_blank');
+								//location.href = window.location.href;
+							}else{
+								location.href = jumpUrl;
+							}
+						}
+					}
+				});
+			}  
+		}); 
+	});
+	
+	$(function(){
+		$('.forgotpwd-btn-submit').click(function(){
+			$.ajax({
+				url : "/eng/member/forgotpwd",
+				type : "POST",
+				cache : false,
+				data : $("#forgotpwdform").serialize(),
+				dataType : "json",
+				success : function(data){
+					if(data.code == 1){
+						alert(data.msg);
+					}else{
+						alert(data.msg);
+						location.href = window.location.href;
+					}
+					grecaptcha.reset(pwdFormWidget);
+				}
+			});
+		});
+	});
+	
+
+function setCookie(name,value) 
+{ 
+    var Days = 30; 
+    var exp = new Date(); 
+    exp.setTime(exp.getTime() + Days*24*60*60*1000); 
+    document.cookie = name + "="+ escape (value) + ";expires=" + exp.toGMTString(); 
+} 
+
+function getCookie(name) 
+{ 
+    var arr,reg=new RegExp("(^| )"+name+"=([^;]*)(;|$)");
+ 
+    if(arr=document.cookie.match(reg))
+ 
+        return unescape(arr[2]); 
+    else 
+        return null; 
+} 
+
+var mid = getCookie('member_id_gbc');
+if(mid!='' && mid!=null){
+	$("#memberId").val(mid);
+}
+
+$(document).ready(function(){
+	//alert('search1');
+	$("#goTargetPageIndex").keydown(function(e) {  
+		if (e.keyCode == 13) {  
+			//alert('search2');
+			var current = $("#goTargetPageIndex").val();
+			var searchStr = $("#searchStr").val();
+			self.location='/eng/main/search-result.jsp?q='+searchStr+'&current='+current
+		}  
+	});
+	
+	$("#goSearch").keydown(function(e) {  
+		if (e.keyCode == 13) {  
+			//alert('search3');
+			var current = 1;
+			var searchStr = $("#goSearch").val();
+			self.location='/eng/main/search-result.jsp?q='+searchStr+'&current='+current
+		}  
+	});  
+});
+
+function indexSearch(){
+	var current = 1;
+	var searchStr = $("#goSearch").val();
+	if(searchStr!=""){
+		self.location='/eng/main/search-result.jsp?q='+searchStr+'&current='+current
+	}
+}
+</script>
+<!------------------------- /main/header.jsp (include file) ---------------------->
+
+<h1 class="hidden">Hong Kong Green Building Council Limited</h1>
+
+<main id="container">
+    <section class="mainSliderWrap" style="transform: translate3d(0px, 0px, 0px);">
+        <div id="mainSlider" class="slick-initialized slick-slider slick-dotted"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="">Previous</button><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 19200px;"><div class="slick-slide" data-slick-index="0" aria-hidden="true" role="tabpanel" id="slick-slide00" tabindex="-1" aria-describedby="slick-slide-control00" style="width: 1920px; position: relative; left: 0px; top: 0px; z-index: 998; opacity: 0; transition: opacity 500ms linear;"><div><a href="https://www.gba.org.hk/" alt="" target="_blank" class="responBgImg" data-d="/eng/main/images/GBA2025b_hompage-desktop.jpg" data-t="/eng/main/images/GBA2025b_hompage-tablet.jpg" data-m="/eng/main/images/GBA2025b_hompage-mobile.jpg" style="background-image: url(&quot;/eng/main/images/GBA2025b_hompage-desktop.jpg&quot;); width: 100%; display: inline-block;" tabindex="-1"></a></div></div><div class="slick-slide" data-slick-index="1" aria-hidden="true" role="tabpanel" id="slick-slide01" aria-describedby="slick-slide-control01" tabindex="-1" style="width: 1920px; position: relative; left: -1920px; top: 0px; z-index: 998; opacity: 0; transition: opacity 500ms linear;"><div><a href="/eng/resources/publications/HKGBC-Publication/Reports/green-building-in-action/index.jsp" alt="" target="_self" class="responBgImg" data-d="/eng/main/images/Action2023_EN_desktop.jpg" data-t="/eng/main/images/Action2023_EN_tablet.jpg" data-m="/eng/main/images/Action2023_EN_mobile.jpg" style="background-image: url(&quot;/eng/main/images/Action2023_EN_desktop.jpg&quot;); width: 100%; display: inline-block;" tabindex="-1"></a></div></div><div class="slick-slide" data-slick-index="2" aria-hidden="true" role="tabpanel" id="slick-slide02" aria-describedby="slick-slide-control02" tabindex="-1" style="width: 1920px; position: relative; left: -3840px; top: 0px; z-index: 998; opacity: 0; transition: opacity 500ms linear;"><div><a href="https://competition.hkgbc.org.hk/en/default.php" alt="" target="_blank" class="responBgImg" data-d="/eng/main/images/2024-2025_My-Green-Space_desktop.jpg" data-t="/eng/main/images/2024-2025_My-Green-Space_tablet.jpg" data-m="/eng/main/images/2024-2025_My-Green-Space_mobile.jpg" style="background-image: url(&quot;/eng/main/images/2024-2025_My-Green-Space_desktop.jpg&quot;); width: 100%; display: inline-block;" tabindex="-1"></a></div></div><div class="slick-slide" data-slick-index="3" aria-hidden="true" role="tabpanel" id="slick-slide03" aria-describedby="slick-slide-control03" tabindex="-1" style="width: 1920px; position: relative; left: -5760px; top: 0px; z-index: 998; opacity: 0; transition: opacity 500ms linear;"><div><a href="https://general.hkgbc.org.hk/download/ccf/" alt="" target="_blank" class="responBgImg" data-d="/eng/main/images/20240716_climate_change_framework_desktop.png" data-t="/eng/main/images/20240716_climate_change_framework_tablet.png" data-m="/eng/main/images/20240716_climate_change_framework_mobile.png" style="background-image: url(&quot;/eng/main/images/20240716_climate_change_framework_desktop.png&quot;); width: 100%; display: inline-block;" tabindex="-1"></a></div></div><div class="slick-slide slick-current slick-active" data-slick-index="4" aria-hidden="false" role="tabpanel" id="slick-slide04" aria-describedby="slick-slide-control04" style="width: 1920px; position: relative; left: -7680px; top: 0px; z-index: 999; opacity: 1;"><div><a href="https://zcrbc.hkgbc.org.hk/" alt="" target="_blank" class="responBgImg" data-d="/eng/main/images/20240716_ZCRB_desktop.png" data-t="/eng/main/images/20240716_ZCRB_tablet.png" data-m="/eng/main/images/20240716_ZCRB_mobile.png" style="background-image: url(&quot;/eng/main/images/20240716_ZCRB_desktop.png&quot;); width: 100%; display: inline-block;" tabindex="0"></a></div></div><div class="slick-slide" data-slick-index="5" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide05" aria-describedby="slick-slide-control05" style="width: 1920px; position: relative; left: -9600px; top: 0px; z-index: 998; opacity: 0;"><div><a href="/eng/news-events/greenmag-plus/index.jsp" alt="GreenMAG Plus+" target="_blank" class="responBgImg" data-d="/eng/main/images/Green-Mag-Plus-eng_d_new.jpg" data-t="/eng/main/images/Green-Mag-Plus-eng_t_new.jpg" data-m="/eng/main/images/Green-Mag-Plus-eng_m_new.jpg" style="background-image: url(&quot;/eng/main/images/Green-Mag-Plus-eng_d_new.jpg&quot;); width: 100%; display: inline-block;" tabindex="-1"></a></div></div><div class="slick-slide" data-slick-index="6" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide06" aria-describedby="slick-slide-control06" style="width: 1920px; position: relative; left: -11520px; top: 0px; z-index: 998; opacity: 0;"><div><a href="https://eb.beamplus.org.hk" alt="" target="_blank" class="responBgImg" data-d="/eng/main/images/mainbanner/EB_d.jpg" data-t="/eng/main/images/mainbanner/EB_t.jpg" data-m="/eng/main/images/mainbanner/EB-m.jpg" style="background-image: url(&quot;/eng/main/images/mainbanner/EB_d.jpg&quot;); width: 100%; display: inline-block;" tabindex="-1"></a></div></div><div class="slick-slide" data-slick-index="7" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide07" aria-describedby="slick-slide-control07" style="width: 1920px; position: relative; left: -13440px; top: 0px; z-index: 998; opacity: 0;"><div><a href="http://greenbuilding.hkgbc.org.hk" alt="" target="_blank" class="responBgImg" data-d="/eng/main/images/mainbanner/BEAM-Plus-Online-Exhibition_d.jpg" data-t="/eng/main/images/mainbanner/BEAM-Plus-Online-Exhibition_t.jpg" data-m="/eng/main/images/mainbanner/BEAM-Plus-Online-Exhibition_m.jpg" style="background-image: url(&quot;/eng/main/images/mainbanner/BEAM-Plus-Online-Exhibition_d.jpg&quot;); width: 100%; display: inline-block;" tabindex="-1"></a></div></div><div class="slick-slide" data-slick-index="8" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide08" aria-describedby="slick-slide-control08" style="width: 1920px; position: relative; left: -15360px; top: 0px; z-index: 998; opacity: 0;"><div><a href="https://beamplusaccount.force.com/" alt="" target="_blank" class="responBgImg" data-d="/eng/main/images/OnlineAccount_d.jpg" data-t="/eng/main/images/OnlineAccount_t.jpg" data-m="/eng/main/images/OnlineAccount_m.jpg" style="background-image: url(&quot;/eng/main/images/OnlineAccount_d.jpg&quot;); width: 100%; display: inline-block;" tabindex="-1"></a></div></div><div class="slick-slide" data-slick-index="9" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide09" aria-describedby="slick-slide-control09" style="width: 1920px; position: relative; left: -17280px; top: 0px; z-index: 998; opacity: 0;"><div><a href="/eng/engagement/public-initiatives/jockeyclub-energysaver-in-schools-project/index.jsp" alt="" target="_self" class="responBgImg" data-d="/eng/main/images/202405_JCProject_desktop.jpg" data-t="/eng/main/images/202405_JCProject_tablet.jpg" data-m="/eng/main/images/202405_JCProject_mobile.jpg" style="background-image: url(&quot;/eng/main/images/202405_JCProject_desktop.jpg&quot;); width: 100%; display: inline-block;" tabindex="-1"></a></div></div></div></div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="">Next</button><ul class="slick-dots" style="" role="tablist"><li class="" role="presentation"><button type="button" role="tab" id="slick-slide-control00" aria-controls="slick-slide00" aria-label="1 of 10" tabindex="-1">1</button></li><li role="presentation" class=""><button type="button" role="tab" id="slick-slide-control01" aria-controls="slick-slide01" aria-label="2 of 10" tabindex="-1">2</button></li><li role="presentation" class=""><button type="button" role="tab" id="slick-slide-control02" aria-controls="slick-slide02" aria-label="3 of 10" tabindex="-1">3</button></li><li role="presentation" class=""><button type="button" role="tab" id="slick-slide-control03" aria-controls="slick-slide03" aria-label="4 of 10" tabindex="-1">4</button></li><li role="presentation" class="slick-active"><button type="button" role="tab" id="slick-slide-control04" aria-controls="slick-slide04" aria-label="5 of 10" tabindex="0" aria-selected="true">5</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control05" aria-controls="slick-slide05" aria-label="6 of 10" tabindex="-1">6</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control06" aria-controls="slick-slide06" aria-label="7 of 10" tabindex="-1">7</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control07" aria-controls="slick-slide07" aria-label="8 of 10" tabindex="-1">8</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control08" aria-controls="slick-slide08" aria-label="9 of 10" tabindex="-1">9</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control09" aria-controls="slick-slide09" aria-label="10 of 10" tabindex="-1">10</button></li></ul></div>
+    </section>
+	<section id="cateLink">	
+    	<div class="cateSlider slick-initialized slick-slider animated fadeInUp"><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 30000px; transform: translate3d(0px, 0px, 0px);"><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false"><div><a class="c1" href="/eng/about-us/what-is-green-building/index.jsp" target="_self" style="width: 100%; display: inline-block;" tabindex="0">
+<span><svg version="1.1" class="svgIcon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="156 346 102 102" style="enable-background:new 156 346 102 102;" xml:space="preserve">
+				<path style="fill:none;stroke:#006877;stroke-width:4;stroke-miterlimit:10;" d="M212.398,445.864h-53.581c-0.55,0-1-0.45-1-1
+					v-95.876c0-0.55,0.45-1,1-1h53.581c0.55,0,1,0.45,1,1v95.876C213.398,445.414,212.948,445.864,212.398,445.864z"></path>
+				<line style="fill:none;stroke:#006877;stroke-width:4;stroke-miterlimit:10;" x1="255.875" y1="445.864" x2="208.333" y2="445.864"></line>
+				<path class="delay" style="fill:none;stroke:#006877;stroke-width:4;stroke-miterlimit:10;" d="M213.398,444.864v-19.037c0-0.55,0.45-1,1-1h10.622
+					c0.55,0,1,0.45,1,1v19.037"></path>
+				<path style="fill:none;stroke:#006877;stroke-width:4;stroke-miterlimit:10;" d="M197.562,445.75H174c-0.55,0-1-0.45-1-1v-35.973
+					c0-0.55,0.45-1,1-1h23.562c0.55,0,1,0.45,1,1v35.973C198.562,445.3,198.112,445.75,197.562,445.75z"></path>
+				<line style="fill:none;stroke:#006877;stroke-width:4;stroke-miterlimit:10;" x1="166.625" y1="418.184" x2="204.875" y2="418.184"></line>
+				<line style="fill:none;stroke:#006877;stroke-width:4;stroke-miterlimit:10;" x1="185.608" y1="418.184" x2="185.608" y2="445.864"></line>
+				<!-- dot -->
+				<line class="delay" style="fill:none;stroke:#006877;stroke-width:4;stroke-miterlimit:10;" x1="185.781" y1="358.75" x2="202.75" y2="358.75"></line>
+				<line class="delay" style="fill:none;stroke:#006877;stroke-width:4;stroke-miterlimit:10;" x1="185.781" y1="371.5" x2="202.75" y2="371.5"></line>
+				<line class="delay" style="fill:none;stroke:#006877;stroke-width:4;stroke-miterlimit:10;" x1="185.781" y1="384.25" x2="202.75" y2="384.25"></line>
+				<line class="delay" style="fill:none;stroke:#006877;stroke-width:4;stroke-miterlimit:10;" x1="185.781" y1="397" x2="202.75" y2="397"></line>
+				<line class="delay" style="fill:none;stroke:#006877;stroke-width:4;stroke-miterlimit:10;" x1="177.25" y1="358.75" x2="181.485" y2="358.75"></line>
+				<line class="delay" style="fill:none;stroke:#006877;stroke-width:4;stroke-miterlimit:10;" x1="177.25" y1="371.5" x2="181.485" y2="371.5"></line>
+				<line class="delay" style="fill:none;stroke:#006877;stroke-width:4;stroke-miterlimit:10;" x1="177.25" y1="384.25" x2="181.485" y2="384.25"></line>
+				<line class="delay" style="fill:none;stroke:#006877;stroke-width:4;stroke-miterlimit:10;" x1="177.25" y1="397" x2="181.485" y2="397"></line>
+				<line class="delay" style="fill:none;stroke:#006877;stroke-width:4;stroke-miterlimit:10;" x1="168.758" y1="358.75" x2="172.992" y2="358.75"></line>
+				<line class="delay" style="fill:none;stroke:#006877;stroke-width:4;stroke-miterlimit:10;" x1="168.758" y1="371.5" x2="172.992" y2="371.5"></line>
+				<line class="delay" style="fill:none;stroke:#006877;stroke-width:4;stroke-miterlimit:10;" x1="168.758" y1="384.25" x2="172.992" y2="384.25"></line>
+				<line class="delay" style="fill:none;stroke:#006877;stroke-width:4;stroke-miterlimit:10;" x1="168.758" y1="397" x2="172.992" y2="397"></line>
+				<line class="delay" style="fill:none;stroke:#006877;stroke-width:4;stroke-miterlimit:10;" x1="213.398" y1="397" x2="228.25" y2="397"></line>
+
+				<!-- dot -->
+
+				<circle class="delay" style="fill:none;stroke:#006877;stroke-width:4;stroke-miterlimit:10;" cx="241" cy="377.875" r="10.798"></circle>
+				<circle class="delay" style="fill:none;stroke:#006877;stroke-width:4;stroke-miterlimit:10;" cx="241" cy="403.375" r="14.702"></circle>
+				<line class="delay" style="fill:none;stroke:#006877;stroke-width:4;stroke-miterlimit:10;" x1="241" y1="418.077" x2="241" y2="445.864"></line>
+				</svg></span>
+<span>What is Green Building?</span>
+</a></div></div><div class="slick-slide slick-active" data-slick-index="1" aria-hidden="false"><div><a class="c1" href="/eng/resources/publications/HKGBC-Publication/Reports/green-building-in-action/index.jsp" target="_self" style="width: 100%; display: inline-block;" tabindex="0">
+<span><img src="/eng/main/images/nevigational_button_v2.png"></span>
+<span>Green Building in Action</span>
+</a></div></div><div class="slick-slide slick-active" data-slick-index="2" aria-hidden="false"><div><a class="c1" href="https://zcrbc.hkgbc.org.hk/" target="_blank" style="width: 100%; display: inline-block;" tabindex="0">
+<span><img alt="" src="/eng/main/images/ZCRB-Logo.jpg"></span>
+<span>Zero-Carbon-Ready Building Certification Scheme</span>
+</a></div></div><div class="slick-slide slick-active" data-slick-index="3" aria-hidden="false"><div><a class="c1" href="/eng/beam-plus/beam-plus-faq/faq.jsp" target="_self" style="width: 100%; display: inline-block;" tabindex="0">
+<span><img alt="" src="/eng/main/images/FAQ.png"></span>
+<span>BEAM Plus FAQ</span>
+</a></div></div><div class="slick-slide slick-active" data-slick-index="4" aria-hidden="false"><div><a class="c1" href="https://app.powerbi.com/view?r=eyJrIjoiYjUxMDUwMWMtNWIzOS00YmQxLTgxYTYtMDZkMjczNDE1N2ZhIiwidCI6ImQwMTUyOGY5LTQ3NDItNGJjYS05MDVmLWU3ZjIxZTJhNmM5MiIsImMiOjEwfQ%3D%3D" target="_blank" style="width: 100%; display: inline-block;" tabindex="0">
+<span><img alt="" src="/eng/main/images/BEAM-Plus%20Tool%20Logo_NewCorpWebsite_120px.png"></span>
+<span>BEAM Practitioner Directory</span>
+</a></div></div><div class="slick-slide slick-active" data-slick-index="5" aria-hidden="false"><div><a class="c1" href="http://retro.hkgbc.org.hk/rlogin.php?para=nil&amp;serial=17" target="_blank" style="width: 100%; display: inline-block;" tabindex="0">
+<span><svg class="svgIcon" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 102 102" style="enable-background:new 0 0 102 102;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#89714C;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="st0 delay" d="M24.5,27.2c0,0-4.8-16,4.4-15.9c0,0,10.2-8.9,22.1-0.9c0,0,7.2,4.1,4.4,17.3"></path>
+	<path class="st0" d="M29.7,19.5c0,0,6.2,7.2,20.7,4l1.9,3.8c0,0,4.7-1.4,4.3,3.4c0,0,0.9,3.3-3.5,3.7c0,0-2.4,11-13.4,11.7
+		S25.8,34.6,25.8,34.6S25.6,34,25,34.1s-3,0.2-3-3.5c0-4.5,4.4-3.7,4.9-2.2c0,0,0.9,0.6,2.9-2.5"></path>
+	<line class="st0 delay" x1="48.5" y1="42.3" x2="48.5" y2="48.6"></line>
+	<line class="st0 delay" x1="30.1" y1="42.5" x2="30.1" y2="48.6"></line>
+	<path class="st0 delay" d="M28.8,47.3l15.3,14.4c0,0,1.6,1.1,3.2-0.3c1.6-1.5,6.6-9.8,6.6-9.8l-4-4.2L34.6,61.2c0,0-1.7,1.5-3.3,0
+		c-1.5-1.5-6.6-9.7-6.6-9.7L28.8,47.3z"></path>
+	<path class="st0 delay" d="M24.7,51.5"></path>
+	<path class="st0 delay" d="M24.7,51.5l-8.6,3.3c0,0-4.4,2-4.7,6.1s1,29.5,1,29.5"></path>
+	<path class="st0 delay" d="M12.3,58l6.1,6c0,0,2,1,2.2,5.8c0.2,4.7,0,20.6,0,20.6"></path>
+	<line class="st0 delay" x1="36.5" y1="59.5" x2="35.4" y2="90.4"></line>
+	<line class="st0 delay" x1="42.2" y1="60" x2="43.5" y2="90.4"></line>
+	<line class="st0 delay" x1="36.5" y1="63.3" x2="42.2" y2="63.3"></line>
+	<path class="st0 delay" d="M84.1,82.2c7.3-2.7,8.4-7,8.4-7s0.3-2.6,0-6c-0.3-3.5-3.6-3.6-3.6-3.6H78.2H52.8c0,0-3.3,0.3-3.5,3.8
+		c-0.3,3.5,0,4.5,0,4.5s-0.8,4.5,8,8.3"></path>
+	<path class="st0 delay" d="M63.7,83.6c0,0,3.5,1,8.6,0.8"></path>
+	<path class="st0 delay" d="M63.6,79.9h-5.8v4.4c0,0,0.7,2.8,2.9,2.8c2.2,0,3-2.4,3-2.4L63.6,79.9z"></path>
+	<path class="st0 delay" d="M78.2,79.9h5.6V85c0,0-0.7,2.2-2.8,2.2c-2.1,0-2.8-2.4-2.8-2.4V79.9z"></path>
+	<path class="st0 delay" d="M91.3,77.7v15.1c0,0,0.1,4.6-4.6,4.6H55.4c0,0-5,0-5-4.6c0-3.9,0-15.6,0-15.6"></path>
+	<path class="st0 delay" d="M63.7,65.5c0,0,0-4.1,0-4.3c0-3.3,3-3.2,3-3.2h8.6c3,0,3,3,3,3v4.5"></path>
+	<line class="st0 delay" x1="61.4" y1="54.4" x2="53.9" y2="51.5"></line>
+</g>
+</svg></span>
+<span>RCx Practitioner/ Professional LOGIN</span>
+</a></div></div></div></div></div>
+	</section>
+	<!--
+    <section id="cateLink">	
+    	<div class="cateSlider">
+				<a href="http://www.worldgbc.org/" target="_blank" class="c1"><span>World GBC</span></a>
+				<a href="/eng/about-us/what-is-green-building/index.jsp" class="c2"><span>What is Green Building?</span></a>
+				<a href="/eng/beam-plus/index.jsp" class="c3"><span>BEAM Plus</span></a>
+				<a href="/eng/engagement/industry-schemes-awards/green-building-award/index.jsp" class="c4"><span>Green Building Award</span></a>
+				<a href="/eng/engagement/guidebooks/urban-microclimate-study/index.jsp" class="c5"><span>Urban Microclimate Study</span></a>
+				<a href="/eng/resources/photo-gallery/index.jsp" class="c6"><span>Photo</span></a>
+		</div>
+    </section>
+	-->
+
+	<section id="news">
+		<div class="wrap">
+			
+			<div class="newsContainer">
+				<h2 class="fadeInUp" style="opacity: 0.4071; transform: translate3d(0px, 35.574px, 0px);"><span data-localize="homepage-headline-latest-news">Latest News</span> <a href="/eng/news-events/news/index.jsp" class="btn readmore" data-localize="homepage-readmore">Read More</a></h2>
+				<div class="newsBoxSlider slick-initialized slick-slider fadeInUp" style="opacity: 0.4071; transform: translate3d(0px, 35.574px, 0px);"><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 10000px; transform: translate3d(0px, 0px, 0px);"><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false"><div><div class="newsbox" style="width: 100%; display: inline-block;"><a href="/eng/news-events/news/2025/20250319.jsp" tabindex="0"><div class="thumb"><img src="/eng/news-events/news/2025/images/HKGBC_DelegationtoSouthKorea_Thumbnail.jpg" alt=""></div></a><a href="/eng/news-events/news/2025/20250319.jsp" tabindex="0"><p class="date">19 Mar 2025</p><p class="title limitedLine" data-limitedline="2" title="[Exclusive for HKGBC Members] HKGBC Delegation to South Korea (2 - 5 June 2025)" style="float: none; position: static;">[Exclusive for HKGBC Members] HKGBC Delegation to South Kor…</p></a></div></div></div><div class="slick-slide slick-active" data-slick-index="1" aria-hidden="false"><div><div class="newsbox" style="width: 100%; display: inline-block;"><a href="/eng/news-events/news/2025/20250313.jsp" tabindex="0"><div class="thumb"><img src="/eng/news-events/news/2025/images/GBA%202025_3_2_r2.jpg" alt=""></div></a><a href="/eng/news-events/news/2025/20250313.jsp" tabindex="0"><p class="date">13 Mar 2025</p><p class="title limitedLine" data-limitedline="2" title="[Press Release] Green Building Award 2025 is Calling for Nominations" style="float: none; position: static;">[Press Release] Green Building Award 2025 is Calling for Nomin…</p></a></div></div></div></div></div></div>
+				<div class="enewsWrap">
+					<div class="col8 Tcol12">
+						<h2 data-localize="homepage-headline-e-news-subscription" class="fadeInUp" style="opacity: 0.4071; transform: translate3d(0px, 35.574px, 0px);">E-news Subscription</h2>
+					</div>
+					<div class="col4 Tcol12 last">
+						<a href="#enews-subscription" class="fancyBox" data-localize="homepage-subcrible-now">Subscribe Now</a>
+					</div>
+				</div>
+			</div>
+			<div class="eventsContainer">
+				<style type="text/css">div.ex1 {
+  overflow: auto;}
+</style>
+<h2 class="withSubtitle fadeInUp" style="opacity: 0.4071; transform: translate3d(0px, 35.574px, 0px);"><span data-localize="homepage-headline-our-event">Our Events</span> <a class="btn readmore" data-localize="homepage-readmore" href="/eng/news-events/events-trainings/events">Read More</a></h2>
+
+<div class="ex1">
+<ul class="fadeInUp" style="opacity: 0.4071; transform: translate3d(0px, 35.574px, 0px);">
+	<li><a href="/eng/news-events/events-trainings/events-detail?eventId=825">28 Apr 2025<br>
+	CPD Webinar - Innovative and Sustainable Materials for Architectural and Interior Applications</a></li>
+	<li><a href="/eng/engagement/industry-schemes-awards/rcx/training/enrolment/enrolment.jsp">13 - 16 May 2025<br>
+	HKGBC Retro-commissioning (RCx) Training - Regular Training in May 2025</a></li>
+	<li><a href="/eng/news-events/events-trainings/events-detail?eventId=829">14 May 2025<br>
+	[Exclusive for HKGBC Members]&nbsp;Green Building Tour to Sino Inno Lab and The Spark</a></li>
+	<li><a href="/eng/news-events/news/2025/20250319.jsp">2 - 5 Jun 2025<br>
+	[Exclusive for HKGBC Members] HKGBC Delegation to South Korea [Registration Deadline: 9 Apr 2025]</a></li>
+	<li><a href="https://www.gba.org.hk/">13 Jun 2025<br>
+	Green Building Award 2025 [Nomination Deadline: 13 Jun 2025]</a></li>
+</ul>
+</div>
+
+			</div>
+		</div>
+	</section>
+
+	
+	<section id="memberCorner">
+		<div class="wrap">
+			<h2><span data-localize="homepage-headline-member-corner">Members' Corner</span> <a href="/eng/membership/members-corner/index.jsp" class="btn readmore blue" data-localize="homepage-readmore">Read More</a></h2>
+			<div class="col6  Mcol12"><div class="memberCornerBox"><div class="col5 Tcol6 Mcol12"><div class="thumb"><a href="/eng/membership/members-corner/2025/20250417_Nan_Fung.jsp"><img src="/eng/membership/members-corner/2025/images/20250417_Nan_Fung_thumbnail.jpg"></a></div></div><div class="contentWrap col7 last Tcol6 Tlast Mcol12"><div class="logo"><a href="/eng/membership/members-corner/2025/20250417_Nan_Fung.jsp"><img id="companyLogo0" class="module-image" path="image/hkgbc_member/image/1248/16958050773707956.jpg" src="/eng/upload/image?filePath=image/hkgbc_member/image/1248/16958050773707956.jpg"></a></div><a href="/eng/membership/members-corner/2025/20250417_Nan_Fung.jsp"><p class="title" id="companyName0">Nan Fung Group</p><p>Since 2021, Nan Fung Group's community initiative "In Time Of" has been working with different community groups and individuals to explore various possibilities in living a sustainable life through workshops, exhibitions, theatres, community walks, community maps, and other creative efforts.</p></a></div></div></div><div class="col6 last Mcol12"><div class="memberCornerBox"><div class="col5 Tcol6 Mcol12"><div class="thumb"><a href="/eng/membership/members-corner/2025/20250416_Great_Eagle.jsp"><img src="/eng/membership/members-corner/2025/images/20250416_Great_Eagle_thumbnail_EN.jpg"></a></div></div><div class="contentWrap col7 last Tcol6 Tlast Mcol12"><div class="logo"><a href="/eng/membership/members-corner/2025/20250416_Great_Eagle.jsp"><img id="companyLogo1" class="module-image" path="image/hkgbc_member/image/910/1561628156153.jpg" src="/eng/upload/image?filePath=image/hkgbc_member/image/910/1561628156153.jpg"></a></div><a href="/eng/membership/members-corner/2025/20250416_Great_Eagle.jsp"><p class="title" id="companyName1">Great Eagle Holdings Limited</p><p>Sustainable growth and lasting positive impact are built on shared action. In 2024, the Great Eagle Group collaborated with stakeholders—leveraging teamwork and strategic partnerships—to drive meaningful sustainability progress.</p></a></div></div></div>
+			<div class="memberSliderWrap sliderWrap animated fadeInUp">
+				<p><a href="/eng/membership/membership-package/patron-member/current-patron-members/index.jsp">Appreciation to our Patron Members</a></p>
+				<div class="memberSlider slick-initialized slick-slider"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="">Previous</button><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 13432px; transform: translate3d(-1656px, 0px, 0px);"><div class="slick-slide slick-cloned" data-slick-index="-5" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=1285" cid="1285" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/1285/16197570024340847.jpg" alt="Schneider Electric (Hong Kong) Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/1285/16197570024340847.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="-4" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=934" cid="934" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/934/16587366414084450.jpg" alt="The Hong Kong Jockey Club" src="/eng/upload/image?filePath=image/hkgbc_member/image/934/16587366414084450.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="-3" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=914" cid="914" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/914/15603935711515196.jpg" alt="Urban Renewal Authority" src="/eng/upload/image?filePath=image/hkgbc_member/image/914/15603935711515196.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="-2" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=933" cid="933" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/933/16432687182497623.jpg" alt="WSP (Asia) Ltd " src="/eng/upload/image?filePath=image/hkgbc_member/image/933/16432687182497623.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=1290" cid="1290" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/1290/17095566875807889.jpg" alt="Wheelock Properties (Hong Kong) Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/1290/17095566875807889.jpg"></a></div></div><div class="slick-slide" data-slick-index="0" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=988" cid="988" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/988/15603391718876268.jpg" alt="CLP Power Hong Kong Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/988/15603391718876268.jpg"></a></div></div><div class="slick-slide" data-slick-index="1" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=1287" cid="1287" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/1287/16076610838322587.jpg" alt="Chinachem Group" src="/eng/upload/image?filePath=image/hkgbc_member/image/1287/16076610838322587.jpg"></a></div></div><div class="slick-slide" data-slick-index="2" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=1298" cid="1298" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/1298/15603392035677878.jpg" alt="Hang Lung Properties Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/1298/15603392035677878.jpg"></a></div></div><div class="slick-slide" data-slick-index="3" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=886" cid="886" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/886/16613072077970031.jpg" alt="Henderson Land Development Co. Ltd." src="/eng/upload/image?filePath=image/hkgbc_member/image/886/16613072077970031.jpg"></a></div></div><div class="slick-slide slick-current slick-active" data-slick-index="4" aria-hidden="false" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=890" cid="890" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="0"><img class="module-image" path="image/hkgbc_member/image/890/15603392320739475.jpg" alt="Hongkong Land Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/890/15603392320739475.jpg"></a></div></div><div class="slick-slide slick-active" data-slick-index="5" aria-hidden="false" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=891" cid="891" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="0"><img class="module-image" path="image/hkgbc_member/image/891/16442917736800394.jpg" alt="Hysan Development Company Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/891/16442917736800394.jpg"></a></div></div><div class="slick-slide slick-active" data-slick-index="6" aria-hidden="false" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=906" cid="906" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="0"><img class="module-image" path="image/hkgbc_member/image/906/15694719441920707.jpg" alt="Sino Land Company Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/906/15694719441920707.jpg"></a></div></div><div class="slick-slide slick-active" data-slick-index="7" aria-hidden="false" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=971" cid="971" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="0"><img class="module-image" path="image/hkgbc_member/image/971/15603395304537747.jpg" alt="Sun Hung Kai Properties Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/971/15603395304537747.jpg"></a></div></div><div class="slick-slide slick-active" data-slick-index="8" aria-hidden="false" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=908" cid="908" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="0"><img class="module-image" path="image/hkgbc_member/image/908/15603390467508804.jpg" alt="Swire Properties Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/908/15603390467508804.jpg"></a></div></div><div class="slick-slide" data-slick-index="9" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=911" cid="911" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/911/17236951776068960.jpg" alt="The Hong Kong and China Gas Company Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/911/17236951776068960.jpg"></a></div></div><div class="slick-slide" data-slick-index="10" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=920" cid="920" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/920/15603390862822584.jpg" alt="AECOM Asia Company Ltd" src="/eng/upload/image?filePath=image/hkgbc_member/image/920/15603390862822584.jpg"></a></div></div><div class="slick-slide" data-slick-index="11" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=969" cid="969" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/969/15831437401871750.jpg" alt="ATAL Engineering Group" src="/eng/upload/image?filePath=image/hkgbc_member/image/969/15831437401871750.jpg"></a></div></div><div class="slick-slide" data-slick-index="12" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=940" cid="940" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/940/16771421112983707.jpg" alt="Alliance Construction Materials Ltd." src="/eng/upload/image?filePath=image/hkgbc_member/image/940/16771421112983707.jpg"></a></div></div><div class="slick-slide" data-slick-index="13" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=1661" cid="1661" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/1661/16432679574270827.jpg" alt="BANK OF CHINA (HONG KONG) LIMITED" src="/eng/upload/image?filePath=image/hkgbc_member/image/1661/16432679574270827.jpg"></a></div></div><div class="slick-slide" data-slick-index="14" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=2238" cid="2238" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/2238/17187976783333987.jpg" alt="CITIC Pacific Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/2238/17187976783333987.jpg"></a></div></div><div class="slick-slide" data-slick-index="15" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=2212" cid="2212" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/2212/17362199129824170.jpg" alt="China Resources Land (Overseas) Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/2212/17362199129824170.jpg"></a></div></div><div class="slick-slide" data-slick-index="16" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=1243" cid="1243" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/1243/17175815558748043.jpg" alt="Emperor International Holdings Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/1243/17175815558748043.jpg"></a></div></div><div class="slick-slide" data-slick-index="17" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=910" cid="910" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/910/1561628156153.jpg" alt="Great Eagle Holdings Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/910/1561628156153.jpg"></a></div></div><div class="slick-slide" data-slick-index="18" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=2241" cid="2241" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/2241/17218054944030299.jpg" alt="Hang Seng Bank Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/2241/17218054944030299.jpg"></a></div></div><div class="slick-slide" data-slick-index="19" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=1742" cid="1742" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/1742/16480108174382213.jpg" alt="Hong Kong Air Cargo Terminals Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/1742/16480108174382213.jpg"></a></div></div><div class="slick-slide" data-slick-index="20" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=896" cid="896" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/896/15608525456746218.jpg" alt="Kerry Properties Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/896/15608525456746218.jpg"></a></div></div><div class="slick-slide" data-slick-index="21" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=1286" cid="1286" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/1286/15603393016101254.jpg" alt="Link Asset Management Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/1286/15603393016101254.jpg"></a></div></div><div class="slick-slide" data-slick-index="22" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=900" cid="900" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/900/15917764897481727.jpg" alt="MTR Corporation Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/900/15917764897481727.jpg"></a></div></div><div class="slick-slide" data-slick-index="23" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=1248" cid="1248" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/1248/16958050773707956.jpg" alt="Nan Fung Group" src="/eng/upload/image?filePath=image/hkgbc_member/image/1248/16958050773707956.jpg"></a></div></div><div class="slick-slide" data-slick-index="24" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=962" cid="962" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/962/15603390362898794.jpg" alt="New World Development Company Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/962/15603390362898794.jpg"></a></div></div><div class="slick-slide" data-slick-index="25" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=902" cid="902" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/902/16324677311294546.jpg" alt="Ove Arup &amp; Partners Hong Kong Ltd" src="/eng/upload/image?filePath=image/hkgbc_member/image/902/16324677311294546.jpg"></a></div></div><div class="slick-slide" data-slick-index="26" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=2311" cid="2311" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/2311/17416873337762296.jpg" alt="Palmax (Pacific Asia) Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/2311/17416873337762296.jpg"></a></div></div><div class="slick-slide" data-slick-index="27" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=1620" cid="1620" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/1620/16443101993151144.jpg" alt="SOCAM Development Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/1620/16443101993151144.jpg"></a></div></div><div class="slick-slide" data-slick-index="28" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=2045" cid="2045" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/2045/17394144703008075.jpg" alt="Saint-Gobain Hong Kong Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/2045/17394144703008075.jpg"></a></div></div><div class="slick-slide" data-slick-index="29" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=1285" cid="1285" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/1285/16197570024340847.jpg" alt="Schneider Electric (Hong Kong) Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/1285/16197570024340847.jpg"></a></div></div><div class="slick-slide" data-slick-index="30" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=934" cid="934" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/934/16587366414084450.jpg" alt="The Hong Kong Jockey Club" src="/eng/upload/image?filePath=image/hkgbc_member/image/934/16587366414084450.jpg"></a></div></div><div class="slick-slide" data-slick-index="31" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=914" cid="914" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/914/15603935711515196.jpg" alt="Urban Renewal Authority" src="/eng/upload/image?filePath=image/hkgbc_member/image/914/15603935711515196.jpg"></a></div></div><div class="slick-slide" data-slick-index="32" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=933" cid="933" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/933/16432687182497623.jpg" alt="WSP (Asia) Ltd " src="/eng/upload/image?filePath=image/hkgbc_member/image/933/16432687182497623.jpg"></a></div></div><div class="slick-slide" data-slick-index="33" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=1290" cid="1290" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/1290/17095566875807889.jpg" alt="Wheelock Properties (Hong Kong) Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/1290/17095566875807889.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="34" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=988" cid="988" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/988/15603391718876268.jpg" alt="CLP Power Hong Kong Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/988/15603391718876268.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="35" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=1287" cid="1287" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/1287/16076610838322587.jpg" alt="Chinachem Group" src="/eng/upload/image?filePath=image/hkgbc_member/image/1287/16076610838322587.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="36" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=1298" cid="1298" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/1298/15603392035677878.jpg" alt="Hang Lung Properties Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/1298/15603392035677878.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="37" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=886" cid="886" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/886/16613072077970031.jpg" alt="Henderson Land Development Co. Ltd." src="/eng/upload/image?filePath=image/hkgbc_member/image/886/16613072077970031.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="38" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=890" cid="890" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/890/15603392320739475.jpg" alt="Hongkong Land Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/890/15603392320739475.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="39" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=891" cid="891" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/891/16442917736800394.jpg" alt="Hysan Development Company Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/891/16442917736800394.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="40" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=906" cid="906" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/906/15694719441920707.jpg" alt="Sino Land Company Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/906/15694719441920707.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="41" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=971" cid="971" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/971/15603395304537747.jpg" alt="Sun Hung Kai Properties Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/971/15603395304537747.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="42" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=908" cid="908" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/908/15603390467508804.jpg" alt="Swire Properties Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/908/15603390467508804.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="43" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=911" cid="911" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/911/17236951776068960.jpg" alt="The Hong Kong and China Gas Company Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/911/17236951776068960.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="44" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=920" cid="920" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/920/15603390862822584.jpg" alt="AECOM Asia Company Ltd" src="/eng/upload/image?filePath=image/hkgbc_member/image/920/15603390862822584.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="45" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=969" cid="969" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/969/15831437401871750.jpg" alt="ATAL Engineering Group" src="/eng/upload/image?filePath=image/hkgbc_member/image/969/15831437401871750.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="46" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=940" cid="940" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/940/16771421112983707.jpg" alt="Alliance Construction Materials Ltd." src="/eng/upload/image?filePath=image/hkgbc_member/image/940/16771421112983707.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="47" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=1661" cid="1661" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/1661/16432679574270827.jpg" alt="BANK OF CHINA (HONG KONG) LIMITED" src="/eng/upload/image?filePath=image/hkgbc_member/image/1661/16432679574270827.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="48" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=2238" cid="2238" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/2238/17187976783333987.jpg" alt="CITIC Pacific Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/2238/17187976783333987.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="49" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=2212" cid="2212" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/2212/17362199129824170.jpg" alt="China Resources Land (Overseas) Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/2212/17362199129824170.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="50" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=1243" cid="1243" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/1243/17175815558748043.jpg" alt="Emperor International Holdings Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/1243/17175815558748043.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="51" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=910" cid="910" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/910/1561628156153.jpg" alt="Great Eagle Holdings Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/910/1561628156153.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="52" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=2241" cid="2241" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/2241/17218054944030299.jpg" alt="Hang Seng Bank Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/2241/17218054944030299.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="53" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=1742" cid="1742" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/1742/16480108174382213.jpg" alt="Hong Kong Air Cargo Terminals Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/1742/16480108174382213.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="54" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=896" cid="896" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/896/15608525456746218.jpg" alt="Kerry Properties Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/896/15608525456746218.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="55" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=1286" cid="1286" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/1286/15603393016101254.jpg" alt="Link Asset Management Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/1286/15603393016101254.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="56" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=900" cid="900" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/900/15917764897481727.jpg" alt="MTR Corporation Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/900/15917764897481727.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="57" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=1248" cid="1248" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/1248/16958050773707956.jpg" alt="Nan Fung Group" src="/eng/upload/image?filePath=image/hkgbc_member/image/1248/16958050773707956.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="58" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=962" cid="962" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/962/15603390362898794.jpg" alt="New World Development Company Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/962/15603390362898794.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="59" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=902" cid="902" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/902/16324677311294546.jpg" alt="Ove Arup &amp; Partners Hong Kong Ltd" src="/eng/upload/image?filePath=image/hkgbc_member/image/902/16324677311294546.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="60" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=2311" cid="2311" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/2311/17416873337762296.jpg" alt="Palmax (Pacific Asia) Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/2311/17416873337762296.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="61" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=1620" cid="1620" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/1620/16443101993151144.jpg" alt="SOCAM Development Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/1620/16443101993151144.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="62" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=2045" cid="2045" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/2045/17394144703008075.jpg" alt="Saint-Gobain Hong Kong Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/2045/17394144703008075.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="63" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=1285" cid="1285" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/1285/16197570024340847.jpg" alt="Schneider Electric (Hong Kong) Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/1285/16197570024340847.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="64" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=934" cid="934" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/934/16587366414084450.jpg" alt="The Hong Kong Jockey Club" src="/eng/upload/image?filePath=image/hkgbc_member/image/934/16587366414084450.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="65" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=914" cid="914" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/914/15603935711515196.jpg" alt="Urban Renewal Authority" src="/eng/upload/image?filePath=image/hkgbc_member/image/914/15603935711515196.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="66" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=933" cid="933" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/933/16432687182497623.jpg" alt="WSP (Asia) Ltd " src="/eng/upload/image?filePath=image/hkgbc_member/image/933/16432687182497623.jpg"></a></div></div><div class="slick-slide slick-cloned" data-slick-index="67" aria-hidden="true" tabindex="-1" style="width: 184px;"><div><a href="/eng/membership/our-members/directory-detail?cid=1290" cid="1290" class="verticalCenter" style="width: 100%; display: inline-block;" tabindex="-1"><img class="module-image" path="image/hkgbc_member/image/1290/17095566875807889.jpg" alt="Wheelock Properties (Hong Kong) Limited" src="/eng/upload/image?filePath=image/hkgbc_member/image/1290/17095566875807889.jpg"></a></div></div></div></div><button class="slick-next slick-arrow" aria-label="Next" type="button" style="">Next</button></div>
+			</div>
+		</div>
+
+	</section>
+
+	<section id="globalBeamplus">
+		<div class="wrap">
+			<div class="leftPart fadeInUp">
+				<h2 data-localize="homepage-headline-global-movement">Global Movement</h2>
+				<div class="sliderWrap">
+					<div class="globalMovementSlider slick-initialized slick-slider"><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 468px; transform: translate3d(0px, 0px, 0px);"><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 468px;"><div><div class="sliderCard" style="width: 100%; display: inline-block;">						<div class="col6 Tcol12 Mcol12">							<div class="thumb"><a href="https://worldgbc.org/article/2023-advancing-net-zero-status-report/" target="_blank" tabindex="0"><img src="/eng/main/images/ANZ_Report_2023_thumbnail.jpg"></a></div>						</div>	<div class="col6 last Tcol12">					<a href="https://worldgbc.org/article/2023-advancing-net-zero-status-report/" target="_blank" tabindex="0">						<p class="date blue">27 Jul 2023</p>						<p class="title limitedLine" data-limitedline="2" style="float: none; position: static;">WorldGBC Advancing Net Zero Status Report 2023</p>					<img src="/eng/main/images/logo-main_global.jpg" alt=""></a></div></div></div></div></div></div></div>
+				</div>
+				<h2 data-localize="homepage-headline-beam-plus">BEAM Plus</h2>
+				<div class="sliderWrap">
+					<div class="BEAMPlusSlider slick-initialized slick-slider"><div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 468px; transform: translate3d(0px, 0px, 0px);"><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 468px;"><div><div class="sliderCard" style="width: 100%; display: inline-block;">
+							<div class="col6 Tcol12">
+								<div class="thumb"><a href="http://greenbuilding.hkgbc.org.hk" target="_blank" class="logo" tabindex="0"><img src="/eng/main/images/BEAM-Plus-Online-Exhibition_Thumbnail_228px.jpg"></a></div>
+							</div>
+							<div class="col6 last Tcol12">
+								<a href="http://greenbuilding.hkgbc.org.hk" target="_blank" tabindex="0">
+									<p class="title limitedLine" data-limitedline="3" title="Explore the story behind BEAM Plus projects, and let them inspire you to take part in the green building movement!" style="float: none; position: static;">Explore the story behind BEAM Plus projects, and let them inspire you to take part in the g…</p>
+									<img src="/eng/main/images/BEAM-Plus Tool Logo_NewCorpWebsite_120px.png" alt="">
+								</a>
+							</div>
+						</div></div></div></div></div></div>
+				</div>
+			</div>
+
+			<div class="rightPart fadeInUp">
+				<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div>
+				<script>(function(d, s, id) {
+				  var js, fjs = d.getElementsByTagName(s)[0];
+				  if (d.getElementById(id)) return;
+				  js = d.createElement(s); js.id = id;
+				  js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.1&appId=215713285156409&autoLogAppEvents=1';
+				  fjs.parentNode.insertBefore(js, fjs);
+				}(document, 'script', 'facebook-jssdk'));</script>
+				<div class="fb-page fb_iframe_widget" data-href="https://www.facebook.com/hkgreenbuildingcouncil/" data-tabs="timeline" data-width="342" data-height="559" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false" fb-xfbml-state="parsed" fb-iframe-plugin-query="adapt_container_width=true&amp;app_id=215713285156409&amp;container_width=325&amp;height=559&amp;hide_cover=true&amp;href=https%3A%2F%2Fwww.facebook.com%2Fhkgreenbuildingcouncil%2F&amp;locale=en_GB&amp;sdk=joey&amp;show_facepile=false&amp;small_header=true&amp;tabs=timeline&amp;width=342"><span style="vertical-align: top; width: 0px; height: 0px; overflow: hidden;"><iframe name="fa1f2a3f3f350de8d" width="342px" height="559px" data-testid="fb:page Facebook Social Plugin" title="fb:page Facebook Social Plugin" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="https://www.facebook.com/v3.1/plugins/page.php?adapt_container_width=true&amp;app_id=215713285156409&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df8f5f1e27945944b9%26domain%3Dwww.hkgbc.org.hk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fwww.hkgbc.org.hk%252Ffb3b1d4fd2897739f%26relation%3Dparent.parent&amp;container_width=325&amp;height=559&amp;hide_cover=true&amp;href=https%3A%2F%2Fwww.facebook.com%2Fhkgreenbuildingcouncil%2F&amp;locale=en_GB&amp;sdk=joey&amp;show_facepile=false&amp;small_header=true&amp;tabs=timeline&amp;width=342" style="border: none; visibility: hidden;"></iframe></span></div>
+			</div>
+		</div>
+	</section>
+
+</main>
+
+<!-- 
+
+
+
+<div id="enews-subscription" style="display:none;">
+	<div class="popupWrap">
+		<div class="popupHeading"
+			data-localize="popup-headline-e-news-subscription-title">e-News Subscription</div>
+		<div class="popupFormWrap">
+			<form action="" method="post" class="form news-subscription-form" onsubmit="return onEnewFormSubmit();">
+				<table class="fieldTable">
+					<tr>
+						<td><span class="required">*</span> <span
+							data-localize="popup-salutation">Salutation:</span></td>
+						<td>
+							<select name="salutation" required >
+								<option value data-localize="form-select-please-select">Please Select</option>
+								
+								<option value="Mr" data-localize="form-select-option-Mr">Mr</option>
+								
+								<option value="Ms" data-localize="form-select-option-Ms">Ms</option>
+								<option value="Mrs" data-localize="form-select-option-Mrs">Mrs</option>
+							
+							
+								<option value="Ar." data-localize="form-select-option-Ar">Ar.</option>
+							
+								<option value="Ir" data-localize="form-select-option-Ir">Ir</option>
+							
+							
+								<option value="Sr" data-localize="form-select-option-Sr">Sr</option>
+							
+								<option value="Dr" data-localize="form-select-option-Dr">Dr</option>
+								<option value="Prof." data-localize="form-select-option-Prof">Prof.</option>
+							</select>
+						</td>
+					</tr>
+					<tr>
+						<td><span class="required">*</span> <span
+							data-localize="popup-firstname">First Name:</span></td>
+						<td><input type="text" name="firstName" required></td>
+					</tr>
+					<tr>
+						<td><span class="required">*</span> <span
+							data-localize="popup-lastname">Last Name:</span></td>
+						<td><input type="text" name="lastName" required></td>
+					</tr>
+					<tr>
+						<td><span data-localize="popup-job">Job Title:</span></td>
+						<td><input type="text" name="jobTitle"></td>
+					</tr>
+					<tr>
+						<td><span class="required">*</span> <span
+							data-localize="popup-organisation">Organisation/Company
+								Name:</span></td>
+						<td><input type="text" name="organization" required></td>
+					</tr>
+					<tr>
+						<td><span class="required">*</span> <span
+							data-localize="popup-email">Email:</span></td>
+						<td><input type="email" name="email" required></td>
+					</tr>
+					<tr>
+						<td colspan="2" align="center" class="btnWrap recaptchaWrap" id="emailSubscriptionForm">
+
+						</td>
+					</tr>
+					<tr>
+						<td colspan="2" align="center" class="btnWrap">
+							<button class="btn blue Mcol6" type="submit" data-localize="btn-submit">Submit</button>
+						</td>
+					</tr>
+				</table>
+			</form>
+			<p class="subscriptionMessage success" data-localize="popup-thankyou-message">
+				Thank you for your subscription!<br />
+				<br />
+				You may unsubscribe from our e-newsletter at any time by clicking the "Unsubscribe" link at the bottom of the e-newsletter.
+			</p>
+			<p id="submitFailMsg" class="subscriptionMessage fail" data-localize="popup-fail-message">
+				Subscriber with this email already exist.
+			</p>
+		</div>
+
+	</div>
+</div>
+<script>
+	function onEnewFormSubmit(){
+		if($("#emailSubscriptionForm textarea").val() === ""){
+			alert("Please check recapthca");
+			return false;
+		} else {
+
+			$.ajax({
+				url : "/eng/enews/subscription",
+				type : "POST",
+				cache : false,
+				data : $('.news-subscription-form').serialize(),
+				dataType : "json",
+				success : function(data){
+					if(data.code == 0){
+						$(".popupFormWrap").addClass('successSubmit');
+					}else{
+						$("#submitFailMsg").html(data.msg);
+						$(".popupFormWrap").addClass('failSubmit');
+					}
+				}
+			});
+			return false;
+
+
+
+		}
+
+	}
+</script>
+ -->
+<!------------------------- /main/footer.jsp (include file) ---------------------->
+<footer data-genuitec-lp-enabled="false" data-genuitec-file-id="wc1-35" data-genuitec-path="/GBC_STAGE/WebRoot/eng/main/footer.jsp" class="fadeInUp" style="opacity: 0.4071; transform: translate3d(0px, 35.574px, 0px);">
+	<div class="wrap fixed">
+		<!-- <div class="col4 credit Tcol12">
+			<p><span>HKGBC Funding Support</span> <a href="javascript:void(0)" class="logo"><img src="/share/img/logo-footer_cic.jpg" alt=""></a></p>
+		</div> -->
+		<div class="col12 last copyright Tcol12">
+			<ul>
+				<li><a href="/eng/main/privacy-policy/index.jsp"><span data-localize="footer-privacy">Privacy Policy</span></a></li>
+				<li><a href="/eng/main/disclaimer/index.jsp"><span data-localize="footer-disclaimers">Disclaimers</span></a></li>
+				<li><a href="/eng/main/sitemap.jsp"><span data-localize="footer-sitemap">Sitemap</span></a></li>
+			</ul>
+
+		<p>© <script>document.write(new Date().getFullYear());</script>2025 <span data-localize="footer-copyright">Hong Kong Green Building Council Limited. All rights reserved.</span></p>
+		
+		</div>
+	</div>
+</footer>
+<a href="javascript:void(0)" class="backToTop"></a>
+
+
+
+
+<div id="enews-subscription" style="display:none;">
+	<div class="popupWrap">
+		<div class="popupHeading" data-localize="popup-headline-e-news-subscription-title">e-News Subscription</div>
+		<div class="popupFormWrap">
+			<form action="" method="post" class="form news-subscription-form" onsubmit="return onEnewFormSubmit();">
+				<table class="fieldTable">
+					<tbody><tr>
+						<td><span class="required">*</span> <span data-localize="popup-salutation">Salutation:</span></td>
+						<td>
+							<select name="salutation" required="" tabindex="-1" class="select2-hidden-accessible" aria-hidden="true">
+								<option value="" data-localize="form-select-please-select">Please Select</option>
+								
+								<option value="Mr" data-localize="form-select-option-Mr">Mr</option>
+								
+								<option value="Ms" data-localize="form-select-option-Ms">Ms</option>
+								<option value="Mrs" data-localize="form-select-option-Mrs">Mrs</option>
+							
+							
+								<option value="Ar." data-localize="form-select-option-Ar">Ar.</option>
+							
+								<option value="Ir" data-localize="form-select-option-Ir">Ir</option>
+							
+							
+								<option value="Sr" data-localize="form-select-option-Sr">Sr</option>
+							
+								<option value="Dr" data-localize="form-select-option-Dr">Dr</option>
+								<option value="Prof." data-localize="form-select-option-Prof">Prof.</option>
+							</select><span class="select2 select2-container select2-container--default" dir="ltr" style="width: auto;"><span class="selection"><span class="select2-selection select2-selection--single" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-labelledby="select2-salutation-sw-container"><span class="select2-selection__rendered" id="select2-salutation-sw-container" title="Please Select">Please Select</span><span class="select2-selection__arrow" role="presentation"><b role="presentation"></b></span></span></span><span class="dropdown-wrapper" aria-hidden="true"></span></span>
+						</td>
+					</tr>
+					<tr>
+						<td><span class="required">*</span> <span data-localize="popup-firstname">First Name:</span></td>
+						<td><input type="text" name="firstName" required=""></td>
+					</tr>
+					<tr>
+						<td><span class="required">*</span> <span data-localize="popup-lastname">Last Name:</span></td>
+						<td><input type="text" name="lastName" required=""></td>
+					</tr>
+					<tr>
+						<td><span data-localize="popup-job">Job Title:</span></td>
+						<td><input type="text" name="jobTitle"></td>
+					</tr>
+					<tr>
+						<td><span class="required">*</span> <span data-localize="popup-organisation">Organisation/Company
+								Name:</span></td>
+						<td><input type="text" name="organization" required=""></td>
+					</tr>
+					<tr>
+						<td><span class="required">*</span> <span data-localize="popup-email">Email:</span></td>
+						<td><input type="email" name="email" required=""></td>
+					</tr>
+					<tr>
+						<td colspan="2" align="center" class="btnWrap recaptchaWrap" id="emailSubscriptionForm"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" width="304" height="78" role="presentation" name="a-ppqg18xhn9mb" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LdEqGgeAAAAAKiOeDtQiVvAdKgsGFGpUNdlJ2Sw&amp;co=aHR0cHM6Ly93d3cuaGtnYmMub3JnLmhrOjQ0Mw..&amp;hl=en-GB&amp;v=ItfkQiGBlJCsN5gUMmHbpLEb&amp;size=normal&amp;cb=yofmnn4dydnt"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div></td>
+					</tr>
+					<tr>
+						<td colspan="2" align="center" class="btnWrap">
+							<button class="btn blue Mcol6" type="submit" data-localize="btn-submit">Submit</button>
+						</td>
+					</tr>
+				</tbody></table>
+			</form>
+			<p class="subscriptionMessage success" data-localize="popup-thankyou-message">
+				Thank you for your subscription!<br>
+				<br>
+				You may unsubscribe from our e-newsletter at any time by clicking the "Unsubscribe" link at the bottom of the e-newsletter.
+			</p>
+			<p id="submitFailMsg" class="subscriptionMessage fail" data-localize="popup-fail-message">
+				Subscriber with this email already exist.
+			</p>
+		</div>
+
+	</div>
+</div>
+<script>
+	function onEnewFormSubmit(){
+		if($("#emailSubscriptionForm textarea").val() === ""){
+			alert("Please check recapthca");
+			return false;
+		} else {
+
+			$.ajax({
+				url : "/eng/enews/subscription",
+				type : "POST",
+				cache : false,
+				data : $('.news-subscription-form').serialize(),
+				dataType : "json",
+				success : function(data){
+					if(data.code == 0){
+						$(".popupFormWrap").addClass('successSubmit');
+					}else{
+						$("#submitFailMsg").html(data.msg);
+						$(".popupFormWrap").addClass('failSubmit');
+					}
+				}
+			});
+			return false;
+
+
+
+		}
+
+	}
+</script>
+
+
+<!-- Google tag (gtag.js) --> <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-G93VF796CD"></script> <script>   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'G-G93VF796CD'); </script>
+
+<!------------------------- /main/footer.jsp (include file) ---------------------->
+
+<script>
+	$(function(){
+		$("a.responBgImg").each(function(idx,item){
+			if($(item).attr('href')==null || $(item).attr('href') == ''){
+				$(item).attr('href','javascript:void(0)');
+				$(item).addClass('cursor_default');
+			}
+		});
+		$("a[cid]").each(function(idx,item){
+			$(item).prop("href","/eng/membership/our-members/directory-detail?cid="+$(item).attr("cid"));
+		});
+		
+		$(".module-image").each(function(idx,item){
+			var path = $(item).attr("path"); 
+			if(path == '' || path == 'null') 
+				$(item).remove(); 
+			else
+				$(item).prop("src","/eng/upload/image?filePath="+path);
+		});
+		
+		$('.sliderCard .date').each(function(idx,item){
+			var d = $(item).text();
+			$(item).text(formatDate(d));
+		});
+		
+		$('.newsbox .date').each(function(){
+			var d2 = $(this).text();
+			$(this).text(formatDate(d2));
+		});
+		
+	});
+	function formatDate(dtStr){
+		//dtstr yyyy-MM-dd
+		var ps = dtStr.split('-');
+		dtStr = ps[1]+'/'+ps[2]+'/'+ps[0];
+		//var date = new Date(time);
+		var date = new Date(Date.parse(dtStr));
+		//var MonthUS = new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+		var MonthUS = new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec");
+		var year = date.getFullYear(),
+			month = date.getMonth(),
+			day = date.getDate();
+		var prefix_d = '';
+		if(day<10)
+			prefix_d = '0';
+		var result = prefix_d+day+" "+MonthUS[month]+" "+year;
+		return result;
+	}
+</script>
+
+<script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;934b31caf88a6ad4&quot;,&quot;version&quot;:&quot;2025.4.0-1-g37f21b1&quot;,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfSpeedBrain&quot;:true,&quot;cfCacheStatus&quot;:true}},&quot;token&quot;:&quot;f19d8f89f6454b549df0604b1b1211ba&quot;,&quot;b&quot;:1}" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+<div class="cookieinfo" style="position: fixed; left: 0px; right: 0px; height: auto; min-height: 21px; z-index: 2147483647; background: rgb(0, 102, 135); color: rgb(255, 255, 255); line-height: 21px; padding: 8px 18px; font-family: verdana, arial, sans-serif; font-size: 14px; text-align: left; bottom: 0px; opacity: 1;"><div class="cookieinfo-close" style="float: right; display: block; padding: 5px 8px; min-width: 100px; margin-left: 5px; border-radius: 5px; cursor: pointer; color: rgb(255, 255, 255); background: rgb(113, 191, 68); text-align: center;">✖</div><span style="display:block;padding:5px 0 5px 0;">We use cookies to give you the best possible experience on our website. By continuing to browse this site, you give consent for cookies to be used. <a href="http://wikipedia.org/wiki/HTTP_cookie" style="text-decoration: none; color: rgb(255, 255, 255);"></a><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="display: none;"> <a href="https://cookieinfoscript.com" style="text-decoration: none; display: none; color: rgb(255, 255, 255);">cookie script</a></span></div><div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility linear 0.3s, opacity 0.3s linear; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;"></div><div style="z-index: 2000000000; position: relative;"><iframe title="recaptcha challenge expires in two minutes" name="c-tie6fxmf9scs" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/bframe?hl=en-GB&amp;v=ItfkQiGBlJCsN5gUMmHbpLEb&amp;k=6LdEqGgeAAAAAKiOeDtQiVvAdKgsGFGpUNdlJ2Sw" style="width: 100%; height: 100%;"></iframe></div></div><div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility linear 0.3s, opacity 0.3s linear; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;"></div><div style="z-index: 2000000000; position: relative;"><iframe title="recaptcha challenge expires in two minutes" name="c-ppqg18xhn9mb" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/bframe?hl=en-GB&amp;v=ItfkQiGBlJCsN5gUMmHbpLEb&amp;k=6LdEqGgeAAAAAKiOeDtQiVvAdKgsGFGpUNdlJ2Sw" style="width: 100%; height: 100%;"></iframe></div></div></body></html>

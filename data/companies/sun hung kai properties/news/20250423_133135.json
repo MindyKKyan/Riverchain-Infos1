@@ -1,0 +1,92 @@
+{
+  "source": "bing_news",
+  "articles": [
+    {
+      "title": "21,000 Hongkongers vie for 329 new",
+      "url": "https://www.msn.com/en-xl/news/other/21000-hongkongers-vie-for-329-new-homes-at-12-year-low-prices-at-shkp-s-sierra-sea/ar-AA1DoyIJ?ocid=BingNewsVerp",
+      "source": "",
+      "date": "9h",
+      "summary": "",
+      "image_url": "/th?id=OJ.TZq5axi9U3EOLg&pid=news&w=98&h=12&rs=2"
+    },
+    {
+      "title": ".",
+      "url": "https://www.wsj.com/market-data/quotes/HK/XHKG/16/company-people",
+      "source": "Wall Street Journal",
+      "date": "1d",
+      "summary": ""
+    },
+    {
+      "title": "",
+      "url": "https://www.msn.com/en-xl/news/other/sun-hung-kai-properties-insurance-keeps-strong-underwriting-profitability/ar-AA1C6sQP?ocid=BingNewsVerp",
+      "source": "MSN",
+      "date": "21d",
+      "summary": ""
+    },
+    {
+      "title": "",
+      "url": "https://za.investing.com/pro/OTCPK:SUHJ.F/explorer/roe",
+      "source": "Investing",
+      "date": "23d",
+      "summary": ""
+    },
+    {
+      "title": "Hong Kong’s new home prices sink as SHKP launches at 11-year low in Sai Kung",
+      "url": "https://www.scmp.com/business/article/3306629/hong-kongs-new-home-prices-sink-shkp-launches-11-year-low-sai-kung",
+      "source": "",
+      "date": "7d",
+      "summary": "",
+      "image_url": "/th?id=OJ.TZq5axi9U3EOLg&pid=news&w=131&h=16&rs=2&dpr=2"
+    },
+    {
+      "title": ".",
+      "url": "https://www.wsj.com/market-data/quotes/HK/0016/financials",
+      "source": "Wall Street Journal",
+      "date": "27d",
+      "summary": ""
+    },
+    {
+      "title": "Analysts Are Bullish on Top Real Estate Stocks: Hudson Pacific",
+      "url": "https://markets.businessinsider.com/news/stocks/analysts-are-bullish-on-top-real-estate-stocks-hudson-pacific-properties-hpp-digital-realty-dlr-1034590758",
+      "source": "",
+      "date": "6d",
+      "summary": "",
+      "image_url": "/th?id=OJ.gfw9gphi0Cq94Q&pid=news&w=49&h=16&rs=2&dpr=2"
+    },
+    {
+      "title": "",
+      "url": "https://www.msn.com/en-xl/money/economy/sun-hung-kai-properties-insurance-keeps-strong-underwriting-profitability/ar-AA1C6sQP?ocid=BingNewsVerp",
+      "source": "MSN",
+      "date": "21d",
+      "summary": ""
+    },
+    {
+      "title": "",
+      "url": "https://www.wsj.com/market-data/quotes/HK/16/financials/quarter/balance-sheet",
+      "source": "Wall Street Journal",
+      "date": "6d",
+      "summary": ""
+    },
+    {
+      "title": ".",
+      "url": "https://www.wsj.com/market-data/quotes/SUHJF/company-people",
+      "source": "Wall Street Journal",
+      "date": "9d",
+      "summary": ""
+    },
+    {
+      "title": "",
+      "url": "https://www.wsj.com/market-data/quotes/SUHJY/options",
+      "source": "Wall Street Journal",
+      "date": "5d",
+      "summary": ""
+    },
+    {
+      "title": "",
+      "url": "https://au.investing.com/pro/OTCPK:SUHJ.F/explorer/ev_to_ebitda_ltm",
+      "source": "Investing",
+      "date": "23d",
+      "summary": ""
+    }
+  ]
+}
