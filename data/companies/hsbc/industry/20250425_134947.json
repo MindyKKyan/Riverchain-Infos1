@@ -1,0 +1,55 @@
+{
+  "source": "construction_qualifications",
+  "qualifications": [
+    {
+      "title": "Specialist Contractor (Demolition)",
+      "issuing_authority": "Construction Industry Council",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2026-02-22",
+      "certification_number": "HKCQ-8785",
+      "status": "Active",
+      "url": "https://www.construction-cert.hk/cert/8785",
+      "description": "The Specialist Contractor (Demolition) certification is issued to companies operating in the Specialist field by Construction Industry Council."
+    },
+    {
+      "title": "Architectural Design Firm",
+      "issuing_authority": "Hong Kong Institute of Architects",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2027-05-01",
+      "certification_number": "HKCQ-8786",
+      "status": "Active",
+      "url": "https://www.construction-cert.hk/cert/8786",
+      "description": "The Architectural Design Firm certification is issued to companies operating in the Architectural field by Hong Kong Institute of Architects."
+    },
+    {
+      "title": "Building Materials Supplier Certification",
+      "issuing_authority": "Buildings Department, HKSAR Government",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2025-08-08",
+      "certification_number": "HKCQ-8787",
+      "status": "Active",
+      "url": "https://www.construction-cert.hk/cert/8787",
+      "description": "The Building Materials Supplier Certification certification is issued to companies operating in the Building field by Buildings Department, HKSAR Government."
+    },
+    {
+      "title": "Green Building Design Certification",
+      "issuing_authority": "Construction Industry Council",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2026-11-15",
+      "certification_number": "HKCQ-8788",
+      "status": "Active",
+      "url": "https://www.construction-cert.hk/cert/8788",
+      "description": "The Green Building Design Certification certification is issued to companies operating in the Green field by Construction Industry Council."
+    },
+    {
+      "title": "Safety Management Certification",
+      "issuing_authority": "Hong Kong Institute of Architects",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2027-02-22",
+      "certification_number": "HKCQ-8789",
+      "status": "Active",
+      "url": "https://www.construction-cert.hk/cert/8789",
+      "description": "The Safety Management Certification certification is issued to companies operating in the Safety field by Hong Kong Institute of Architects."
+    }
+  ]
+}

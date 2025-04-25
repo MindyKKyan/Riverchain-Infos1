@@ -1,0 +1,55 @@
+{
+  "source": "hk_judiciary",
+  "cases": [
+    {
+      "date": "2021-04-16",
+      "court": "High Court - Court of Appeal",
+      "title": "tencent v. XYZ Company - Corporate Governance Dispute",
+      "url": "https://legalref.judiciary.hk/lrs/common/ju/judgment.jsp?case=HCCT 431/2021",
+      "case_number": "HCCT 431/2021",
+      "summary": "This case involves a corporate governance dispute between tencent and XYZ Company. The plaintiff claims that the defendant breached a contract signed in 2020. After reviewing the evidence, the court... (summary abbreviated). Refer to the full judgment for details.",
+      "judge": "Judge: Hon Justice Smith",
+      "legal_representation": "Plaintiff represented by: Mr. Lee\nDefendant represented by: Mr. Wong"
+    },
+    {
+      "date": "2022-07-23",
+      "court": "Labour Tribunal",
+      "title": "tencent v. XYZ Company - Commercial Contract Dispute",
+      "url": "https://legalref.judiciary.hk/lrs/common/ju/judgment.jsp?case=HCCT 432/2022",
+      "case_number": "HCCT 432/2022",
+      "summary": "This case involves a commercial contract dispute between tencent and XYZ Company. The plaintiff claims that the defendant breached a contract signed in 2021. After reviewing the evidence, the court... (summary abbreviated). Refer to the full judgment for details.",
+      "judge": "Judge: Hon Justice Smith",
+      "legal_representation": "Plaintiff represented by: Mr. Lee\nDefendant represented by: Mr. Wong"
+    },
+    {
+      "date": "2023-10-02",
+      "court": "Small Claims Tribunal",
+      "title": "tencent v. XYZ Company - Intellectual Property Rights",
+      "url": "https://legalref.judiciary.hk/lrs/common/ju/judgment.jsp?case=HCCT 433/2023",
+      "case_number": "HCCT 433/2023",
+      "summary": "This case involves a intellectual property rights between tencent and XYZ Company. The plaintiff claims that the defendant breached a contract signed in 2022. After reviewing the evidence, the court... (summary abbreviated). Refer to the full judgment for details.",
+      "judge": "Judge: Hon Justice Smith",
+      "legal_representation": "Plaintiff represented by: Mr. Lee\nDefendant represented by: Mr. Wong"
+    },
+    {
+      "date": "2024-01-09",
+      "court": "High Court - Court of First Instance",
+      "title": "tencent v. XYZ Company - Labor Dispute",
+      "url": "https://legalref.judiciary.hk/lrs/common/ju/judgment.jsp?case=HCCT 434/2024",
+      "case_number": "HCCT 434/2024",
+      "summary": "This case involves a labor dispute between tencent and XYZ Company. The plaintiff claims that the defendant breached a contract signed in 2023. After reviewing the evidence, the court... (summary abbreviated). Refer to the full judgment for details.",
+      "judge": "Judge: Hon Justice Smith",
+      "legal_representation": "Plaintiff represented by: Mr. Lee\nDefendant represented by: Mr. Wong"
+    },
+    {
+      "date": "2020-04-16",
+      "court": "District Court",
+      "title": "tencent v. XYZ Company - Construction Contract Dispute",
+      "url": "https://legalref.judiciary.hk/lrs/common/ju/judgment.jsp?case=HCCT 435/2020",
+      "case_number": "HCCT 435/2020",
+      "summary": "This case involves a construction contract dispute between tencent and XYZ Company. The plaintiff claims that the defendant breached a contract signed in 2019. After reviewing the evidence, the court... (summary abbreviated). Refer to the full judgment for details.",
+      "judge": "Judge: Hon Justice Smith",
+      "legal_representation": "Plaintiff represented by: Mr. Lee\nDefendant represented by: Mr. Wong"
+    }
+  ]
+}

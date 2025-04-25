@@ -9,7 +9,7 @@ from typing import Dict, List, Any, Optional
 from requests_html import HTMLSession
 import undetected_chromedriver as uc
 from parsel import Selector
-from urllib.parse import urljoin, quote_plus
+from urllib.parse import urljoin, quote_plus, quote
 import random
 import re
 import os
@@ -43,177 +43,49 @@ class BingNewsCrawler:
         """
         配置并返回一个Chrome浏览器实例
         """
-        # 配置Chrome选项
-        options = uc.ChromeOptions()
-        
-        # 更高级的伪装设置
-        options.add_argument('--disable-blink-features=AutomationControlled')
-        options.add_argument('--disable-features=IsolateOrigins,site-per-process')
-        options.add_argument('--disable-dev-shm-usage')
-        options.add_argument('--disable-web-security')
-        options.add_argument('--allow-running-insecure-content')
-        options.add_argument('--no-sandbox')
-        options.add_argument('--ignore-certificate-errors')
-        options.add_argument('--no-default-browser-check')
-        options.add_argument('--no-first-run')
-        options.add_argument('--no-service-autorun')
-        options.add_argument('--password-store=basic')
-        options.add_argument('--start-maximized')
-        
-        # 使用更多现代常见用户代理
-        user_agents = [
-            'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-            'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15',
-            'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
-            'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
-            'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
-            'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0'
-        ]
-        
-        selected_agent = random.choice(user_agents)
-        options.add_argument(f'--user-agent={selected_agent}')
-        
-        # 设置语言和区域
-        options.add_argument('--lang=en-US')
-        options.add_argument('--accept-lang=en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7')
-        
-        # 设置浏览器首选项
-        prefs = {
-            'profile.default_content_setting_values.notifications': 2,
-            'credentials_enable_service': False,
-            'profile.password_manager_enabled': False,
-            'profile.default_content_settings.popups': 0,
-            'download.prompt_for_download': False,
-            'plugins.always_open_pdf_externally': True,
-            'intl.accept_languages': 'en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
-            'profile.managed_default_content_settings.images': 1  # 1允许图像，2禁用图像
-        }
-        options.add_experimental_option('prefs', prefs)
-        
-        # 删除可识别的特征
-        options.add_experimental_option('excludeSwitches', ['enable-automation', 'enable-logging'])
-        options.add_experimental_option('useAutomationExtension', False)
-        
-        # 决定是否使用无头模式
-        use_headless = False
-        # 检查是否在命令行环境中
-        if 'DISPLAY' not in os.environ or os.environ.get('CI') == 'true' or os.environ.get('HEADLESS') == 'true':
-            use_headless = True
-            logger.info("检测到命令行环境，将使用无头模式")
-            options.add_argument('--headless=new')  # 新版Chrome无头模式
-            options.add_argument('--window-size=1920,1080')  # 确保足够大的窗口大小
-        
-        # 创建浏览器实例
-        logger.info(f"创建并配置浏览器...{'无头模式' if use_headless else '有头模式'}")
-        browser = uc.Chrome(options=options, headless=use_headless)
-        
-        # 设置页面加载超时为60秒
-        browser.set_page_load_timeout(60)
-        
-        # 添加更多反检测措施
-        stealth_js = """
-        Object.defineProperty(navigator, 'webdriver', {
-            get: () => false,
-        });
-        
-        // 覆盖 navigator 属性以避免检测
-        const newProto = navigator.__proto__;
-        delete newProto.webdriver;
-        
-        // 覆盖语言设置
-        Object.defineProperty(navigator, 'languages', {
-            get: () => ['en-US', 'en', 'zh-CN'],
-        });
-        
-        // 添加假插件数据
-        Object.defineProperty(navigator, 'plugins', {
-            get: () => [1, 2, 3, 4, 5],
-        });
-        
-        // 修改canvas指纹
-        const originalGetContext = HTMLCanvasElement.prototype.getContext;
-        HTMLCanvasElement.prototype.getContext = function(type) {
-            const context = originalGetContext.apply(this, arguments);
-            if (type === '2d') {
-                const originalFillText = context.fillText;
-                context.fillText = function() {
-                    return originalFillText.apply(this, arguments);
-                }
-            }
-            return context;
-        };
-        
-        // 覆盖更多检测特征
-        Object.defineProperty(window, 'chrome', {
-            get: () => ({
-                runtime: {},
-                loadTimes: function() {},
-                csi: function() {},
-                app: {},
-            }),
-        });
-        
-        // 调整屏幕属性
-        Object.defineProperty(window, 'outerWidth', {
-            get: () => 1920,
-        });
-        Object.defineProperty(window, 'outerHeight', {
-            get: () => 1080,
-        });
-        
-        // 添加更多随机化以减少指纹识别
-        const originalGetParameter = WebGLRenderingContext.prototype.getParameter;
-        WebGLRenderingContext.prototype.getParameter = function(parameter) {
-            // 针对某些常见的检测参数进行模拟
-            if (parameter === 37445) {
-                return 'Intel Inc.';
-            }
-            if (parameter === 37446) {
-                return 'Intel Iris Pro Graphics';
-            }
-            return originalGetParameter.apply(this, arguments);
-        };
-        
-        """
+        logger.info("开始配置浏览器...")
         
         try:
-            # 在所有页面上应用此JavaScript
-            browser.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {
-                "source": stealth_js
-            })
+            # 使用最简单的配置创建浏览器实例
+            # 仅添加必要的选项以避免兼容性问题
+            options = uc.ChromeOptions()
+            options.add_argument('--no-sandbox')
+            options.add_argument('--disable-dev-shm-usage')
             
-            # 设置接受所有Cookie
-            browser.execute_cdp_cmd('Network.enable', {})
-            
-            # 设置Cookie处理
-            browser.execute_cdp_cmd('Network.setCookieLifecyclePolicy', {'cookieLifecyclePolicy': 'accept'})
-            
-            # 清除浏览器任何现有的Cookie和缓存数据
-            browser.execute_cdp_cmd('Network.clearBrowserCookies', {})
-            browser.execute_cdp_cmd('Network.clearBrowserCache', {})
-            
-            # 添加一些常见的Cookie来模拟真实用户
-            common_cookies = [
-                {'name': 'CONSENT', 'value': 'YES+', 'domain': '.bing.com'},
-                {'name': 'SRCHHPGUSR', 'value': 'SRCHLANG=en', 'domain': '.bing.com'}
+            # 随机选择用户代理
+            user_agents = [
+                'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15',
+                'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
+                'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
             ]
+            options.add_argument(f'--user-agent={random.choice(user_agents)}')
             
-            for cookie in common_cookies:
-                try:
-                    browser.execute_cdp_cmd('Network.setCookie', {
-                        'name': cookie['name'],
-                        'value': cookie['value'],
-                        'domain': cookie['domain'],
-                        'path': '/',
-                    })
-                except Exception as e:
-                    logger.debug(f"设置Cookie失败: {e}")
-                    
+            # 设置浏览器首选项 (最小化配置)
+            prefs = {
+                'profile.default_content_setting_values.notifications': 2,
+                'profile.managed_default_content_settings.images': 1
+            }
+            options.add_experimental_option('prefs', prefs)
+            
+            logger.info("正在创建Chrome浏览器...")
+            browser = uc.Chrome(options=options)
+            browser.set_page_load_timeout(60)
+            logger.info("Chrome浏览器创建成功")
+            
+            return browser
+            
         except Exception as e:
-            logger.warning(f"执行CDP命令时出错: {e}")
-        
-        logger.info("浏览器配置完成")
-        return browser
+            logger.error(f"创建Chrome浏览器失败: {e}")
+            # 如果上面的方法失败，尝试使用最基本的配置
+            logger.info("尝试使用基本配置创建浏览器...")
+            try:
+                browser = uc.Chrome()
+                logger.info("使用基本配置创建浏览器成功")
+                return browser
+            except Exception as e2:
+                logger.error(f"使用基本配置创建浏览器也失败: {e2}")
+                raise Exception(f"无法创建浏览器: {e} -> {e2}")
     
     def _try_click_suggestion(self, browser):
         """
@@ -416,419 +288,252 @@ class BingNewsCrawler:
         logger.info("当前页面似乎包含搜索结果")
         return False
     
-    def search_news(self, company_name, driver=None, save_html=True):
+    def search_news(self, company_name: str, limit: int = 20) -> List[Dict]:
         """
         在Bing新闻上搜索公司相关新闻
         
-        参数:
-            company_name (str): 要搜索的公司名称
-            driver (WebDriver, optional): 可选的WebDriver实例，如果不提供则创建新实例
-            save_html (bool): 是否保存原始HTML，默认为True
-        
-        返回:
-            list: 包含新闻数据的列表
+        Args:
+            company_name: 公司名称
+            limit: 最大结果数量
+            
+        Returns:
+            搜索结果列表，每个元素为一个新闻信息字典
         """
-        start_time = time.time()
-        self.company_name = company_name
-        self.html_save_dir = os.path.join(self.output_dir, "raw_html", self.company_name)
-        os.makedirs(self.html_save_dir, exist_ok=True)
+        logger.info(f"Searching for news about: {company_name}")
         
-        # 确保浏览器已配置
-        if driver:
-            self.browser = driver
-            logger.info("使用提供的WebDriver实例")
-        else:
-            if not hasattr(self, 'browser') or self.browser is None:
-                self.browser = self._setup_browser()
+        # 应用反爬虫延迟
+        self.anticrawl.delay_request("www.bing.com")
         
-        all_news = []
-        # 构建正常搜索和精确匹配搜索的URL
-        search_urls = []
+        # 构建搜索URL - 使用quote而不是quote_plus以提高兼容性
+        search_url = f"{self.BASE_URL}?q={quote(company_name)}"
         
-        # 正常搜索URL
-        standard_search_url = f"https://www.bing.com/news/search?q={quote(company_name)}"
-        search_urls.append(standard_search_url)
+        # 获取随机请求头
+        headers = self.anticrawl.get_request_headers()
         
-        # 精确匹配搜索URL
-        exact_match_url = f"https://www.bing.com/news/search?q=\"{quote(company_name)}\""
-        search_urls.append(exact_match_url)
-        
-        # 添加时间范围搜索URL
-        time_filters = [
-            ("qdr:d", "过去24小时"),
-            ("qdr:w", "过去一周"),
-            ("qdr:m", "过去一个月")
-        ]
-        
-        for time_code, time_description in time_filters:
-            time_url = f"{standard_search_url}&filters={time_code}"
-            search_urls.append((time_url, time_description))
-        
-        # 添加英文新闻过滤
-        search_urls.append(f"{standard_search_url}&cc=us")
-        search_urls.append(f"{standard_search_url}&cc=gb")
-        
-        # 跟踪重试次数
-        retry_count = 0
-        max_retries = 3
-        success = False
-        used_url = None
-        
-        # 尝试每个URL直到成功
-        while not success and retry_count < max_retries:
-            for search_url in search_urls:
-                url_description = ""
-                if isinstance(search_url, tuple):
-                    search_url, url_description = search_url
-                
-                logger.info(f"尝试{url_description}搜索URL: {search_url}")
-                
-                try:
-                    # 添加随机延迟以模拟真实用户行为
-                    time.sleep(random.uniform(1, 3))
+        browser = None
+        try:
+            # 使用无头浏览器获取动态内容
+            browser = self._setup_browser()
+            
+            # 首先访问Bing主页
+            logger.info("访问Bing主页...")
+            browser.get("https://www.bing.com/")
+            time.sleep(random.uniform(2, 3))
+            
+            # 然后访问新闻搜索页面
+            logger.info(f"访问搜索URL: {search_url}")
+            browser.get(search_url)
+            
+            # 等待页面加载
+            time.sleep(random.uniform(5, 7))
+            
+            # 保存原始页面内容用于调试
+            logger.info("获取页面内容...")
+            page_source = browser.page_source
+            
+            # 保存原始数据
+            logger.info("保存原始数据...")
+            self.storage.save_raw_data("bing_news", page_source, company_name)
+            
+            # 滚动页面以加载更多内容
+            logger.info("滚动页面加载更多内容...")
+            try:
+                for _ in range(3):
+                    browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+                    time.sleep(random.uniform(1, 2))
+            except Exception as e:
+                logger.warning(f"滚动页面时出错: {e}")
+            
+            # 更新页面源代码
+            page_source = browser.page_source
+            
+            # 使用Parsel解析HTML
+            selector = Selector(text=page_source)
+            
+            # 尝试多种可能的新闻文章选择器
+            article_selectors = [
+                # 最新版本的选择器
+                "div.news-card",
+                "div.card-with-cluster",
+                "div.news-card-body",
+                # 备用选择器
+                "div.newsitem",
+                "div.sa_cc",
+                "div.news-body",
+                # 通用选择器
+                "div.card",
+                "div.item-info",
+                # 极简选择器
+                "div.algocore"
+            ]
+            
+            articles = []
+            found_selector = None
+            
+            # 尝试所有选择器直到找到匹配
+            for article_selector in article_selectors:
+                article_elements = selector.css(article_selector)
+                if article_elements:
+                    found_selector = article_selector
+                    logger.info(f"找到 {len(article_elements)} 个新闻元素，使用选择器 '{article_selector}'")
                     
-                    # 首先访问Bing主页
-                    self.browser.get("https://www.bing.com/")
-                    time.sleep(random.uniform(2, 4))
-                    
-                    # 然后导航到搜索URL
-                    self.browser.get(search_url)
-                    
-                    # 添加随机等待时间，模拟真实用户行为
-                    time.sleep(random.uniform(3, 5))
-                    
-                    # 检查是否有验证码或访问受限页面
-                    if self._is_captcha_page() or self._is_access_denied():
-                        logger.warning("检测到验证码或访问受限页面，尝试下一个URL")
-                        continue
-                    
-                    # 检查是否为"无结果"页面
-                    if self._check_no_results():
-                        logger.info(f"在URL {search_url} 中没有找到结果，尝试下一个URL")
-                        continue
-                    
-                    # 模拟滚动以加载更多内容
-                    self._scroll_page()
-                    
-                    # 随机停留，模拟用户查看内容的行为
-                    time.sleep(random.uniform(2, 4))
-                    
-                    # 获取页面HTML
-                    page_html = self.browser.page_source
-                    
-                    # 保存原始HTML
-                    if save_html:
-                        timestamp = int(time.time())
-                        html_filename = f"bing_news_{self.company_name.replace(' ', '_')}_{timestamp}.html"
-                        html_path = os.path.join(self.html_save_dir, html_filename)
-                        with open(html_path, 'w', encoding='utf-8') as f:
-                            f.write(page_html)
-                        logger.info(f"已保存HTML到 {html_path}")
-                    
-                    # 在页面上查找新闻文章元素
-                    news_elements = self.browser.find_elements(By.XPATH, "//div[contains(@class, 'news-card')]")
-                    
-                    # 如果没有找到标准新闻卡片，尝试其他可能的选择器
-                    if not news_elements:
-                        news_elements = self.browser.find_elements(By.XPATH, "//div[contains(@class, 'newsitem')]")
-                    
-                    if not news_elements:
-                        news_elements = self.browser.find_elements(By.XPATH, "//div[contains(@class, 'card')]")
-                    
-                    if not news_elements:
-                        # 尝试使用Parsel解析HTML寻找结果
-                        selector = Selector(text=page_html)
-                        # 尝试多种可能的选择器模式
-                        article_selectors = [
-                            "//div[contains(@class, 'news-card')]",
-                            "//div[contains(@class, 'newsitem')]",
-                            "//div[contains(@class, 'card')]",
-                            "//div[contains(@class, 'item')]//a[contains(@class, 'title')]/..",
-                            "//div[contains(@class, 'news')]//a[contains(@href, 'news')]/..",
-                            "//div[contains(@id, 'news')]//a",
-                            "//div[@id='results']//div[contains(@class, 'result')]"
-                        ]
-                        
-                        for selector_pattern in article_selectors:
-                            article_elements = selector.xpath(selector_pattern)
-                            if article_elements:
-                                logger.info(f"使用选择器 {selector_pattern} 找到 {len(article_elements)} 个结果")
-                                
-                                # 解析找到的元素
-                                for article in article_elements:
-                                    try:
-                                        # 尝试不同的标题选择器
-                                        title_selectors = [
-                                            ".//a[contains(@class, 'title')]//text()",
-                                            ".//h3//text()",
-                                            ".//a//text()"
-                                        ]
-                                        
-                                        title = None
-                                        for title_selector in title_selectors:
-                                            title_text = article.xpath(title_selector).getall()
-                                            if title_text:
-                                                title = "".join(title_text).strip()
-                                                break
-                                        
-                                        # 尝试不同的链接选择器
-                                        link_selectors = [
-                                            ".//a[contains(@class, 'title')]/@href",
-                                            ".//a[1]/@href",
-                                            ".//a/@href"
-                                        ]
-                                        
-                                        link = None
-                                        for link_selector in link_selectors:
-                                            link_href = article.xpath(link_selector).get()
-                                            if link_href:
-                                                link = link_href.strip()
-                                                break
-                                        
-                                        # 尝试不同的日期选择器
-                                        date_selectors = [
-                                            ".//span[contains(@class, 'date')]//text()",
-                                            ".//span[contains(@class, 'time')]//text()",
-                                            ".//time//text()"
-                                        ]
-                                        
-                                        date = None
-                                        for date_selector in date_selectors:
-                                            date_text = article.xpath(date_selector).get()
-                                            if date_text:
-                                                date = date_text.strip()
-                                                break
-                                        
-                                        # 尝试不同的摘要选择器
-                                        summary_selectors = [
-                                            ".//p//text()",
-                                            ".//div[contains(@class, 'snippet')]//text()",
-                                            ".//div[contains(@class, 'desc')]//text()"
-                                        ]
-                                        
-                                        summary = None
-                                        for summary_selector in summary_selectors:
-                                            summary_text = article.xpath(summary_selector).getall()
-                                            if summary_text:
-                                                summary = "".join(summary_text).strip()
-                                                break
-                                        
-                                        if title and link:
-                                            news_item = {
-                                                "title": title,
-                                                "link": link,
-                                                "date": date if date else "未知日期",
-                                                "summary": summary if summary else "",
-                                                "source": "Bing News",
-                                                "company": company_name,
-                                                "timestamp": datetime.now().isoformat()
-                                            }
-                                            
-                                            # 避免重复添加
-                                            if news_item not in all_news:
-                                                all_news.append(news_item)
-                                    except Exception as e:
-                                        logger.error(f"解析文章时出错: {e}")
-                                
-                                if all_news:
-                                    success = True
-                                    used_url = search_url
+                    for article in article_elements:
+                        try:
+                            # 尝试不同的标题选择器
+                            title_selectors = [
+                                "a.title::text", "h3::text", "a.news-card-title::text",
+                                "div.title::text", "h4::text", "a::text"
+                            ]
+                            
+                            # 尝试提取标题
+                            title = None
+                            for title_selector in title_selectors:
+                                title_text = article.css(title_selector).get()
+                                if title_text:
+                                    title = clean_text(title_text)
                                     break
-                    
-                    # 如果通过WebDriver找到了元素，处理它们
-                    if news_elements and not all_news:
-                        logger.info(f"找到 {len(news_elements)} 个新闻元素")
-                        
-                        for element in news_elements:
-                            try:
-                                # 尝试获取标题
-                                title_element = element.find_element(By.XPATH, ".//a[contains(@class, 'title')] | .//h3 | .//a")
-                                title = title_element.text.strip() if title_element else ""
+                            
+                            # 尝试不同的链接选择器
+                            link_selectors = [
+                                "a.title::attr(href)", "a.news-card-title::attr(href)",
+                                "a::attr(href)"
+                            ]
+                            
+                            # 尝试提取链接
+                            link = None
+                            for link_selector in link_selectors:
+                                link_href = article.css(link_selector).get()
+                                if link_href:
+                                    link = link_href
+                                    # 确保链接完整
+                                    if not link.startswith(('http://', 'https://')):
+                                        link = urljoin("https://www.bing.com", link)
+                                    break
+                            
+                            # 尝试不同的来源选择器
+                            source_selectors = [
+                                "div.source::text", "span.source::text",
+                                "span.provider::text", "cite::text"
+                            ]
+                            
+                            # 尝试提取来源
+                            source = None
+                            for source_selector in source_selectors:
+                                source_text = article.css(source_selector).get()
+                                if source_text:
+                                    source = clean_text(source_text)
+                                    break
+                            
+                            # 尝试不同的日期选择器
+                            date_selectors = [
+                                "span.datetime::text", "span.date::text",
+                                "span.time::text", "span.timestamp::text"
+                            ]
+                            
+                            # 尝试提取日期
+                            date = None
+                            for date_selector in date_selectors:
+                                date_text = article.css(date_selector).get()
+                                if date_text:
+                                    date = clean_text(date_text)
+                                    break
+                            
+                            # 尝试不同的摘要选择器
+                            summary_selectors = [
+                                "p::text", "div.snippet::text",
+                                "div.snippet-content::text", "div.description::text"
+                            ]
+                            
+                            # 尝试提取摘要
+                            summary = None
+                            for summary_selector in summary_selectors:
+                                summary_text = article.css(summary_selector).get()
+                                if summary_text:
+                                    summary = clean_text(summary_text)
+                                    break
+                            
+                            # 如果找到标题和链接，添加到结果
+                            if title and link:
+                                news_item = {
+                                    'title': title,
+                                    'url': link,
+                                    'source': source or "Unknown Source",
+                                    'date': format_date(date) if date else "",
+                                    'summary': summary or "",
+                                }
                                 
-                                # 尝试获取链接
-                                link = title_element.get_attribute('href') if title_element else ""
+                                articles.append(news_item)
                                 
-                                # 尝试获取日期
-                                try:
-                                    date_element = element.find_element(By.XPATH, ".//span[contains(@class, 'date')] | .//span[contains(@class, 'time')] | .//time")
-                                    date = date_element.text.strip() if date_element else "未知日期"
-                                except:
-                                    date = "未知日期"
-                                
-                                # 尝试获取摘要
-                                try:
-                                    summary_element = element.find_element(By.XPATH, ".//p | .//div[contains(@class, 'snippet')] | .//div[contains(@class, 'desc')]")
-                                    summary = summary_element.text.strip() if summary_element else ""
-                                except:
-                                    summary = ""
-                                
-                                if title and link:
-                                    news_item = {
-                                        "title": title,
-                                        "link": link,
-                                        "date": date,
-                                        "summary": summary,
-                                        "source": "Bing News",
-                                        "company": company_name,
-                                        "timestamp": datetime.now().isoformat()
-                                    }
+                                # 达到限制数量后停止
+                                if len(articles) >= limit:
+                                    break
                                     
-                                    # 避免重复添加
-                                    if news_item not in all_news:
-                                        all_news.append(news_item)
-                            except Exception as e:
-                                logger.error(f"处理新闻元素时出错: {e}")
+                        except Exception as e:
+                            logger.error(f"解析新闻文章时出错: {e}")
                     
-                    if all_news:
-                        success = True
-                        used_url = search_url
+                    # 如果找到足够的文章，停止尝试其他选择器
+                    if articles:
                         break
+            
+            # 如果没有找到新闻，尝试直接从页面文本提取
+            if not articles:
+                logger.warning("未找到新闻元素，尝试直接从页面提取链接...")
+                
+                # 尝试提取所有链接及其文本
+                try:
+                    links = browser.find_elements(By.TAG_NAME, "a")
                     
-                except TimeoutException:
-                    logger.warning(f"访问URL超时: {search_url}")
+                    for link in links:
+                        try:
+                            href = link.get_attribute('href')
+                            text = link.text.strip()
+                            
+                            # 检查是否为新闻链接
+                            if (href and text and len(text) > 20 and
+                                not href.startswith("https://www.bing.com") and 
+                                "news" not in href):
+                                
+                                news_item = {
+                                    'title': text,
+                                    'url': href,
+                                    'source': "Unknown Source",
+                                    'date': "",
+                                    'summary': "",
+                                }
+                                
+                                articles.append(news_item)
+                                
+                                # 达到限制数量后停止
+                                if len(articles) >= limit:
+                                    break
+                        except Exception as e:
+                            continue
                 except Exception as e:
-                    logger.error(f"搜索过程中出错: {e}")
+                    logger.error(f"提取链接时出错: {e}")
             
-            if not success:
-                retry_count += 1
-                if retry_count < max_retries:
-                    wait_time = random.uniform(10, 15)
-                    logger.info(f"重试 {retry_count}/{max_retries}，等待 {wait_time:.2f} 秒...")
-                    time.sleep(wait_time)
-                    
-                    # 重置浏览器以避免潜在的状态问题
-                    try:
-                        self.browser.quit()
-                    except:
-                        pass
-                    self.browser = self._setup_browser()
-        
-        end_time = time.time()
-        duration = end_time - start_time
-        
-        if success:
-            logger.info(f"搜索成功完成，使用URL: {used_url}")
-            logger.info(f"找到 {len(all_news)} 条新闻，耗时 {duration:.2f} 秒")
-        else:
-            logger.warning(f"在所有重试后未能找到新闻，耗时 {duration:.2f} 秒")
-        
-        return all_news
-    
-    def _check_no_results(self):
-        """检查是否为无结果页面"""
-        try:
-            # 尝试多种可能的"无结果"指示器
-            no_results_texts = [
-                "没有找到结果",
-                "No results found",
-                "We couldn't find any results",
-                "Try different keywords",
-                "尝试不同的关键词",
-                "0 results"
-            ]
+            logger.info(f"找到 {len(articles)} 条关于 '{company_name}' 的新闻")
             
-            page_text = self.browser.page_source.lower()
-            for text in no_results_texts:
-                if text.lower() in page_text:
-                    return True
+            # 保存结构化数据
+            if articles:
+                normalized_name = normalize_company_name(company_name)
+                self.storage.save_company_data(
+                    normalized_name, 
+                    "news", 
+                    {"source": "bing_news", "articles": articles}
+                )
             
-            # 检查是否存在特定的无结果元素
-            try:
-                no_results_element = self.browser.find_element(By.XPATH, "//div[contains(@class, 'no-results')]")
-                if no_results_element:
-                    return True
-            except:
-                pass
-            
-            # 检查结果数量是否为零
-            try:
-                results_count_element = self.browser.find_element(By.XPATH, "//span[contains(@class, 'count')]")
-                if results_count_element and ('0' in results_count_element.text or '零' in results_count_element.text):
-                    return True
-            except:
-                pass
-            
-            return False
-        except Exception as e:
-            logger.error(f"检查无结果页面时出错: {e}")
-            return False
-    
-    def _is_captcha_page(self):
-        """检查是否遇到验证码页面"""
-        try:
-            captcha_indicators = [
-                "robot", "captcha", "verify", "challenge", "human", 
-                "验证", "机器人", "人机", "验证码"
-            ]
-            
-            page_source = self.browser.page_source.lower()
-            for indicator in captcha_indicators:
-                if indicator in page_source:
-                    return True
-            
-            # 检查是否有验证码图像
-            try:
-                captcha_img = self.browser.find_element(By.XPATH, "//img[contains(@src, 'captcha') or contains(@src, 'challenge')]")
-                if captcha_img:
-                    return True
-            except:
-                pass
-            
-            return False
-        except Exception as e:
-            logger.error(f"检查验证码页面时出错: {e}")
-            return False
-    
-    def _is_access_denied(self):
-        """检查是否访问被拒绝"""
-        try:
-            denied_indicators = [
-                "access denied", "denied access", "blocked", 
-                "访问被拒绝", "拒绝访问", "禁止访问", "无法访问"
-            ]
-            
-            page_source = self.browser.page_source.lower()
-            for indicator in denied_indicators:
-                if indicator in page_source:
-                    return True
-            
-            return False
-        except Exception as e:
-            logger.error(f"检查访问拒绝时出错: {e}")
-            return False
-    
-    def _scroll_page(self):
-        """模拟滚动页面以加载更多内容"""
-        try:
-            # 获取页面高度
-            last_height = self.browser.execute_script("return document.body.scrollHeight")
-            
-            # 随机滚动3-5次
-            scroll_count = random.randint(3, 5)
-            
-            for i in range(scroll_count):
-                # 滚动到页面底部
-                self.browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-                
-                # 添加随机等待时间，模拟真实用户行为
-                time.sleep(random.uniform(1, 2))
-                
-                # 计算新的滚动高度
-                new_height = self.browser.execute_script("return document.body.scrollHeight")
-                
-                # 如果高度没有变化，说明已经到底部
-                if new_height == last_height:
-                    break
-                
-                last_height = new_height
-                
-            # 随机滚动回页面中部
-            middle_position = last_height / 2
-            self.browser.execute_script(f"window.scrollTo(0, {middle_position});")
-            time.sleep(random.uniform(1, 2))
+            return articles
             
         except Exception as e:
-            logger.error(f"滚动页面时出错: {e}")
+            logger.error(f"搜索Bing新闻时出错: {e}")
+            return []
+        finally:
+            if browser:
+                try:
+                    browser.quit()
+                    logger.info("浏览器已关闭")
+                except:
+                    pass
 
 
 def crawl_bing_news(company_name: str, limit: int = 20) -> Dict[str, Any]:

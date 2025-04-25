@@ -59,8 +59,8 @@ class LinkedInPublicCrawler:
         # 应用反爬虫延迟
         self.anticrawl.delay_request("www.google.com")
         
-        # 构建搜索URL
-        search_url = self.SEARCH_URL.format(keyword=company_name.replace(' ', '+'))
+        # 构建更精确的搜索URL - 添加引号使搜索更精确
+        search_url = self.SEARCH_URL.format(keyword=f'"{company_name}"'.replace(' ', '+'))
         
         # 获取随机请求头
         headers = self.anticrawl.get_request_headers()
@@ -70,21 +70,45 @@ class LinkedInPublicCrawler:
         try:
             browser.get(search_url)
             
-            # 等待页面加载
-            time.sleep(3)
+            # 增加等待时间，确保页面完全加载
+            time.sleep(5)
             
             # 获取页面内容
             page_source = browser.page_source
             
+            # 保存原始数据用于调试
+            self.storage.save_raw_data("linkedin_search", page_source, company_name)
+            
             # 解析搜索结果
             selector = Selector(text=page_source)
             
-            # 查找LinkedIn公司页面链接
+            # 查找LinkedIn公司页面链接 - 改进正则表达式匹配
             for link in selector.css('a::attr(href)').getall():
+                # 检查链接是否包含LinkedIn公司页面URL
                 if "linkedin.com/company/" in link:
-                    match = re.search(r'(https://\w+\.linkedin\.com/company/[^&]+)', link)
+                    # 尝试从Google搜索结果URL中提取LinkedIn URL
+                    match = re.search(r'(?:https?:\/\/)?(?:www\.)?linkedin\.com\/company\/[^&\s/?]+', link)
                     if match:
-                        return match.group(1)
+                        linkedin_url = match.group(0)
+                        if not linkedin_url.startswith('http'):
+                            linkedin_url = 'https://' + linkedin_url
+                        logger.info(f"Found LinkedIn page: {linkedin_url}")
+                        return linkedin_url
+            
+            # 尝试直接构建可能的LinkedIn URL作为备选方案
+            normalized_name = company_name.lower().replace(' ', '-').replace(',', '').replace('.', '')
+            alternative_url = f"https://www.linkedin.com/company/{normalized_name}"
+            logger.info(f"Trying alternative LinkedIn URL: {alternative_url}")
+            
+            # 验证这个备选URL是否有效
+            try:
+                browser.get(alternative_url)
+                time.sleep(3)
+                if "Page not found" not in browser.title and "error" not in browser.title.lower():
+                    logger.info(f"Alternative LinkedIn URL is valid: {alternative_url}")
+                    return alternative_url
+            except Exception as e:
+                logger.warning(f"Error checking alternative URL: {e}")
             
             logger.info(f"No LinkedIn company page found for {company_name}")
             return None

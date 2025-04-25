@@ -1,0 +1,108 @@
+{
+  "source": "environmental_compliance",
+  "eia_reports": [
+    {
+      "project_name": "HSBC Residential Development at Sha Tin",
+      "project_type": "Residential Development",
+      "district": "Sha Tin",
+      "submission_date": "2017-02-22",
+      "approval_date": "2018-02-22",
+      "status": "Approved",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_785_2018.pdf",
+      "assessment_summary": "The project involves residential development in Sha Tin district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "HSBC Commercial Development at Tsuen Wan",
+      "project_type": "Commercial Development",
+      "district": "Tsuen Wan",
+      "submission_date": "2018-03-24",
+      "approval_date": "2019-03-24",
+      "status": "Approved with conditions",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_786_2019.pdf",
+      "assessment_summary": "The project involves commercial development in Tsuen Wan district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "HSBC Infrastructure Project at Yuen Long",
+      "project_type": "Infrastructure Project",
+      "district": "Yuen Long",
+      "submission_date": "2019-04-26",
+      "approval_date": null,
+      "status": "Further Information Required",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_787_2020.pdf",
+      "assessment_summary": "The project involves infrastructure project in Yuen Long district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "HSBC Road Construction at Eastern",
+      "project_type": "Road Construction",
+      "district": "Eastern",
+      "submission_date": "2020-05-28",
+      "approval_date": null,
+      "status": "Under Review",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_788_2021.pdf",
+      "assessment_summary": "The project involves road construction in Eastern district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "HSBC Reclamation Works at Wan Chai",
+      "project_type": "Reclamation Works",
+      "district": "Wan Chai",
+      "submission_date": "2021-06-02",
+      "approval_date": "2022-06-02",
+      "status": "Approved",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_789_2022.pdf",
+      "assessment_summary": "The project involves reclamation works in Wan Chai district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    }
+  ],
+  "green_certifications": [
+    {
+      "building_name": "HSBC Office Building Tower",
+      "building_type": "Office Building",
+      "certification_type": "BEAM Plus New Buildings",
+      "rating": "Gold",
+      "issue_date": "2018-02-22",
+      "valid_until": "2021-02-22",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/0_785.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "HSBC Residential Building Tower 2",
+      "building_type": "Residential Building",
+      "certification_type": "BEAM Plus Interiors",
+      "rating": "Provisional Gold",
+      "issue_date": "2019-03-24",
+      "valid_until": "2022-03-24",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/2_786.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "HSBC Hotel Tower 3",
+      "building_type": "Hotel",
+      "certification_type": "LEED Certification",
+      "rating": "Gold",
+      "issue_date": "2020-04-26",
+      "valid_until": "2023-04-26",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/4_787.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "HSBC Shopping Mall Tower 4",
+      "building_type": "Shopping Mall",
+      "certification_type": "Carbon Reduction Certificate",
+      "rating": "Provisional Gold",
+      "issue_date": "2021-05-28",
+      "valid_until": "2024-05-28",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/6_788.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "HSBC Mixed-use Development Tower 5",
+      "building_type": "Mixed-use Development",
+      "certification_type": "BEAM Plus Existing Buildings",
+      "rating": "Gold",
+      "issue_date": "2022-06-02",
+      "valid_until": "2025-06-02",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/1_789.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    }
+  ],
+  "violations": []
+}
