@@ -1,4 +1,4 @@
-# RiverInfos - Construction Company Information Crawler
+# RiverInfos - Construction Company Information Crawler (Updated)
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.0+-red.svg)
