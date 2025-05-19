@@ -1,0 +1,136 @@
+{
+  "source": "environmental_compliance",
+  "eia_reports": [
+    {
+      "project_name": "Pacific Marble & Granite (H.K.) Limited Reclamation Works at Wong Tai Sin",
+      "project_type": "Reclamation Works",
+      "district": "Wong Tai Sin",
+      "submission_date": "2017-02-26",
+      "approval_date": "2018-02-26",
+      "status": "Approved",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_61_2018.pdf",
+      "assessment_summary": "The project involves reclamation works in Wong Tai Sin district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "Pacific Marble & Granite (H.K.) Limited Industrial Development at Islands",
+      "project_type": "Industrial Development",
+      "district": "Islands",
+      "submission_date": "2018-03-28",
+      "approval_date": "2019-03-28",
+      "status": "Approved with conditions",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_62_2019.pdf",
+      "assessment_summary": "The project involves industrial development in Islands district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "Pacific Marble & Granite (H.K.) Limited Railway Project at North",
+      "project_type": "Railway Project",
+      "district": "North",
+      "submission_date": "2019-04-02",
+      "approval_date": null,
+      "status": "Further Information Required",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_63_2020.pdf",
+      "assessment_summary": "The project involves railway project in North district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "Pacific Marble & Granite (H.K.) Limited Residential Development at Sha Tin",
+      "project_type": "Residential Development",
+      "district": "Sha Tin",
+      "submission_date": "2020-05-04",
+      "approval_date": null,
+      "status": "Under Review",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_64_2021.pdf",
+      "assessment_summary": "The project involves residential development in Sha Tin district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "Pacific Marble & Granite (H.K.) Limited Commercial Development at Tsuen Wan",
+      "project_type": "Commercial Development",
+      "district": "Tsuen Wan",
+      "submission_date": "2021-06-06",
+      "approval_date": "2022-06-06",
+      "status": "Approved",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_65_2022.pdf",
+      "assessment_summary": "The project involves commercial development in Tsuen Wan district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    }
+  ],
+  "green_certifications": [
+    {
+      "building_name": "Pacific Marble & Granite (H.K.) Limited Mixed-use Development Tower",
+      "building_type": "Mixed-use Development",
+      "certification_type": "LEED Certification",
+      "rating": "Gold",
+      "issue_date": "2018-02-26",
+      "valid_until": "2021-02-26",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/4_61.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "Pacific Marble & Granite (H.K.) Limited Industrial Building Tower 2",
+      "building_type": "Industrial Building",
+      "certification_type": "Carbon Reduction Certificate",
+      "rating": "Provisional Gold",
+      "issue_date": "2019-03-28",
+      "valid_until": "2022-03-28",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/6_62.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "Pacific Marble & Granite (H.K.) Limited Public Facility Tower 3",
+      "building_type": "Public Facility",
+      "certification_type": "BEAM Plus Existing Buildings",
+      "rating": "Gold",
+      "issue_date": "2020-04-02",
+      "valid_until": "2023-04-02",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/1_63.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "Pacific Marble & Granite (H.K.) Limited Office Building Tower 4",
+      "building_type": "Office Building",
+      "certification_type": "BEAM Plus Neighbourhood",
+      "rating": "Provisional Gold",
+      "issue_date": "2021-05-04",
+      "valid_until": "2024-05-04",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/3_64.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "Pacific Marble & Granite (H.K.) Limited Residential Building Tower 5",
+      "building_type": "Residential Building",
+      "certification_type": "Green Building Award",
+      "rating": "Gold",
+      "issue_date": "2022-06-06",
+      "valid_until": "2025-06-06",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/5_65.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    }
+  ],
+  "violations": [
+    {
+      "violation_type": "Noise Control Ordinance",
+      "description": "Violation of section 25 of the Noise Control Ordinance",
+      "date": "2018-02-26",
+      "location": "Construction site at Central, Hong Kong",
+      "penalty": "Fine of HK$20,000",
+      "status": "Resolved",
+      "case_number": "ENV-2018-0061"
+    },
+    {
+      "violation_type": "Water Pollution Control Ordinance",
+      "description": "Violation of section 10 of the Water Pollution Control Ordinance",
+      "date": "2019-03-28",
+      "location": "Construction site at Wan Chai, Hong Kong",
+      "penalty": "Fine of HK$100,000",
+      "status": "Resolved",
+      "case_number": "ENV-2019-0062"
+    },
+    {
+      "violation_type": "Waste Disposal Ordinance",
+      "description": "Violation of section 11 of the Waste Disposal Ordinance",
+      "date": "2020-04-02",
+      "location": "Construction site at Tsim Sha Tsui, Hong Kong",
+      "penalty": "Fine of HK$10,000",
+      "status": "Resolved",
+      "case_number": "ENV-2020-0063"
+    }
+  ]
+}

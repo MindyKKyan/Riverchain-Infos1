@@ -1,0 +1,108 @@
+{
+  "source": "environmental_compliance",
+  "eia_reports": [
+    {
+      "project_name": "tencent Industrial Development at Wong Tai Sin",
+      "project_type": "Industrial Development",
+      "district": "Wong Tai Sin",
+      "submission_date": "2017-02-06",
+      "approval_date": "2018-02-06",
+      "status": "Approved",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_613_2018.pdf",
+      "assessment_summary": "The project involves industrial development in Wong Tai Sin district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "tencent Railway Project at Islands",
+      "project_type": "Railway Project",
+      "district": "Islands",
+      "submission_date": "2018-03-08",
+      "approval_date": "2019-03-08",
+      "status": "Approved with conditions",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_614_2019.pdf",
+      "assessment_summary": "The project involves railway project in Islands district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "tencent Residential Development at North",
+      "project_type": "Residential Development",
+      "district": "North",
+      "submission_date": "2019-04-10",
+      "approval_date": null,
+      "status": "Further Information Required",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_615_2020.pdf",
+      "assessment_summary": "The project involves residential development in North district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "tencent Commercial Development at Sha Tin",
+      "project_type": "Commercial Development",
+      "district": "Sha Tin",
+      "submission_date": "2020-05-12",
+      "approval_date": null,
+      "status": "Under Review",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_616_2021.pdf",
+      "assessment_summary": "The project involves commercial development in Sha Tin district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "tencent Infrastructure Project at Tsuen Wan",
+      "project_type": "Infrastructure Project",
+      "district": "Tsuen Wan",
+      "submission_date": "2021-06-14",
+      "approval_date": "2022-06-14",
+      "status": "Approved",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_617_2022.pdf",
+      "assessment_summary": "The project involves infrastructure project in Tsuen Wan district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    }
+  ],
+  "green_certifications": [
+    {
+      "building_name": "tencent Industrial Building Tower",
+      "building_type": "Industrial Building",
+      "certification_type": "Green Building Award",
+      "rating": "Gold",
+      "issue_date": "2018-02-06",
+      "valid_until": "2021-02-06",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/5_613.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "tencent Public Facility Tower 2",
+      "building_type": "Public Facility",
+      "certification_type": "BEAM Plus New Buildings",
+      "rating": "Provisional Gold",
+      "issue_date": "2019-03-08",
+      "valid_until": "2022-03-08",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/0_614.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "tencent Office Building Tower 3",
+      "building_type": "Office Building",
+      "certification_type": "BEAM Plus Interiors",
+      "rating": "Gold",
+      "issue_date": "2020-04-10",
+      "valid_until": "2023-04-10",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/2_615.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "tencent Residential Building Tower 4",
+      "building_type": "Residential Building",
+      "certification_type": "LEED Certification",
+      "rating": "Provisional Gold",
+      "issue_date": "2021-05-12",
+      "valid_until": "2024-05-12",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/4_616.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "tencent Hotel Tower 5",
+      "building_type": "Hotel",
+      "certification_type": "Carbon Reduction Certificate",
+      "rating": "Gold",
+      "issue_date": "2022-06-14",
+      "valid_until": "2025-06-14",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/6_617.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    }
+  ],
+  "violations": []
+}

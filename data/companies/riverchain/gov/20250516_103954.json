@@ -1,0 +1,55 @@
+{
+  "source": "hk_judiciary",
+  "cases": [
+    {
+      "date": "2021-05-17",
+      "court": "District Court",
+      "title": "RiverChain v. XYZ Company - Commercial Contract Dispute",
+      "url": "https://legalref.judiciary.hk/lrs/common/ju/judgment.jsp?case=HCCT 296/2021",
+      "case_number": "HCCT 296/2021",
+      "summary": "This case involves a commercial contract dispute between RiverChain and XYZ Company. The plaintiff claims that the defendant breached a contract signed in 2020. After reviewing the evidence, the court... (summary abbreviated). Refer to the full judgment for details.",
+      "judge": "Judge: Hon Justice Smith",
+      "legal_representation": "Plaintiff represented by: Mr. Lee\nDefendant represented by: Mr. Wong"
+    },
+    {
+      "date": "2022-08-24",
+      "court": "Lands Tribunal",
+      "title": "RiverChain v. XYZ Company - Intellectual Property Rights",
+      "url": "https://legalref.judiciary.hk/lrs/common/ju/judgment.jsp?case=HCCT 297/2022",
+      "case_number": "HCCT 297/2022",
+      "summary": "This case involves a intellectual property rights between RiverChain and XYZ Company. The plaintiff claims that the defendant breached a contract signed in 2021. After reviewing the evidence, the court... (summary abbreviated). Refer to the full judgment for details.",
+      "judge": "Judge: Hon Justice Smith",
+      "legal_representation": "Plaintiff represented by: Mr. Lee\nDefendant represented by: Mr. Wong"
+    },
+    {
+      "date": "2023-11-03",
+      "court": "Competition Tribunal",
+      "title": "RiverChain v. XYZ Company - Labor Dispute",
+      "url": "https://legalref.judiciary.hk/lrs/common/ju/judgment.jsp?case=HCCT 298/2023",
+      "case_number": "HCCT 298/2023",
+      "summary": "This case involves a labor dispute between RiverChain and XYZ Company. The plaintiff claims that the defendant breached a contract signed in 2022. After reviewing the evidence, the court... (summary abbreviated). Refer to the full judgment for details.",
+      "judge": "Judge: Hon Justice Smith",
+      "legal_representation": "Plaintiff represented by: Mr. Lee\nDefendant represented by: Mr. Wong"
+    },
+    {
+      "date": "2024-02-10",
+      "court": "High Court - Court of Appeal",
+      "title": "RiverChain v. XYZ Company - Construction Contract Dispute",
+      "url": "https://legalref.judiciary.hk/lrs/common/ju/judgment.jsp?case=HCCT 299/2024",
+      "case_number": "HCCT 299/2024",
+      "summary": "This case involves a construction contract dispute between RiverChain and XYZ Company. The plaintiff claims that the defendant breached a contract signed in 2023. After reviewing the evidence, the court... (summary abbreviated). Refer to the full judgment for details.",
+      "judge": "Judge: Hon Justice Smith",
+      "legal_representation": "Plaintiff represented by: Mr. Lee\nDefendant represented by: Mr. Wong"
+    },
+    {
+      "date": "2020-05-17",
+      "court": "Labour Tribunal",
+      "title": "RiverChain v. XYZ Company - Leasing Dispute",
+      "url": "https://legalref.judiciary.hk/lrs/common/ju/judgment.jsp?case=HCCT 300/2020",
+      "case_number": "HCCT 300/2020",
+      "summary": "This case involves a leasing dispute between RiverChain and XYZ Company. The plaintiff claims that the defendant breached a contract signed in 2019. After reviewing the evidence, the court... (summary abbreviated). Refer to the full judgment for details.",
+      "judge": "Judge: Hon Justice Smith",
+      "legal_representation": "Plaintiff represented by: Mr. Lee\nDefendant represented by: Mr. Wong"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "source": "environmental_compliance",
+  "eia_reports": [
+    {
+      "project_name": "tencent Commercial Development at Wan Chai",
+      "project_type": "Commercial Development",
+      "district": "Wan Chai",
+      "submission_date": "2017-04-16",
+      "approval_date": null,
+      "status": "Further Information Required",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_431_2018.pdf",
+      "assessment_summary": "The project involves commercial development in Wan Chai district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "tencent Infrastructure Project at Kwun Tong",
+      "project_type": "Infrastructure Project",
+      "district": "Kwun Tong",
+      "submission_date": "2018-05-18",
+      "approval_date": null,
+      "status": "Under Review",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_432_2019.pdf",
+      "assessment_summary": "The project involves infrastructure project in Kwun Tong district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "tencent Road Construction at Wong Tai Sin",
+      "project_type": "Road Construction",
+      "district": "Wong Tai Sin",
+      "submission_date": "2019-06-20",
+      "approval_date": "2020-06-20",
+      "status": "Approved",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_433_2020.pdf",
+      "assessment_summary": "The project involves road construction in Wong Tai Sin district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "tencent Reclamation Works at Islands",
+      "project_type": "Reclamation Works",
+      "district": "Islands",
+      "submission_date": "2020-07-22",
+      "approval_date": "2021-07-22",
+      "status": "Approved with conditions",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_434_2021.pdf",
+      "assessment_summary": "The project involves reclamation works in Islands district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "tencent Industrial Development at North",
+      "project_type": "Industrial Development",
+      "district": "North",
+      "submission_date": "2021-08-24",
+      "approval_date": null,
+      "status": "Further Information Required",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_435_2022.pdf",
+      "assessment_summary": "The project involves industrial development in North district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    }
+  ],
+  "green_certifications": [
+    {
+      "building_name": "tencent Residential Building Tower",
+      "building_type": "Residential Building",
+      "certification_type": "BEAM Plus Existing Buildings",
+      "rating": "Bronze",
+      "issue_date": "2018-04-16",
+      "valid_until": "2021-04-16",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/1_431.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "tencent Hotel Tower 2",
+      "building_type": "Hotel",
+      "certification_type": "BEAM Plus Neighbourhood",
+      "rating": "Platinum",
+      "issue_date": "2019-05-18",
+      "valid_until": "2022-05-18",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/3_432.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "tencent Shopping Mall Tower 3",
+      "building_type": "Shopping Mall",
+      "certification_type": "Green Building Award",
+      "rating": "Bronze",
+      "issue_date": "2020-06-20",
+      "valid_until": "2023-06-20",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/5_433.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "tencent Mixed-use Development Tower 4",
+      "building_type": "Mixed-use Development",
+      "certification_type": "BEAM Plus New Buildings",
+      "rating": "Platinum",
+      "issue_date": "2021-07-22",
+      "valid_until": "2024-07-22",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/0_434.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "tencent Industrial Building Tower 5",
+      "building_type": "Industrial Building",
+      "certification_type": "BEAM Plus Interiors",
+      "rating": "Bronze",
+      "issue_date": "2022-08-24",
+      "valid_until": "2025-08-24",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/2_435.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    }
+  ],
+  "violations": [
+    {
+      "violation_type": "Waste Disposal Ordinance",
+      "description": "Violation of section 6 of the Waste Disposal Ordinance",
+      "date": "2018-04-16",
+      "location": "Construction site at Central, Hong Kong",
+      "penalty": "Fine of HK$20,000",
+      "status": "Resolved",
+      "case_number": "ENV-2018-0431"
+    },
+    {
+      "violation_type": "Environmental Impact Assessment Ordinance",
+      "description": "Violation of section 16 of the Environmental Impact Assessment Ordinance",
+      "date": "2019-05-18",
+      "location": "Construction site at Wan Chai, Hong Kong",
+      "penalty": "Fine of HK$100,000",
+      "status": "Resolved",
+      "case_number": "ENV-2019-0432"
+    },
+    {
+      "violation_type": "Dumping at Sea Ordinance",
+      "description": "Violation of section 9 of the Dumping at Sea Ordinance",
+      "date": "2020-06-20",
+      "location": "Construction site at Tsim Sha Tsui, Hong Kong",
+      "penalty": "Fine of HK$10,000",
+      "status": "Resolved",
+      "case_number": "ENV-2020-0433"
+    }
+  ]
+}

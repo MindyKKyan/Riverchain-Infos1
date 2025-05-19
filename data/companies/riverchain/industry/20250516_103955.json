@@ -1,0 +1,55 @@
+{
+  "source": "construction_qualifications",
+  "qualifications": [
+    {
+      "title": "Architectural Design Firm",
+      "issuing_authority": "Development Bureau, HKSAR Government",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2026-05-17",
+      "certification_number": "HKCQ-7296",
+      "status": "Active",
+      "url": "https://www.construction-cert.hk/cert/7296",
+      "description": "The Architectural Design Firm certification is issued to companies operating in the Architectural field by Development Bureau, HKSAR Government."
+    },
+    {
+      "title": "Building Materials Supplier Certification",
+      "issuing_authority": "Hong Kong Construction Association",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2027-08-24",
+      "certification_number": "HKCQ-7297",
+      "status": "Active",
+      "url": "https://www.construction-cert.hk/cert/7297",
+      "description": "The Building Materials Supplier Certification certification is issued to companies operating in the Building field by Hong Kong Construction Association."
+    },
+    {
+      "title": "Green Building Design Certification",
+      "issuing_authority": "Hong Kong Institution of Engineers",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2025-11-03",
+      "certification_number": "HKCQ-7298",
+      "status": "Active",
+      "url": "https://www.construction-cert.hk/cert/7298",
+      "description": "The Green Building Design Certification certification is issued to companies operating in the Green field by Hong Kong Institution of Engineers."
+    },
+    {
+      "title": "Safety Management Certification",
+      "issuing_authority": "Development Bureau, HKSAR Government",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2026-02-10",
+      "certification_number": "HKCQ-7299",
+      "status": "Active",
+      "url": "https://www.construction-cert.hk/cert/7299",
+      "description": "The Safety Management Certification certification is issued to companies operating in the Safety field by Development Bureau, HKSAR Government."
+    },
+    {
+      "title": "General Building Contractor",
+      "issuing_authority": "Hong Kong Construction Association",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2027-05-17",
+      "certification_number": "HKCQ-7300",
+      "status": "Active",
+      "url": "https://www.construction-cert.hk/cert/7300",
+      "description": "The General Building Contractor certification is issued to companies operating in the General field by Hong Kong Construction Association."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "source": "hk_companies_registry",
+  "results": [
+    {
+      "company_name": "riverchain Limited",
+      "company_number": "HC-698431",
+      "company_status": "Active",
+      "incorporation_date": "2015-06-15",
+      "address": "Floor 18, Central Plaza, 18 Harbour Road, Wanchai, Hong Kong",
+      "detail_url": "https://www.icris.cr.gov.hk/csci/detail?id=698431"
+    }
+  ]
+}

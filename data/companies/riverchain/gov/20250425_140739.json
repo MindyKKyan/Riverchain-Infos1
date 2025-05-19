@@ -1,0 +1,55 @@
+{
+  "source": "construction_qualifications",
+  "qualifications": [
+    {
+      "title": "Safety Management Certification",
+      "issuing_authority": "Buildings Department, HKSAR Government",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2027-12-16",
+      "certification_number": "HKCQ-0139",
+      "status": "Active",
+      "url": "https://www.construction-cert.hk/cert/0139",
+      "description": "The Safety Management Certification certification is issued to companies operating in the Safety field by Buildings Department, HKSAR Government."
+    },
+    {
+      "title": "General Building Contractor",
+      "issuing_authority": "Construction Industry Council",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2025-03-23",
+      "certification_number": "HKCQ-0140",
+      "status": "Active",
+      "url": "https://www.construction-cert.hk/cert/0140",
+      "description": "The General Building Contractor certification is issued to companies operating in the General field by Construction Industry Council."
+    },
+    {
+      "title": "Specialist Contractor (Concrete)",
+      "issuing_authority": "Hong Kong Institute of Architects",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2026-06-02",
+      "certification_number": "HKCQ-0141",
+      "status": "Active",
+      "url": "https://www.construction-cert.hk/cert/0141",
+      "description": "The Specialist Contractor (Concrete) certification is issued to companies operating in the Specialist field by Hong Kong Institute of Architects."
+    },
+    {
+      "title": "Specialist Contractor (Earthworks)",
+      "issuing_authority": "Buildings Department, HKSAR Government",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2027-09-09",
+      "certification_number": "HKCQ-0142",
+      "status": "Active",
+      "url": "https://www.construction-cert.hk/cert/0142",
+      "description": "The Specialist Contractor (Earthworks) certification is issued to companies operating in the Specialist field by Buildings Department, HKSAR Government."
+    },
+    {
+      "title": "Specialist Contractor (Foundation)",
+      "issuing_authority": "Construction Industry Council",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2025-12-16",
+      "certification_number": "HKCQ-0143",
+      "status": "Active",
+      "url": "https://www.construction-cert.hk/cert/0143",
+      "description": "The Specialist Contractor (Foundation) certification is issued to companies operating in the Specialist field by Construction Industry Council."
+    }
+  ]
+}

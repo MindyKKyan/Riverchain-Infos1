@@ -1,0 +1,55 @@
+{
+  "source": "construction_qualifications",
+  "qualifications": [
+    {
+      "title": "General Building Contractor",
+      "issuing_authority": "Development Bureau, HKSAR Government",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2026-11-23",
+      "certification_number": "HKCQ-4770",
+      "status": "Active",
+      "url": "https://www.construction-cert.hk/cert/4770",
+      "description": "The General Building Contractor certification is issued to companies operating in the General field by Development Bureau, HKSAR Government."
+    },
+    {
+      "title": "Specialist Contractor (Concrete)",
+      "issuing_authority": "Hong Kong Construction Association",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2027-02-02",
+      "certification_number": "HKCQ-4771",
+      "status": "Active",
+      "url": "https://www.construction-cert.hk/cert/4771",
+      "description": "The Specialist Contractor (Concrete) certification is issued to companies operating in the Specialist field by Hong Kong Construction Association."
+    },
+    {
+      "title": "Specialist Contractor (Earthworks)",
+      "issuing_authority": "Hong Kong Institution of Engineers",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2025-05-09",
+      "certification_number": "HKCQ-4772",
+      "status": "Active",
+      "url": "https://www.construction-cert.hk/cert/4772",
+      "description": "The Specialist Contractor (Earthworks) certification is issued to companies operating in the Specialist field by Hong Kong Institution of Engineers."
+    },
+    {
+      "title": "Specialist Contractor (Foundation)",
+      "issuing_authority": "Development Bureau, HKSAR Government",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2026-08-16",
+      "certification_number": "HKCQ-4773",
+      "status": "Active",
+      "url": "https://www.construction-cert.hk/cert/4773",
+      "description": "The Specialist Contractor (Foundation) certification is issued to companies operating in the Specialist field by Development Bureau, HKSAR Government."
+    },
+    {
+      "title": "Specialist Contractor (Structural Steel)",
+      "issuing_authority": "Hong Kong Construction Association",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2027-11-23",
+      "certification_number": "HKCQ-4774",
+      "status": "Active",
+      "url": "https://www.construction-cert.hk/cert/4774",
+      "description": "The Specialist Contractor (Structural Steel) certification is issued to companies operating in the Specialist field by Hong Kong Construction Association."
+    }
+  ]
+}

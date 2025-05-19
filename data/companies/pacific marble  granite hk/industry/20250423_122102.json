@@ -1,0 +1,55 @@
+{
+  "source": "construction_qualifications",
+  "qualifications": [
+    {
+      "title": "Specialist Contractor (Concrete)",
+      "issuing_authority": "Construction Industry Council",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2026-02-26",
+      "certification_number": "HKCQ-4061",
+      "status": "Active",
+      "url": "https://www.construction-cert.hk/cert/4061",
+      "description": "The Specialist Contractor (Concrete) certification is issued to companies operating in the Specialist field by Construction Industry Council."
+    },
+    {
+      "title": "Specialist Contractor (Earthworks)",
+      "issuing_authority": "Hong Kong Institute of Architects",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2027-05-05",
+      "certification_number": "HKCQ-4062",
+      "status": "Active",
+      "url": "https://www.construction-cert.hk/cert/4062",
+      "description": "The Specialist Contractor (Earthworks) certification is issued to companies operating in the Specialist field by Hong Kong Institute of Architects."
+    },
+    {
+      "title": "Specialist Contractor (Foundation)",
+      "issuing_authority": "Buildings Department, HKSAR Government",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2025-08-12",
+      "certification_number": "HKCQ-4063",
+      "status": "Active",
+      "url": "https://www.construction-cert.hk/cert/4063",
+      "description": "The Specialist Contractor (Foundation) certification is issued to companies operating in the Specialist field by Buildings Department, HKSAR Government."
+    },
+    {
+      "title": "Specialist Contractor (Structural Steel)",
+      "issuing_authority": "Construction Industry Council",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2026-11-19",
+      "certification_number": "HKCQ-4064",
+      "status": "Active",
+      "url": "https://www.construction-cert.hk/cert/4064",
+      "description": "The Specialist Contractor (Structural Steel) certification is issued to companies operating in the Specialist field by Construction Industry Council."
+    },
+    {
+      "title": "Specialist Contractor (Demolition)",
+      "issuing_authority": "Hong Kong Institute of Architects",
+      "issue_date": "2020-01-15",
+      "expiry_date": "2027-02-26",
+      "certification_number": "HKCQ-4065",
+      "status": "Active",
+      "url": "https://www.construction-cert.hk/cert/4065",
+      "description": "The Specialist Contractor (Demolition) certification is issued to companies operating in the Specialist field by Hong Kong Institute of Architects."
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "source": "environmental_compliance",
+  "eia_reports": [
+    {
+      "project_name": "riverchain Railway Project at Sha Tin",
+      "project_type": "Railway Project",
+      "district": "Sha Tin",
+      "submission_date": "2017-08-28",
+      "approval_date": null,
+      "status": "Further Information Required",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_431_2018.pdf",
+      "assessment_summary": "The project involves railway project in Sha Tin district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "riverchain Residential Development at Tsuen Wan",
+      "project_type": "Residential Development",
+      "district": "Tsuen Wan",
+      "submission_date": "2018-09-02",
+      "approval_date": null,
+      "status": "Under Review",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_432_2019.pdf",
+      "assessment_summary": "The project involves residential development in Tsuen Wan district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "riverchain Commercial Development at Yuen Long",
+      "project_type": "Commercial Development",
+      "district": "Yuen Long",
+      "submission_date": "2019-10-04",
+      "approval_date": "2020-10-04",
+      "status": "Approved",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_433_2020.pdf",
+      "assessment_summary": "The project involves commercial development in Yuen Long district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "riverchain Infrastructure Project at Eastern",
+      "project_type": "Infrastructure Project",
+      "district": "Eastern",
+      "submission_date": "2020-11-06",
+      "approval_date": "2021-11-06",
+      "status": "Approved with conditions",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_434_2021.pdf",
+      "assessment_summary": "The project involves infrastructure project in Eastern district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "riverchain Road Construction at Wan Chai",
+      "project_type": "Road Construction",
+      "district": "Wan Chai",
+      "submission_date": "2021-12-08",
+      "approval_date": null,
+      "status": "Further Information Required",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_435_2022.pdf",
+      "assessment_summary": "The project involves road construction in Wan Chai district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    }
+  ],
+  "green_certifications": [
+    {
+      "building_name": "riverchain Public Facility Tower",
+      "building_type": "Public Facility",
+      "certification_type": "Carbon Reduction Certificate",
+      "rating": "Gold",
+      "issue_date": "2018-08-28",
+      "valid_until": "2021-08-28",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/6_431.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "riverchain Office Building Tower 2",
+      "building_type": "Office Building",
+      "certification_type": "BEAM Plus Existing Buildings",
+      "rating": "Provisional Gold",
+      "issue_date": "2019-09-02",
+      "valid_until": "2022-09-02",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/1_432.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "riverchain Residential Building Tower 3",
+      "building_type": "Residential Building",
+      "certification_type": "BEAM Plus Neighbourhood",
+      "rating": "Gold",
+      "issue_date": "2020-10-04",
+      "valid_until": "2023-10-04",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/3_433.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "riverchain Hotel Tower 4",
+      "building_type": "Hotel",
+      "certification_type": "Green Building Award",
+      "rating": "Provisional Gold",
+      "issue_date": "2021-11-06",
+      "valid_until": "2024-11-06",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/5_434.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "riverchain Shopping Mall Tower 5",
+      "building_type": "Shopping Mall",
+      "certification_type": "BEAM Plus New Buildings",
+      "rating": "Gold",
+      "issue_date": "2022-12-08",
+      "valid_until": "2025-12-08",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/0_435.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    }
+  ],
+  "violations": [
+    {
+      "violation_type": "Noise Control Ordinance",
+      "description": "Violation of section 26 of the Noise Control Ordinance",
+      "date": "2018-08-28",
+      "location": "Construction site at Central, Hong Kong",
+      "penalty": "Fine of HK$20,000",
+      "status": "Resolved",
+      "case_number": "ENV-2018-0431"
+    },
+    {
+      "violation_type": "Water Pollution Control Ordinance",
+      "description": "Violation of section 23 of the Water Pollution Control Ordinance",
+      "date": "2019-09-02",
+      "location": "Construction site at Wan Chai, Hong Kong",
+      "penalty": "Fine of HK$100,000",
+      "status": "Resolved",
+      "case_number": "ENV-2019-0432"
+    },
+    {
+      "violation_type": "Waste Disposal Ordinance",
+      "description": "Violation of section 6 of the Waste Disposal Ordinance",
+      "date": "2020-10-04",
+      "location": "Construction site at Tsim Sha Tsui, Hong Kong",
+      "penalty": "Fine of HK$10,000",
+      "status": "Resolved",
+      "case_number": "ENV-2020-0433"
+    }
+  ]
+}

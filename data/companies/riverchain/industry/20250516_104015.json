@@ -1,0 +1,108 @@
+{
+  "source": "environmental_compliance",
+  "eia_reports": [
+    {
+      "project_name": "RiverChain Infrastructure Project at Kwai Tsing",
+      "project_type": "Infrastructure Project",
+      "district": "Kwai Tsing",
+      "submission_date": "2017-05-17",
+      "approval_date": "2018-05-17",
+      "status": "Approved with conditions",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_296_2018.pdf",
+      "assessment_summary": "The project involves infrastructure project in Kwai Tsing district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "RiverChain Road Construction at Sai Kung",
+      "project_type": "Road Construction",
+      "district": "Sai Kung",
+      "submission_date": "2018-06-19",
+      "approval_date": null,
+      "status": "Further Information Required",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_297_2019.pdf",
+      "assessment_summary": "The project involves road construction in Sai Kung district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "RiverChain Reclamation Works at Tai Po",
+      "project_type": "Reclamation Works",
+      "district": "Tai Po",
+      "submission_date": "2019-07-21",
+      "approval_date": null,
+      "status": "Under Review",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_298_2020.pdf",
+      "assessment_summary": "The project involves reclamation works in Tai Po district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "RiverChain Industrial Development at Tuen Mun",
+      "project_type": "Industrial Development",
+      "district": "Tuen Mun",
+      "submission_date": "2020-08-23",
+      "approval_date": "2021-08-23",
+      "status": "Approved",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_299_2021.pdf",
+      "assessment_summary": "The project involves industrial development in Tuen Mun district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "RiverChain Railway Project at Central and Western",
+      "project_type": "Railway Project",
+      "district": "Central and Western",
+      "submission_date": "2021-09-25",
+      "approval_date": "2022-09-25",
+      "status": "Approved with conditions",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_300_2022.pdf",
+      "assessment_summary": "The project involves railway project in Central and Western district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    }
+  ],
+  "green_certifications": [
+    {
+      "building_name": "RiverChain Hotel Tower",
+      "building_type": "Hotel",
+      "certification_type": "BEAM Plus Interiors",
+      "rating": "Provisional Gold",
+      "issue_date": "2018-05-17",
+      "valid_until": "2021-05-17",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/2_296.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "RiverChain Shopping Mall Tower 2",
+      "building_type": "Shopping Mall",
+      "certification_type": "LEED Certification",
+      "rating": "Gold",
+      "issue_date": "2019-06-19",
+      "valid_until": "2022-06-19",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/4_297.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "RiverChain Mixed-use Development Tower 3",
+      "building_type": "Mixed-use Development",
+      "certification_type": "Carbon Reduction Certificate",
+      "rating": "Provisional Gold",
+      "issue_date": "2020-07-21",
+      "valid_until": "2023-07-21",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/6_298.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "RiverChain Industrial Building Tower 4",
+      "building_type": "Industrial Building",
+      "certification_type": "BEAM Plus Existing Buildings",
+      "rating": "Gold",
+      "issue_date": "2021-08-23",
+      "valid_until": "2024-08-23",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/1_299.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "RiverChain Public Facility Tower 5",
+      "building_type": "Public Facility",
+      "certification_type": "BEAM Plus Neighbourhood",
+      "rating": "Provisional Gold",
+      "issue_date": "2022-09-25",
+      "valid_until": "2025-09-25",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/3_300.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    }
+  ],
+  "violations": []
+}

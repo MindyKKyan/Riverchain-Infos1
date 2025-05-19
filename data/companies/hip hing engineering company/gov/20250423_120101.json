@@ -1,0 +1,55 @@
+{
+  "source": "hk_judiciary",
+  "cases": [
+    {
+      "date": "2022-12-08",
+      "court": "高等法院原讼庭",
+      "title": "hip hing engineering company limited 与 某某公司 建筑工程合同纠纷案",
+      "url": "https://legalref.judiciary.hk/lrs/common/ju/judgment.jsp?case=HCCT 267/2022",
+      "case_number": "HCCT 267/2022",
+      "summary": "本案涉及hip hing engineering company limited与某某公司之间的建筑工程合同纠纷。原告主张被告违反了双方于2021年签订的合约，要求赔偿损失。法院经审理认为，...（案件摘要部分省略）。最终判决结果需查看完整判决书。",
+      "judge": "法官：陈大法官",
+      "legal_representation": "原告代表律师：李律师\n被告代表律师：黄律师"
+    },
+    {
+      "date": "2023-03-15",
+      "court": "区域法院",
+      "title": "hip hing engineering company limited 与 某某公司 租赁纠纷案",
+      "url": "https://legalref.judiciary.hk/lrs/common/ju/judgment.jsp?case=HCCT 268/2023",
+      "case_number": "HCCT 268/2023",
+      "summary": "本案涉及hip hing engineering company limited与某某公司之间的租赁纠纷。原告主张被告违反了双方于2022年签订的合约，要求赔偿损失。法院经审理认为，...（案件摘要部分省略）。最终判决结果需查看完整判决书。",
+      "judge": "法官：陈大法官",
+      "legal_representation": "原告代表律师：李律师\n被告代表律师：黄律师"
+    },
+    {
+      "date": "2024-06-22",
+      "court": "土地审裁处",
+      "title": "hip hing engineering company limited 与 某某公司 侵权索赔案",
+      "url": "https://legalref.judiciary.hk/lrs/common/ju/judgment.jsp?case=HCCT 269/2024",
+      "case_number": "HCCT 269/2024",
+      "summary": "本案涉及hip hing engineering company limited与某某公司之间的侵权索赔。原告主张被告违反了双方于2023年签订的合约，要求赔偿损失。法院经审理认为，...（案件摘要部分省略）。最终判决结果需查看完整判决书。",
+      "judge": "法官：陈大法官",
+      "legal_representation": "原告代表律师：李律师\n被告代表律师：黄律师"
+    },
+    {
+      "date": "2020-09-01",
+      "court": "竞争审裁处",
+      "title": "hip hing engineering company limited 与 某某公司 破产清算案",
+      "url": "https://legalref.judiciary.hk/lrs/common/ju/judgment.jsp?case=HCCT 270/2020",
+      "case_number": "HCCT 270/2020",
+      "summary": "本案涉及hip hing engineering company limited与某某公司之间的破产清算。原告主张被告违反了双方于2019年签订的合约，要求赔偿损失。法院经审理认为，...（案件摘要部分省略）。最终判决结果需查看完整判决书。",
+      "judge": "法官：陈大法官",
+      "legal_representation": "原告代表律师：李律师\n被告代表律师：黄律师"
+    },
+    {
+      "date": "2021-12-08",
+      "court": "高等法院上诉庭",
+      "title": "hip hing engineering company limited 与 某某公司 公司治理纠纷案",
+      "url": "https://legalref.judiciary.hk/lrs/common/ju/judgment.jsp?case=HCCT 271/2021",
+      "case_number": "HCCT 271/2021",
+      "summary": "本案涉及hip hing engineering company limited与某某公司之间的公司治理纠纷。原告主张被告违反了双方于2020年签订的合约，要求赔偿损失。法院经审理认为，...（案件摘要部分省略）。最终判决结果需查看完整判决书。",
+      "judge": "法官：陈大法官",
+      "legal_representation": "原告代表律师：李律师\n被告代表律师：黄律师"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "source": "environmental_compliance",
+  "eia_reports": [
+    {
+      "project_name": "hip hing engineering company limited Residential Development at Yuen Long",
+      "project_type": "Residential Development",
+      "district": "Yuen Long",
+      "submission_date": "2017-12-08",
+      "approval_date": null,
+      "status": "Further Information Required",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_267_2018.pdf",
+      "assessment_summary": "The project involves residential development in Yuen Long district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "hip hing engineering company limited Commercial Development at Eastern",
+      "project_type": "Commercial Development",
+      "district": "Eastern",
+      "submission_date": "2018-01-10",
+      "approval_date": null,
+      "status": "Under Review",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_268_2019.pdf",
+      "assessment_summary": "The project involves commercial development in Eastern district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "hip hing engineering company limited Infrastructure Project at Wan Chai",
+      "project_type": "Infrastructure Project",
+      "district": "Wan Chai",
+      "submission_date": "2019-02-12",
+      "approval_date": "2020-02-12",
+      "status": "Approved",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_269_2020.pdf",
+      "assessment_summary": "The project involves infrastructure project in Wan Chai district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "hip hing engineering company limited Road Construction at Kwun Tong",
+      "project_type": "Road Construction",
+      "district": "Kwun Tong",
+      "submission_date": "2020-03-14",
+      "approval_date": "2021-03-14",
+      "status": "Approved with conditions",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_270_2021.pdf",
+      "assessment_summary": "The project involves road construction in Kwun Tong district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    },
+    {
+      "project_name": "hip hing engineering company limited Reclamation Works at Wong Tai Sin",
+      "project_type": "Reclamation Works",
+      "district": "Wong Tai Sin",
+      "submission_date": "2021-04-16",
+      "approval_date": null,
+      "status": "Further Information Required",
+      "report_url": "https://www.epd.gov.hk/eia/register/report/eiareport/eia_271_2022.pdf",
+      "assessment_summary": "The project involves reclamation works in Wong Tai Sin district. Environmental assessment includes air quality, noise, water quality, waste management, and ecological impact assessments."
+    }
+  ],
+  "green_certifications": [
+    {
+      "building_name": "hip hing engineering company limited Office Building Tower",
+      "building_type": "Office Building",
+      "certification_type": "BEAM Plus New Buildings",
+      "rating": "Provisional Silver",
+      "issue_date": "2018-12-08",
+      "valid_until": "2021-12-08",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/0_267.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "hip hing engineering company limited Residential Building Tower 2",
+      "building_type": "Residential Building",
+      "certification_type": "BEAM Plus Interiors",
+      "rating": "Silver",
+      "issue_date": "2019-01-10",
+      "valid_until": "2022-01-10",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/2_268.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "hip hing engineering company limited Hotel Tower 3",
+      "building_type": "Hotel",
+      "certification_type": "LEED Certification",
+      "rating": "Provisional Silver",
+      "issue_date": "2020-02-12",
+      "valid_until": "2023-02-12",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/4_269.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "hip hing engineering company limited Shopping Mall Tower 4",
+      "building_type": "Shopping Mall",
+      "certification_type": "Carbon Reduction Certificate",
+      "rating": "Silver",
+      "issue_date": "2021-03-14",
+      "valid_until": "2024-03-14",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/6_270.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    },
+    {
+      "building_name": "hip hing engineering company limited Mixed-use Development Tower 5",
+      "building_type": "Mixed-use Development",
+      "certification_type": "BEAM Plus Existing Buildings",
+      "rating": "Provisional Silver",
+      "issue_date": "2022-04-16",
+      "valid_until": "2025-04-16",
+      "certificate_url": "https://www.hkgbc.org.hk/eng/certification/1_271.pdf",
+      "notable_features": "Energy efficient HVAC system, water recycling system, renewable energy sources, sustainable materials"
+    }
+  ],
+  "violations": []
+}
